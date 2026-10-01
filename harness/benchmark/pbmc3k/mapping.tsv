@@ -1,0 +1,23 @@
+tool	label	truth	coarse
+*	Naive CD4 T	Naive CD4 T	T
+*	Memory CD4 T	Memory CD4 T	T
+*	CD8 T	CD8 T	T
+*	B	B	B
+*	CD14+ Mono	CD14+ Mono	Mono
+*	FCGR3A+ Mono	FCGR3A+ Mono	Mono
+*	NK	NK	NK
+*	DC	DC	DC
+*	Platelet	Platelet	Platelet
+garnett	Unknown	ABSTAIN	Unmapped
+hitype	<UNKNOWN>	ABSTAIN	Unmapped
+garnett	B cell	B	B
+garnett	T cell	Unmapped	T
+garnett	Regulatory T cell	Unmapped	T
+garnett	Effector T cell	Unmapped	T
+garnett	Monocyte	CD14+ Mono,FCGR3A+ Mono	Mono
+garnett	Naive T cell	Naive CD4 T,CD8 T	T
+garnett	Langerhans cell	Unmapped	Unmapped
+scina	unknown	ABSTAIN	Unmapped
+sccatch	CD8 T, Memory CD4 T	CD8 T,Memory CD4 T	T
+*	Unknown	ABSTAIN	Unmapped
+*	unknown	ABSTAIN	Unmapped

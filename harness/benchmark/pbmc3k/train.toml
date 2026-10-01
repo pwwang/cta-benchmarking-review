@@ -1,0 +1,12 @@
+# --------------------------------------------------------------------------
+# WHAT   Marker-training config (pipeline MarkerTraining_pbmc3k) -- picks the training
+#        split and the identity column (`seurat_annotations`) for the weight trainer.
+# SOURCE harness/benchmark/pbmc3k/train.toml
+# --------------------------------------------------------------------------
+name = "MarkerTraining_pbmc3k"
+
+[InputData.in]
+infile = "benchmark/pbmc3k/data/pbmc3k_train.qs"
+
+[HitypeWeightTrainer_ScTypeDBfull.envs]
+ident = "seurat_annotations"

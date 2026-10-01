@@ -1,0 +1,37 @@
+# --------------------------------------------------------------------------
+# WHAT   Config for annotation.py -- the original pbmc3k roster (cellassign, CellTypist,
+#        scHDeepInsight, ...). Pipeline name: CellTypeAnnotation_pbmc3k
+# SOURCE harness/benchmark/pbmc3k/annotation.toml
+# --------------------------------------------------------------------------
+# simpleconf-loadenv
+
+name = "CellTypeAnnotation_pbmc3k"
+
+[InputData.in]
+infile = "benchmark/pbmc3k/data/pbmc3k.qs"
+
+[CellTypeAnnotation_cellassign_ScTypeDbShort]
+lang = "$env:CELLASSIGN_RSCRIPT:default:Rscript"
+
+[CellTypeAnnotation_cellassign_ScTypeDbShort.envs.cellassign]
+python = "$env:CELLASSIGN_PYTHON:default:python"
+rel_tol_em = 0.1
+
+[CellTypeAnnotation_cellassign_ScTypeDbFull]
+lang = "$env:CELLASSIGN_RSCRIPT:default:Rscript"
+
+[CellTypeAnnotation_cellassign_ScTypeDbFull.envs.cellassign]
+python = "$env:CELLASSIGN_PYTHON:default:python"
+rel_tol_em = 0.1
+
+[CellTypeAnnotation_CellTypist_CellTypistImmuneAllHigh.envs.celltypist]
+python = "$env:CELLTYPPIST_PYTHON:default:python"
+
+[CellTypeAnnotation_CellTypist_CellTypistImmuneAllLow.envs.celltypist]
+python = "$env:CELLTYPPIST_PYTHON:default:python"
+
+[CellTypeAnnotation_scHDeepInsight_scHDeepInsightRef]
+lang = "$env:SCHDEEPINSIGHT_RSCRIPT:default:Rscript --vanilla"
+
+[CellTypeAnnotation_scHDeepInsight_scHDeepInsightRef.envs.schdeepinsight]
+python = "$env:SCHDEEPINSIGHT_PYTHON:default:python"

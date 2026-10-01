@@ -1,0 +1,2801 @@
+species	tissue	cancer	cell_type	gene	direction	weight	level
+Human	Blood	Normal	Effector T cell	CCL5	positive	1	1
+Human	Blood	Normal	Effector T cell	AC105446.1	positive	1	1
+Human	Blood	Normal	Effector T cell	TRGC2	positive	1	1
+Human	Blood	Normal	Effector T cell	AL035701.1	positive	1	1
+Human	Blood	Normal	Effector T cell	LINC002481	positive	1	1
+Human	Blood	Normal	Effector T cell	TBKBP1	positive	1	1
+Human	Blood	Normal	Effector T cell	AL512310.2	positive	1	1
+Human	Blood	Normal	Effector T cell	UTS2	positive	1	1
+Human	Blood	Normal	Effector T cell	KLRG1	positive	1	1
+Human	Blood	Normal	Effector T cell	PAM	positive	1	1
+Human	Blood	Normal	Effector T cell	XPNPEP2	positive	1	1
+Human	Blood	Normal	Effector T cell	SYTL2	positive	1	1
+Human	Blood	Normal	Effector T cell	CALR3	positive	1	1
+Human	Blood	Normal	Effector T cell	RN7SKP63	positive	1	1
+Human	Blood	Normal	Effector T cell	MICE	positive	1	1
+Human	Blood	Normal	Effector T cell	GFI1	positive	1	1
+Human	Blood	Normal	Effector T cell	PYHIN1	positive	1	1
+Human	Blood	Normal	Effector T cell	TRAV23DV6	positive	1	1
+Human	Blood	Normal	Effector T cell	ZNF683	positive	1	1
+Human	Blood	Normal	Effector T cell	MIR6801	positive	1	1
+Human	Blood	Normal	Effector T cell	KLRB1	positive	1	1
+Human	Blood	Normal	Effector T cell	TRGC1	positive	1	1
+Human	Blood	Normal	Effector T cell	GZMA	positive	1	1
+Human	Blood	Normal	Effector T cell	RASGEF1A	positive	1	1
+Human	Blood	Normal	Effector T cell	IGLV3-12	positive	1	1
+Human	Blood	Normal	Effector T cell	RAB11FIP5	positive	1	1
+Human	Blood	Normal	Effector T cell	MYO6	positive	1	1
+Human	Blood	Normal	Effector T cell	KIR3DX1	positive	1	1
+Human	Blood	Normal	Effector T cell	DUSP2	positive	1	1
+Human	Blood	Normal	Effector T cell	SAMD3	positive	1	1
+Human	Blood	Normal	Effector T cell	ZNF365	positive	1	1
+Human	Blood	Normal	Effector T cell	AC103702.2	positive	1	1
+Human	Blood	Normal	Effector T cell	STYK1	positive	1	1
+Human	Blood	Normal	Effector T cell	AC022167.3	positive	1	1
+Human	Blood	Normal	Effector T cell	KLRK1	positive	1	1
+Human	Blood	Normal	Effector T cell	GNLY	positive	1	1
+Human	Blood	Normal	Effector T cell	SCD5	positive	1	1
+Human	Blood	Normal	Effector T cell	VN1R82P	positive	1	1
+Human	Blood	Normal	Effector T cell	C16orf45	positive	1	1
+Human	Blood	Normal	Effector T cell	CST7	positive	1	1
+Human	Blood	Normal	Effector T cell	PPP2R2B	positive	1	1
+Human	Blood	Normal	Effector T cell	IRAK2	positive	1	1
+Human	Blood	Normal	Effector T cell	PRDM1	positive	1	1
+Human	Blood	Normal	Effector T cell	RCAN2	positive	1	1
+Human	Blood	Normal	Effector T cell	STOM	positive	1	1
+Human	Blood	Normal	Effector T cell	AC104958.2	positive	1	1
+Human	Blood	Normal	Effector T cell	TGFBR3	positive	1	1
+Human	Blood	Normal	Effector T cell	CTSW	positive	1	1
+Human	Blood	Normal	Effector T cell	KIF19	positive	1	1
+Human	Blood	Normal	Effector T cell	LINC00427	positive	1	1
+Human	Blood	Normal	Effector T cell	CASTOR2	positive	1	1
+Human	Blood	Normal	Effector T cell	GPR68	positive	1	1
+Human	Blood	Normal	Effector T cell	CADM1	positive	1	1
+Human	Blood	Normal	Effector T cell	EIF3KP2	positive	1	1
+Human	Blood	Normal	Effector T cell	NKG7	positive	1	1
+Human	Blood	Normal	Effector T cell	TSPAN2	positive	1	1
+Human	Blood	Normal	Effector T cell	PPIAP21	positive	1	1
+Human	Blood	Normal	Effector T cell	MXRA7	positive	1	1
+Human	Blood	Normal	Effector T cell	AC090142.2	positive	1	1
+Human	Blood	Normal	Effector T cell	AC090152.1	positive	1	1
+Human	Blood	Normal	Effector T cell	C1orf61	positive	1	1
+Human	Blood	Normal	Effector T cell	TIGIT	positive	1	1
+Human	Blood	Normal	Effector T cell	CMC1	positive	1	1
+Human	Blood	Normal	Effector T cell	TRGV10	positive	1	1
+Human	Blood	Normal	Effector T cell	MIR4771-1	positive	1	1
+Human	Blood	Normal	Effector T cell	TTC16	positive	1	1
+Human	Blood	Normal	Effector T cell	U1	positive	1	1
+Human	Blood	Normal	Effector T cell	ZFYVE28	positive	1	1
+Human	Blood	Normal	Effector T cell	RNA5SP477	positive	1	1
+Human	Blood	Normal	Effector T cell	LINC01871	positive	1	1
+Human	Blood	Normal	Effector T cell	AZGP1P2	positive	1	1
+Human	Blood	Normal	Effector T cell	JAKMIP2	positive	1	1
+Human	Blood	Normal	Effector T cell	CCDC150	positive	1	1
+Human	Blood	Normal	Effector T cell	LYAR	positive	1	1
+Human	Blood	Normal	Effector T cell	EML2-AS1	positive	1	1
+Human	Blood	Normal	Effector T cell	MIR6869	positive	1	1
+Human	Blood	Normal	Effector T cell	ABCG2	positive	1	1
+Human	Blood	Normal	Effector T cell	PLEKHF1	positive	1	1
+Human	Blood	Normal	Effector T cell	GOLGA8M	positive	1	1
+Human	Blood	Normal	Effector T cell	PLCXD2	positive	1	1
+Human	Blood	Normal	Effector T cell	UNC45B	positive	1	1
+Human	Blood	Normal	Effector T cell	AC044802.2	positive	1	1
+Human	Blood	Normal	Effector T cell	AL021808.1	positive	1	1
+Human	Blood	Normal	Effector T cell	TRIM46	positive	1	1
+Human	Blood	Normal	Effector T cell	AL669942.1	positive	1	1
+Human	Blood	Normal	Effector T cell	AP001207.2	positive	1	1
+Human	Blood	Normal	Effector T cell	LINC01882	positive	1	1
+Human	Blood	Normal	Effector T cell	AC092636.1	positive	1	1
+Human	Blood	Normal	Effector T cell	GZMH	positive	1	1
+Human	Blood	Normal	Effector T cell	TRG-AS1	positive	1	1
+Human	Blood	Normal	Effector T cell	SPATA6L	positive	1	1
+Human	Blood	Normal	Effector T cell	LAIR2	positive	1	1
+Human	Blood	Normal	Effector T cell	LINC02084	positive	1	1
+Human	Blood	Normal	Effector T cell	LINC00092	positive	1	1
+Human	Blood	Normal	Effector T cell	CEP164P1	positive	1	1
+Human	Blood	Normal	Effector T cell	AC004908.2	positive	1	1
+Human	Blood	Normal	Effector T cell	APMAP	positive	1	1
+Human	Blood	Normal	Effector T cell	LINC00364	positive	1	1
+Human	Blood	Normal	Effector T cell	C12orf75	positive	1	1
+Human	Blood	Normal	Effector T cell	RBP5	positive	1	1
+Human	Blood	Normal	Monocyte	IGSF6	positive	1	1
+Human	Blood	Normal	Monocyte	LDLRAD3	positive	1	1
+Human	Blood	Normal	Monocyte	FCN1	positive	1	1
+Human	Blood	Normal	Monocyte	CD68	positive	1	1
+Human	Blood	Normal	Monocyte	RIN2	positive	1	1
+Human	Blood	Normal	Monocyte	CSTA	positive	1	1
+Human	Blood	Normal	Monocyte	SERPINA1	positive	1	1
+Human	Blood	Normal	Monocyte	FGL2	positive	1	1
+Human	Blood	Normal	Monocyte	PDK4	positive	1	1
+Human	Blood	Normal	Monocyte	IL1RN	positive	1	1
+Human	Blood	Normal	Monocyte	PID1	positive	1	1
+Human	Blood	Normal	Monocyte	CD300E	positive	1	1
+Human	Blood	Normal	Monocyte	TNFRSF10C	positive	1	1
+Human	Blood	Normal	Monocyte	VSTM1	positive	1	1
+Human	Blood	Normal	Monocyte	CLEC4A	positive	1	1
+Human	Blood	Normal	Monocyte	P2RY13	positive	1	1
+Human	Blood	Normal	Monocyte	FCGR2A	positive	1	1
+Human	Blood	Normal	Monocyte	TREM1	positive	1	1
+Human	Blood	Normal	Monocyte	LILRA5	positive	1	1
+Human	Blood	Normal	Monocyte	LINC01503	positive	1	1
+Human	Blood	Normal	Monocyte	OR52K3P	positive	1	1
+Human	Blood	Normal	Monocyte	PRAM1	positive	1	1
+Human	Blood	Normal	Monocyte	IRAK3	positive	1	1
+Human	Blood	Normal	Monocyte	OSCAR	positive	1	1
+Human	Blood	Normal	Monocyte	MNDA	positive	1	1
+Human	Blood	Normal	Monocyte	MIR6502	positive	1	1
+Human	Blood	Normal	Monocyte	LRMDA	positive	1	1
+Human	Blood	Normal	Monocyte	SLC46A2	positive	1	1
+Human	Blood	Normal	Monocyte	SLC7A7	positive	1	1
+Human	Blood	Normal	Monocyte	RNU6-917P	positive	1	1
+Human	Blood	Normal	Monocyte	GAS2L1	positive	1	1
+Human	Blood	Normal	Monocyte	NCF2	positive	1	1
+Human	Blood	Normal	Monocyte	CLEC12A	positive	1	1
+Human	Blood	Normal	Monocyte	AC092111.3	positive	1	1
+Human	Blood	Normal	Monocyte	AGGF1P10	positive	1	1
+Human	Blood	Normal	Monocyte	EPB41L3	positive	1	1
+Human	Blood	Normal	Monocyte	CHST13	positive	1	1
+Human	Blood	Normal	Monocyte	BEST1	positive	1	1
+Human	Blood	Normal	Monocyte	PLAUR	positive	1	1
+Human	Blood	Normal	Monocyte	OLFM1	positive	1	1
+Human	Blood	Normal	Monocyte	TMEM176B	positive	1	1
+Human	Blood	Normal	Monocyte	MTMR11	positive	1	1
+Human	Blood	Normal	Monocyte	CST3	positive	1	1
+Human	Blood	Normal	Monocyte	ACRBP	positive	1	1
+Human	Blood	Normal	Monocyte	AC245036.5	positive	1	1
+Human	Blood	Normal	Monocyte	IFI30	positive	1	1
+Human	Blood	Normal	Monocyte	AC245128.3	positive	1	1
+Human	Blood	Normal	Monocyte	CPVL	positive	1	1
+Human	Blood	Normal	Monocyte	LILRB3	positive	1	1
+Human	Blood	Normal	Monocyte	LILRB2	positive	1	1
+Human	Blood	Normal	Monocyte	C19orf38	positive	1	1
+Human	Blood	Normal	Monocyte	MCTP1	positive	1	1
+Human	Blood	Normal	Monocyte	LINC00989	positive	1	1
+Human	Blood	Normal	Monocyte	AC090559.1	positive	1	1
+Human	Blood	Normal	Monocyte	PLXDC2	positive	1	1
+Human	Blood	Normal	Monocyte	NFAM1	positive	1	1
+Human	Blood	Normal	Monocyte	CD302	positive	1	1
+Human	Blood	Normal	Monocyte	DUSP6	positive	1	1
+Human	Blood	Normal	Monocyte	HSPA6	positive	1	1
+Human	Blood	Normal	Monocyte	EMILIN2	positive	1	1
+Human	Blood	Normal	Monocyte	FRMD3	positive	1	1
+Human	Blood	Normal	Monocyte	TNFSF13B	positive	1	1
+Human	Blood	Normal	Monocyte	CLEC7A	positive	1	1
+Human	Blood	Normal	Monocyte	ZNF185	positive	1	1
+Human	Blood	Normal	Monocyte	FAM198B	positive	1	1
+Human	Blood	Normal	Monocyte	AC245884.7	positive	1	1
+Human	Blood	Normal	Monocyte	PLXNB2	positive	1	1
+Human	Blood	Normal	Monocyte	TNFAIP2	positive	1	1
+Human	Blood	Normal	Monocyte	SUOX	positive	1	1
+Human	Blood	Normal	Monocyte	NRGN	positive	1	1
+Human	Blood	Normal	Monocyte	C5AR1	positive	1	1
+Human	Blood	Normal	Monocyte	SIRPB1	positive	1	1
+Human	Blood	Normal	Monocyte	LRRC4	positive	1	1
+Human	Blood	Normal	Monocyte	PRRG4	positive	1	1
+Human	Blood	Normal	Monocyte	LST1	positive	1	1
+Human	Blood	Normal	Monocyte	CYBB	positive	1	1
+Human	Blood	Normal	Monocyte	LMO2	positive	1	1
+Human	Blood	Normal	Monocyte	LILRB5	positive	1	1
+Human	Blood	Normal	Monocyte	GBGT1	positive	1	1
+Human	Blood	Normal	Monocyte	FOLR2	positive	1	1
+Human	Blood	Normal	Monocyte	RNU1-123P	positive	1	1
+Human	Blood	Normal	Monocyte	PLBD1	positive	1	1
+Human	Blood	Normal	Monocyte	VNN1	positive	1	1
+Human	Blood	Normal	Monocyte	AP002358.2	positive	1	1
+Human	Blood	Normal	Monocyte	TMEM176A	positive	1	1
+Human	Blood	Normal	Monocyte	SIGLEC14	positive	1	1
+Human	Blood	Normal	Monocyte	CD93	positive	1	1
+Human	Blood	Normal	Monocyte	AC097504.2	positive	1	1
+Human	Blood	Normal	Monocyte	UPK3A	positive	1	1
+Human	Blood	Normal	Monocyte	NID1	positive	1	1
+Human	Blood	Normal	Monocyte	LRRC25	positive	1	1
+Human	Blood	Normal	Monocyte	CEACAM3	positive	1	1
+Human	Blood	Normal	Monocyte	ADORA3	positive	1	1
+Human	Blood	Normal	Monocyte	FPR1	positive	1	1
+Human	Blood	Normal	Monocyte	HNMT	positive	1	1
+Human	Blood	Normal	Monocyte	LILRA2	positive	1	1
+Human	Blood	Normal	Monocyte	SLC31A2	positive	1	1
+Human	Blood	Normal	Monocyte	MARCO	positive	1	1
+Human	Blood	Normal	Monocyte	PILRA	positive	1	1
+Human	Blood	Normal	Monocyte	RBP7	positive	1	1
+Human	Blood	Normal	B cell	FCER2	positive	1	1
+Human	Blood	Normal	B cell	IGHD	positive	1	1
+Human	Blood	Normal	B cell	VPREB3	positive	1	1
+Human	Blood	Normal	B cell	HLA-DOB	positive	1	1
+Human	Blood	Normal	B cell	AL139020.1	positive	1	1
+Human	Blood	Normal	B cell	MIR378I	positive	1	1
+Human	Blood	Normal	B cell	CD79A	positive	1	1
+Human	Blood	Normal	B cell	DSP	positive	1	1
+Human	Blood	Normal	B cell	BANK1	positive	1	1
+Human	Blood	Normal	B cell	MS4A1	positive	1	1
+Human	Blood	Normal	B cell	KLHL14	positive	1	1
+Human	Blood	Normal	B cell	FCRLA	positive	1	1
+Human	Blood	Normal	B cell	MIR5196	positive	1	1
+Human	Blood	Normal	B cell	CD72	positive	1	1
+Human	Blood	Normal	B cell	EBF1	positive	1	1
+Human	Blood	Normal	B cell	SCN3A	positive	1	1
+Human	Blood	Normal	B cell	SNX22	positive	1	1
+Human	Blood	Normal	B cell	KCNG1	positive	1	1
+Human	Blood	Normal	B cell	IGHM	positive	1	1
+Human	Blood	Normal	B cell	LINC01781	positive	1	1
+Human	Blood	Normal	B cell	AC133065.2	positive	1	1
+Human	Blood	Normal	B cell	LINC00926	positive	1	1
+Human	Blood	Normal	B cell	ABCB4	positive	1	1
+Human	Blood	Normal	B cell	IGKV2-26	positive	1	1
+Human	Blood	Normal	B cell	LINC01013	positive	1	1
+Human	Blood	Normal	B cell	CD24	positive	1	1
+Human	Blood	Normal	B cell	MIR548O	positive	1	1
+Human	Blood	Normal	B cell	CDK14	positive	1	1
+Human	Blood	Normal	B cell	COL19A1	positive	1	1
+Human	Blood	Normal	B cell	AL161781.2	positive	1	1
+Human	Blood	Normal	B cell	MIR5195	positive	1	1
+Human	Blood	Normal	B cell	PEG10	positive	1	1
+Human	Blood	Normal	B cell	TCL6	positive	1	1
+Human	Blood	Normal	B cell	UGT8	positive	1	1
+Human	Blood	Normal	B cell	AL355987.1	positive	1	1
+Human	Blood	Normal	B cell	TCL1A	positive	1	1
+Human	Blood	Normal	B cell	AC091045.1	positive	1	1
+Human	Blood	Normal	B cell	IGLJ1	positive	1	1
+Human	Blood	Normal	B cell	PAX5	positive	1	1
+Human	Blood	Normal	B cell	AC025279.1	positive	1	1
+Human	Blood	Normal	B cell	IGLC7	positive	1	1
+Human	Blood	Normal	B cell	AL137796.1	positive	1	1
+Human	Blood	Normal	B cell	BLK	positive	1	1
+Human	Blood	Normal	B cell	PKIG	positive	1	1
+Human	Blood	Normal	B cell	AC134043.2	positive	1	1
+Human	Blood	Normal	B cell	LINC01857	positive	1	1
+Human	Blood	Normal	B cell	AC131888.1	positive	1	1
+Human	Blood	Normal	B cell	IGHV1-18	positive	1	1
+Human	Blood	Normal	B cell	TCL1B	positive	1	1
+Human	Blood	Normal	B cell	PNOC	positive	1	1
+Human	Blood	Normal	B cell	AC099524.1	positive	1	1
+Human	Blood	Normal	B cell	PRICKLE1	positive	1	1
+Human	Blood	Normal	B cell	LARGE1	positive	1	1
+Human	Blood	Normal	B cell	SYNPO	positive	1	1
+Human	Blood	Normal	B cell	AC093331.1	positive	1	1
+Human	Blood	Normal	B cell	HMMR-AS1	positive	1	1
+Human	Blood	Normal	B cell	KRTAP4-9	positive	1	1
+Human	Blood	Normal	B cell	AC091138.1	positive	1	1
+Human	Blood	Normal	B cell	IGLV3-19	positive	1	1
+Human	Blood	Normal	B cell	IGHG3	positive	1	1
+Human	Blood	Normal	B cell	RUBCNL	positive	1	1
+Human	Blood	Normal	B cell	RALGPS2	positive	1	1
+Human	Blood	Normal	B cell	LAMC1	positive	1	1
+Human	Blood	Normal	B cell	LINC02541	positive	1	1
+Human	Blood	Normal	B cell	RGS7	positive	1	1
+Human	Blood	Normal	B cell	ZNF860	positive	1	1
+Human	Blood	Normal	B cell	OSBPL10	positive	1	1
+Human	Blood	Normal	B cell	AC244505.2	positive	1	1
+Human	Blood	Normal	B cell	CNTNAP2	positive	1	1
+Human	Blood	Normal	B cell	TLR10	positive	1	1
+Human	Blood	Normal	B cell	AC007620.1	positive	1	1
+Human	Blood	Normal	B cell	ZNF608	positive	1	1
+Human	Blood	Normal	B cell	IGLC3	positive	1	1
+Human	Blood	Normal	B cell	CR2	positive	1	1
+Human	Blood	Normal	B cell	UGT2B17	positive	1	1
+Human	Blood	Normal	B cell	LINC02397	positive	1	1
+Human	Blood	Normal	B cell	IGLC2	positive	1	1
+Human	Blood	Normal	B cell	TNFRSF13C	positive	1	1
+Human	Blood	Normal	B cell	IGLV9-49	positive	1	1
+Human	Blood	Normal	B cell	AC104971.4	positive	1	1
+Human	Blood	Normal	B cell	CA3-AS1	positive	1	1
+Human	Blood	Normal	B cell	RHBDL2	positive	1	1
+Human	Blood	Normal	B cell	MTRNR2L11	positive	1	1
+Human	Blood	Normal	B cell	TSGA10IP	positive	1	1
+Human	Blood	Normal	B cell	STK33	positive	1	1
+Human	Blood	Normal	B cell	CPNE5	positive	1	1
+Human	Blood	Normal	B cell	IGLC6	positive	1	1
+Human	Blood	Normal	B cell	BHLHE41	positive	1	1
+Human	Blood	Normal	B cell	AC023301.1	positive	1	1
+Human	Blood	Normal	B cell	GDF7	positive	1	1
+Human	Blood	Normal	B cell	FCRL1	positive	1	1
+Human	Blood	Normal	B cell	MAP2	positive	1	1
+Human	Blood	Normal	B cell	AC129492.2	positive	1	1
+Human	Blood	Normal	B cell	FAM111B	positive	1	1
+Human	Blood	Normal	B cell	FCRL5	positive	1	1
+Human	Blood	Normal	B cell	JADE3	positive	1	1
+Human	Blood	Normal	B cell	CD79B	positive	1	1
+Human	Blood	Normal	B cell	2-Mar	positive	1	1
+Human	Blood	Normal	B cell	AL512631.1	positive	1	1
+Human	Blood	Normal	B cell	PCDH9	positive	1	1
+Human	Blood	Normal	Naive T cell	MAL	positive	1	1
+Human	Blood	Normal	Naive T cell	AC005842.1	positive	1	1
+Human	Blood	Normal	Naive T cell	LINC02295	positive	1	1
+Human	Blood	Normal	Naive T cell	TCF7	positive	1	1
+Human	Blood	Normal	Naive T cell	ATG9B	positive	1	1
+Human	Blood	Normal	Naive T cell	AC013264.1	positive	1	1
+Human	Blood	Normal	Naive T cell	IL7R	positive	1	1
+Human	Blood	Normal	Naive T cell	TRAV13-2	positive	1	1
+Human	Blood	Normal	Naive T cell	MTUS1	positive	1	1
+Human	Blood	Normal	Naive T cell	TRAV12-3	positive	1	1
+Human	Blood	Normal	Naive T cell	TRAV8-4	positive	1	1
+Human	Blood	Normal	Naive T cell	KDF1	positive	1	1
+Human	Blood	Normal	Naive T cell	AL160396.2	positive	1	1
+Human	Blood	Normal	Naive T cell	RBM11	positive	1	1
+Human	Blood	Normal	Naive T cell	RASGRF2	positive	1	1
+Human	Blood	Normal	Naive T cell	RGCC	positive	1	1
+Human	Blood	Normal	Naive T cell	LEF1	positive	1	1
+Human	Blood	Normal	Naive T cell	LDHBP2	positive	1	1
+Human	Blood	Normal	Naive T cell	ACSL6	positive	1	1
+Human	Blood	Normal	Naive T cell	RCAN3	positive	1	1
+Human	Blood	Normal	Naive T cell	AC006026.3	positive	1	1
+Human	Blood	Normal	Naive T cell	HSBP1L1	positive	1	1
+Human	Blood	Normal	Naive T cell	BEX5	positive	1	1
+Human	Blood	Normal	Naive T cell	IFNL3P1	positive	1	1
+Human	Blood	Normal	Naive T cell	NOSIP	positive	1	1
+Human	Blood	Normal	Naive T cell	ZFYVE9	positive	1	1
+Human	Blood	Normal	Naive T cell	CMTM8	positive	1	1
+Human	Blood	Normal	Naive T cell	PLEKHB1	positive	1	1
+Human	Blood	Normal	Naive T cell	AC139720.1	positive	1	1
+Human	Blood	Normal	Naive T cell	LINC01891	positive	1	1
+Human	Blood	Normal	Naive T cell	SUSD4	positive	1	1
+Human	Blood	Normal	Naive T cell	OBSCN	positive	1	1
+Human	Blood	Normal	Naive T cell	TCEA3	positive	1	1
+Human	Blood	Normal	Naive T cell	FAM102A	positive	1	1
+Human	Blood	Normal	Naive T cell	DCHS1	positive	1	1
+Human	Blood	Normal	Naive T cell	LDHB	positive	1	1
+Human	Blood	Normal	Naive T cell	CD40LG	positive	1	1
+Human	Blood	Normal	Naive T cell	AC133644.2	positive	1	1
+Human	Blood	Normal	Naive T cell	EXPH5	positive	1	1
+Human	Blood	Normal	Naive T cell	PPP1R3F	positive	1	1
+Human	Blood	Normal	Naive T cell	SSTR3	positive	1	1
+Human	Blood	Normal	Naive T cell	CBR3	positive	1	1
+Human	Blood	Normal	Naive T cell	LTA	positive	1	1
+Human	Blood	Normal	Naive T cell	AL135903.1	positive	1	1
+Human	Blood	Normal	Naive T cell	CD248	positive	1	1
+Human	Blood	Normal	Naive T cell	NR3C2	positive	1	1
+Human	Blood	Normal	Naive T cell	TMEM204	positive	1	1
+Human	Blood	Normal	Naive T cell	C10orf35	positive	1	1
+Human	Blood	Normal	Naive T cell	VSIG1	positive	1	1
+Human	Blood	Normal	Naive T cell	AC008083.2	positive	1	1
+Human	Blood	Normal	Naive T cell	ZNF815P	positive	1	1
+Human	Blood	Normal	Naive T cell	KRT73-AS1	positive	1	1
+Human	Blood	Normal	Naive T cell	SUSD3	positive	1	1
+Human	Blood	Normal	Naive T cell	UBASH3A	positive	1	1
+Human	Blood	Normal	Naive T cell	PIK3IP1	positive	1	1
+Human	Blood	Normal	Naive T cell	MEOX1	positive	1	1
+Human	Blood	Normal	Naive T cell	TRAT1	positive	1	1
+Human	Blood	Normal	Naive T cell	AC079414.3	positive	1	1
+Human	Blood	Normal	Naive T cell	BCL9	positive	1	1
+Human	Blood	Normal	Naive T cell	TMIE	positive	1	1
+Human	Blood	Normal	Naive T cell	LEF1-AS1	positive	1	1
+Human	Blood	Normal	Naive T cell	IGHV1OR15-1	positive	1	1
+Human	Blood	Normal	Naive T cell	DPP4	positive	1	1
+Human	Blood	Normal	Naive T cell	FBXL16	positive	1	1
+Human	Blood	Normal	Naive T cell	MMP28	positive	1	1
+Human	Blood	Normal	Naive T cell	NELL2	positive	1	1
+Human	Blood	Normal	Naive T cell	TRAV41	positive	1	1
+Human	Blood	Normal	Naive T cell	TRAV8-2	positive	1	1
+Human	Blood	Normal	Naive T cell	ZDHHC9	positive	1	1
+Human	Blood	Normal	Naive T cell	SARDH	positive	1	1
+Human	Blood	Normal	Naive T cell	AC090948.3	positive	1	1
+Human	Blood	Normal	Naive T cell	KL	positive	1	1
+Human	Blood	Normal	Naive T cell	C2orf40	positive	1	1
+Human	Blood	Normal	Naive T cell	AC007993.3	positive	1	1
+Human	Blood	Normal	Naive T cell	FAM171A1	positive	1	1
+Human	Blood	Normal	Naive T cell	HKDC1	positive	1	1
+Human	Blood	Normal	Naive T cell	AP002884.3	positive	1	1
+Human	Blood	Normal	Naive T cell	RNF157-AS1	positive	1	1
+Human	Blood	Normal	Naive T cell	TRAC	positive	1	1
+Human	Blood	Normal	Naive T cell	RAB19	positive	1	1
+Human	Blood	Normal	Naive T cell	PCSK1N	positive	1	1
+Human	Blood	Normal	Naive T cell	TRABD2A	positive	1	1
+Human	Blood	Normal	Naive T cell	ATP6V0E2	positive	1	1
+Human	Blood	Normal	Naive T cell	MYC	positive	1	1
+Human	Blood	Normal	Naive T cell	METTL1	positive	1	1
+Human	Blood	Normal	Naive T cell	MIR98	positive	1	1
+Human	Blood	Normal	Naive T cell	PFN2	positive	1	1
+Human	Blood	Normal	Naive T cell	ST6GALNAC1	positive	1	1
+Human	Blood	Normal	Naive T cell	AC090948.1	positive	1	1
+Human	Blood	Normal	Naive T cell	AL358072.1	positive	1	1
+Human	Blood	Normal	Naive T cell	LDLRAP1	positive	1	1
+Human	Blood	Normal	Naive T cell	CCR7	positive	1	1
+Human	Blood	Normal	Naive T cell	CD28	positive	1	1
+Human	Blood	Normal	Naive T cell	RLN2	positive	1	1
+Human	Blood	Normal	Naive T cell	FLT3LG	positive	1	1
+Human	Blood	Normal	Naive T cell	DSEL	positive	1	1
+Human	Blood	Normal	Naive T cell	TMEM30B	positive	1	1
+Human	Blood	Normal	Naive T cell	TLE2	positive	1	1
+Human	Blood	Normal	Naive T cell	NPAS2	positive	1	1
+Human	Blood	Normal	Naive T cell	TRAV16	positive	1	1
+Human	Blood	Normal	Natural killer cell	KIR2DL3	positive	1	1
+Human	Blood	Normal	Natural killer cell	KLRF1	positive	1	1
+Human	Blood	Normal	Natural killer cell	HBA2	positive	1	1
+Human	Blood	Normal	Natural killer cell	SLCO4C1	positive	1	1
+Human	Blood	Normal	Natural killer cell	SPON2	positive	1	1
+Human	Blood	Normal	Natural killer cell	HBA1	positive	1	1
+Human	Blood	Normal	Natural killer cell	KIR3DL2	positive	1	1
+Human	Blood	Normal	Natural killer cell	KIR2DS4	positive	1	1
+Human	Blood	Normal	Natural killer cell	KIR2DL1	positive	1	1
+Human	Blood	Normal	Natural killer cell	ADGRG1	positive	1	1
+Human	Blood	Normal	Natural killer cell	FASLG	positive	1	1
+Human	Blood	Normal	Natural killer cell	FGFBP2	positive	1	1
+Human	Blood	Normal	Natural killer cell	DTHD1	positive	1	1
+Human	Blood	Normal	Natural killer cell	TRDC	positive	1	1
+Human	Blood	Normal	Natural killer cell	RNF165	positive	1	1
+Human	Blood	Normal	Natural killer cell	CD160	positive	1	1
+Human	Blood	Normal	Natural killer cell	TRDJ1	positive	1	1
+Human	Blood	Normal	Natural killer cell	KLRC2	positive	1	1
+Human	Blood	Normal	Natural killer cell	CCL4	positive	1	1
+Human	Blood	Normal	Natural killer cell	LINC01505	positive	1	1
+Human	Blood	Normal	Natural killer cell	LGR6	positive	1	1
+Human	Blood	Normal	Natural killer cell	SIGLEC17P	positive	1	1
+Human	Blood	Normal	Natural killer cell	PRSS23	positive	1	1
+Human	Blood	Normal	Natural killer cell	KLRD1	positive	1	1
+Human	Blood	Normal	Natural killer cell	LINC02384	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC008750.5	positive	1	1
+Human	Blood	Normal	Natural killer cell	IL18RAP	positive	1	1
+Human	Blood	Normal	Natural killer cell	DRAXIN	positive	1	1
+Human	Blood	Normal	Natural killer cell	KIR3DL1	positive	1	1
+Human	Blood	Normal	Natural killer cell	KLRC3	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC006033.2	positive	1	1
+Human	Blood	Normal	Natural killer cell	B3GAT1	positive	1	1
+Human	Blood	Normal	Natural killer cell	RAMP1	positive	1	1
+Human	Blood	Normal	Natural killer cell	TRDD3	positive	1	1
+Human	Blood	Normal	Natural killer cell	ERBB2	positive	1	1
+Human	Blood	Normal	Natural killer cell	MIR181A2HG	positive	1	1
+Human	Blood	Normal	Natural killer cell	TTC38	positive	1	1
+Human	Blood	Normal	Natural killer cell	FCRL6	positive	1	1
+Human	Blood	Normal	Natural killer cell	NMUR1	positive	1	1
+Human	Blood	Normal	Natural killer cell	TRGV7	positive	1	1
+Human	Blood	Normal	Natural killer cell	PTGDR	positive	1	1
+Human	Blood	Normal	Natural killer cell	TBX21	positive	1	1
+Human	Blood	Normal	Natural killer cell	C1orf21	positive	1	1
+Human	Blood	Normal	Natural killer cell	S1PR5	positive	1	1
+Human	Blood	Normal	Natural killer cell	NCR1	positive	1	1
+Human	Blood	Normal	Natural killer cell	DGKK	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC243829.4	positive	1	1
+Human	Blood	Normal	Natural killer cell	GZMB	positive	1	1
+Human	Blood	Normal	Natural killer cell	TRGVA	positive	1	1
+Human	Blood	Normal	Natural killer cell	NCAM1	positive	1	1
+Human	Blood	Normal	Natural killer cell	GOLGA8N	positive	1	1
+Human	Blood	Normal	Natural killer cell	PRSS30P	positive	1	1
+Human	Blood	Normal	Natural killer cell	PRF1	positive	1	1
+Human	Blood	Normal	Natural killer cell	TSGA13	positive	1	1
+Human	Blood	Normal	Natural killer cell	TRGJP	positive	1	1
+Human	Blood	Normal	Natural killer cell	GZMH	positive	1	1
+Human	Blood	Normal	Natural killer cell	CLIC3	positive	1	1
+Human	Blood	Normal	Natural killer cell	RGS9	positive	1	1
+Human	Blood	Normal	Natural killer cell	GNAL	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC116562.2	positive	1	1
+Human	Blood	Normal	Natural killer cell	CCL3	positive	1	1
+Human	Blood	Normal	Natural killer cell	ARVCF	positive	1	1
+Human	Blood	Normal	Natural killer cell	HOPX	positive	1	1
+Human	Blood	Normal	Natural killer cell	LINC00299	positive	1	1
+Human	Blood	Normal	Natural killer cell	XCL2	positive	1	1
+Human	Blood	Normal	Natural killer cell	NKG7	positive	1	1
+Human	Blood	Normal	Natural killer cell	SH2D1B	positive	1	1
+Human	Blood	Normal	Natural killer cell	RHOBTB3	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC243829.2	positive	1	1
+Human	Blood	Normal	Natural killer cell	SLC4A4	positive	1	1
+Human	Blood	Normal	Natural killer cell	TRGJP1	positive	1	1
+Human	Blood	Normal	Natural killer cell	FEZ1	positive	1	1
+Human	Blood	Normal	Natural killer cell	DLG5	positive	1	1
+Human	Blood	Normal	Natural killer cell	TRGJ2	positive	1	1
+Human	Blood	Normal	Natural killer cell	SLC1A7	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC105081.1	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC078925.1	positive	1	1
+Human	Blood	Normal	Natural killer cell	F2R	positive	1	1
+Human	Blood	Normal	Natural killer cell	GNLY	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC112220.1	positive	1	1
+Human	Blood	Normal	Natural killer cell	CERCAM	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC018552.3	positive	1	1
+Human	Blood	Normal	Natural killer cell	LIM2	positive	1	1
+Human	Blood	Normal	Natural killer cell	GFOD1	positive	1	1
+Human	Blood	Normal	Natural killer cell	AP003170.4	positive	1	1
+Human	Blood	Normal	Natural killer cell	CST7	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC124798.1	positive	1	1
+Human	Blood	Normal	Natural killer cell	ARHGAP8	positive	1	1
+Human	Blood	Normal	Natural killer cell	TFAP2E	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC131392.1	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC068775.2	positive	1	1
+Human	Blood	Normal	Natural killer cell	RNU6-1065P	positive	1	1
+Human	Blood	Normal	Natural killer cell	FTH1P22	positive	1	1
+Human	Blood	Normal	Natural killer cell	IFNG	positive	1	1
+Human	Blood	Normal	Natural killer cell	AC100827.5	positive	1	1
+Human	Blood	Normal	Natural killer cell	KRTAP5-8	positive	1	1
+Human	Blood	Normal	Natural killer cell	AL139035.1	positive	1	1
+Human	Blood	Normal	Natural killer cell	IL2RB	positive	1	1
+Human	Blood	Normal	Natural killer cell	AL031846.1	positive	1	1
+Human	Blood	Normal	Natural killer cell	LRRC43	positive	1	1
+Human	Blood	Normal	T cell	RPL5P32	positive	1	1
+Human	Blood	Normal	T cell	AKIRIN1P2	positive	1	1
+Human	Blood	Normal	T cell	AC114755.2	positive	1	1
+Human	Blood	Normal	T cell	AC010531.2	positive	1	1
+Human	Blood	Normal	T cell	SNORA32	positive	1	1
+Human	Blood	Normal	T cell	CERNA1	positive	1	1
+Human	Blood	Normal	T cell	LINC02520	positive	1	1
+Human	Blood	Normal	T cell	TPM3P2	positive	1	1
+Human	Blood	Normal	T cell	UBXN10-AS1	positive	1	1
+Human	Blood	Normal	T cell	Z82188.1	positive	1	1
+Human	Blood	Normal	T cell	TRAV14DV4	positive	1	1
+Human	Blood	Normal	T cell	CES4A	positive	1	1
+Human	Blood	Normal	T cell	ADAM23	positive	1	1
+Human	Blood	Normal	T cell	AC090013.1	positive	1	1
+Human	Blood	Normal	T cell	FAM209B	positive	1	1
+Human	Blood	Normal	T cell	AP000560.1	positive	1	1
+Human	Blood	Normal	T cell	AL357055.2	positive	1	1
+Human	Blood	Normal	T cell	AC008105.2	positive	1	1
+Human	Blood	Normal	T cell	AC015922.4	positive	1	1
+Human	Blood	Normal	T cell	CIAPIN1P	positive	1	1
+Human	Blood	Normal	T cell	SPCS2P1	positive	1	1
+Human	Blood	Normal	T cell	BCL2L14	positive	1	1
+Human	Blood	Normal	T cell	WDR86-AS1	positive	1	1
+Human	Blood	Normal	T cell	USP35	positive	1	1
+Human	Blood	Normal	T cell	SUMO2P12	positive	1	1
+Human	Blood	Normal	T cell	CXCL13	positive	1	1
+Human	Blood	Normal	T cell	AC012519.1	positive	1	1
+Human	Blood	Normal	T cell	AC132812.2	positive	1	1
+Human	Blood	Normal	T cell	GJA3	positive	1	1
+Human	Blood	Normal	T cell	AL592148.3	positive	1	1
+Human	Blood	Normal	T cell	AC073115.2	positive	1	1
+Human	Blood	Normal	T cell	SNORD73B	positive	1	1
+Human	Blood	Normal	T cell	AL445363.2	positive	1	1
+Human	Blood	Normal	T cell	AC010598.1	positive	1	1
+Human	Blood	Normal	T cell	AL451081.2	positive	1	1
+Human	Blood	Normal	T cell	PHBP21	positive	1	1
+Human	Blood	Normal	T cell	NAP1L5	positive	1	1
+Human	Blood	Normal	T cell	RPS26P8	positive	1	1
+Human	Blood	Normal	T cell	RPS27P29	positive	1	1
+Human	Blood	Normal	T cell	LMO7-AS1	positive	1	1
+Human	Blood	Normal	T cell	USP29	positive	1	1
+Human	Blood	Normal	T cell	PFN2	positive	1	1
+Human	Blood	Normal	T cell	RPL32P28	positive	1	1
+Human	Blood	Normal	T cell	PABPC1P10	positive	1	1
+Human	Blood	Normal	T cell	DEFB129	positive	1	1
+Human	Blood	Normal	T cell	RPL6P24	positive	1	1
+Human	Blood	Normal	T cell	KRT12	positive	1	1
+Human	Blood	Normal	T cell	AGBL5-AS1	positive	1	1
+Human	Blood	Normal	T cell	AC079944.2	positive	1	1
+Human	Blood	Normal	T cell	IL20	positive	1	1
+Human	Blood	Normal	T cell	COX5BP7	positive	1	1
+Human	Blood	Normal	T cell	LAMP3	positive	1	1
+Human	Blood	Normal	T cell	RPL21P6	positive	1	1
+Human	Blood	Normal	T cell	RNU6-306P	positive	1	1
+Human	Blood	Normal	T cell	RPSAP9	positive	1	1
+Human	Blood	Normal	T cell	TRAV17	positive	1	1
+Human	Blood	Normal	T cell	RPL5P25	positive	1	1
+Human	Blood	Normal	T cell	OR7E43P	positive	1	1
+Human	Blood	Normal	T cell	AP001094.2	positive	1	1
+Human	Blood	Normal	T cell	RPS27	positive	1	1
+Human	Blood	Normal	T cell	AC112206.1	positive	1	1
+Human	Blood	Normal	T cell	AKAP17A	positive	1	1
+Human	Blood	Normal	T cell	AL137074.1	positive	1	1
+Human	Blood	Normal	T cell	AL589647.1	positive	1	1
+Human	Blood	Normal	T cell	AC073896.2	positive	1	1
+Human	Blood	Normal	T cell	RNU5E-10P	positive	1	1
+Human	Blood	Normal	T cell	SNRPFP2	positive	1	1
+Human	Blood	Normal	T cell	CPT1C	positive	1	1
+Human	Blood	Normal	T cell	KRT1	positive	1	1
+Human	Blood	Normal	T cell	AC244452.4	positive	1	1
+Human	Blood	Normal	T cell	RPL21P13	positive	1	1
+Human	Blood	Normal	T cell	RFPL2	positive	1	1
+Human	Blood	Normal	T cell	RPS26P13	positive	1	1
+Human	Blood	Normal	T cell	PGLYRP2	positive	1	1
+Human	Blood	Normal	T cell	RPS26P39	positive	1	1
+Human	Blood	Normal	T cell	C9orf3	positive	1	1
+Human	Blood	Normal	T cell	AP000640.1	positive	1	1
+Human	Blood	Normal	T cell	RNU6-775P	positive	1	1
+Human	Blood	Normal	T cell	C12orf80	positive	1	1
+Human	Blood	Normal	T cell	AC011712.1	positive	1	1
+Human	Blood	Normal	T cell	AC139085.1	positive	1	1
+Human	Blood	Normal	T cell	RPL7AP57	positive	1	1
+Human	Blood	Normal	T cell	RPSAP26	positive	1	1
+Human	Blood	Normal	T cell	AC090061.1	positive	1	1
+Human	Blood	Normal	T cell	AC068888.1	positive	1	1
+Human	Blood	Normal	T cell	DGUOK-AS1	positive	1	1
+Human	Blood	Normal	T cell	UBE2WP1	positive	1	1
+Human	Blood	Normal	T cell	AC069544.2	positive	1	1
+Human	Blood	Normal	T cell	AL513165.1	positive	1	1
+Human	Blood	Normal	T cell	RANP6	positive	1	1
+Human	Blood	Normal	T cell	AC006262.1	positive	1	1
+Human	Blood	Normal	T cell	ZNF287	positive	1	1
+Human	Blood	Normal	T cell	FAM221A	positive	1	1
+Human	Blood	Normal	T cell	CCDC120	positive	1	1
+Human	Blood	Normal	T cell	GPR150	positive	1	1
+Human	Blood	Normal	T cell	AC005912.1	positive	1	1
+Human	Blood	Normal	T cell	RPL23AP2	positive	1	1
+Human	Blood	Normal	T cell	IGHV1OR15-1	positive	1	1
+Human	Blood	Normal	T cell	AL021877.1	positive	1	1
+Human	Blood	Normal	T cell	AP000936.3	positive	1	1
+Human	Blood	Normal	Mast cell	GATA2	positive	1	1
+Human	Blood	Normal	Mast cell	EME1	positive	1	1
+Human	Blood	Normal	Mast cell	RNU6-444P	positive	1	1
+Human	Blood	Normal	Mast cell	AL117339.4	positive	1	1
+Human	Blood	Normal	Mast cell	CLC	positive	1	1
+Human	Blood	Normal	Mast cell	MS4A2	positive	1	1
+Human	Blood	Normal	Mast cell	CPA3	positive	1	1
+Human	Blood	Normal	Mast cell	OR2I1P	positive	1	1
+Human	Blood	Normal	Mast cell	EXOC3L2	positive	1	1
+Human	Blood	Normal	Mast cell	MS4A3	positive	1	1
+Human	Blood	Normal	Mast cell	LINC01529	positive	1	1
+Human	Blood	Normal	Mast cell	AKAP12	positive	1	1
+Human	Blood	Normal	Mast cell	LINC01764	positive	1	1
+Human	Blood	Normal	Mast cell	GPR142	positive	1	1
+Human	Blood	Normal	Mast cell	FAM83F	positive	1	1
+Human	Blood	Normal	Mast cell	AC009962.1	positive	1	1
+Human	Blood	Normal	Mast cell	AP002907.1	positive	1	1
+Human	Blood	Normal	Mast cell	TRIM51EP	positive	1	1
+Human	Blood	Normal	Mast cell	CYCSP11	positive	1	1
+Human	Blood	Normal	Mast cell	AP001767.4	positive	1	1
+Human	Blood	Normal	Mast cell	LINC02458	positive	1	1
+Human	Blood	Normal	Mast cell	MTDHP3	positive	1	1
+Human	Blood	Normal	Mast cell	DLGAP1-AS3	positive	1	1
+Human	Blood	Normal	Mast cell	AC106895.2	positive	1	1
+Human	Blood	Normal	Mast cell	AC111000.4	positive	1	1
+Human	Blood	Normal	Mast cell	AL049697.1	positive	1	1
+Human	Blood	Normal	Mast cell	ARHGAP28	positive	1	1
+Human	Blood	Normal	Mast cell	PPM1H	positive	1	1
+Human	Blood	Normal	Mast cell	AC068448.1	positive	1	1
+Human	Blood	Normal	Mast cell	AP001363.2	positive	1	1
+Human	Blood	Normal	Mast cell	MIR372	positive	1	1
+Human	Blood	Normal	Mast cell	HDC	positive	1	1
+Human	Blood	Normal	Mast cell	IL1RL1	positive	1	1
+Human	Blood	Normal	Mast cell	AP000808.1	positive	1	1
+Human	Blood	Normal	Mast cell	CCR3	positive	1	1
+Human	Blood	Normal	Mast cell	RNU7-54P	positive	1	1
+Human	Blood	Normal	Mast cell	AL606834.2	positive	1	1
+Human	Blood	Normal	Mast cell	AC010320.4	positive	1	1
+Human	Blood	Normal	Mast cell	LINC00265	positive	1	1
+Human	Blood	Normal	Mast cell	EFCAB12	positive	1	1
+Human	Blood	Normal	Mast cell	XK	positive	1	1
+Human	Blood	Normal	Mast cell	IMPG2	positive	1	1
+Human	Blood	Normal	Mast cell	AL592148.1	positive	1	1
+Human	Blood	Normal	Mast cell	AC096751.2	positive	1	1
+Human	Blood	Normal	Mast cell	AC004069.1	positive	1	1
+Human	Blood	Normal	Mast cell	LINC01835	positive	1	1
+Human	Blood	Normal	Mast cell	SLC45A3	positive	1	1
+Human	Blood	Normal	Mast cell	AP000897.2	positive	1	1
+Human	Blood	Normal	Mast cell	DNM1P35	positive	1	1
+Human	Blood	Normal	Mast cell	AC024257.3	positive	1	1
+Human	Blood	Normal	Mast cell	TAS2R19	positive	1	1
+Human	Blood	Normal	Mast cell	AP000563.1	positive	1	1
+Human	Blood	Normal	Mast cell	RPS14P4	positive	1	1
+Human	Blood	Normal	Mast cell	USP49	positive	1	1
+Human	Blood	Normal	Mast cell	RNU6-407P	positive	1	1
+Human	Blood	Normal	Mast cell	CDC42BPA	positive	1	1
+Human	Blood	Normal	Mast cell	FCER1A	positive	1	1
+Human	Blood	Normal	Mast cell	GCSAML	positive	1	1
+Human	Blood	Normal	Mast cell	AC138150.2	positive	1	1
+Human	Blood	Normal	Mast cell	AL365226.2	positive	1	1
+Human	Blood	Normal	Mast cell	TREML3P	positive	1	1
+Human	Blood	Normal	Mast cell	Z98200.1	positive	1	1
+Human	Blood	Normal	Mast cell	AC008691.1	positive	1	1
+Human	Blood	Normal	Mast cell	AL031274.1	positive	1	1
+Human	Blood	Normal	Mast cell	STON1-GTF2A1L	positive	1	1
+Human	Blood	Normal	Mast cell	AC011379.2	positive	1	1
+Human	Blood	Normal	Mast cell	IL4	positive	1	1
+Human	Blood	Normal	Mast cell	PNPLA1	positive	1	1
+Human	Blood	Normal	Mast cell	SLC26A8	positive	1	1
+Human	Blood	Normal	Mast cell	RBM22P2	positive	1	1
+Human	Blood	Normal	Mast cell	OXER1	positive	1	1
+Human	Blood	Normal	Mast cell	AC048380.2	positive	1	1
+Human	Blood	Normal	Mast cell	GHRL	positive	1	1
+Human	Blood	Normal	Mast cell	CCDC150P1	positive	1	1
+Human	Blood	Normal	Mast cell	AC021171.1	positive	1	1
+Human	Blood	Normal	Mast cell	S100P	positive	1	1
+Human	Blood	Normal	Mast cell	HOXA10-AS	positive	1	1
+Human	Blood	Normal	Mast cell	AP000919.4	positive	1	1
+Human	Blood	Normal	Mast cell	ZNF571-AS1	positive	1	1
+Human	Blood	Normal	Mast cell	IL5RA	positive	1	1
+Human	Blood	Normal	Mast cell	AP002414.1	positive	1	1
+Human	Blood	Normal	Mast cell	AL513320.1	positive	1	1
+Human	Blood	Normal	Mast cell	AC108134.3	positive	1	1
+Human	Blood	Normal	Mast cell	RNU6-1053P	positive	1	1
+Human	Blood	Normal	Mast cell	LRRC15	positive	1	1
+Human	Blood	Normal	Mast cell	RNU6-2	positive	1	1
+Human	Blood	Normal	Mast cell	SEMA3C	positive	1	1
+Human	Blood	Normal	Mast cell	PACRG	positive	1	1
+Human	Blood	Normal	Mast cell	CSF2RB	positive	1	1
+Human	Blood	Normal	Mast cell	OR6N1	positive	1	1
+Human	Blood	Normal	Mast cell	AC027682.2	positive	1	1
+Human	Blood	Normal	Mast cell	DGCR11	positive	1	1
+Human	Blood	Normal	Mast cell	NFE2	positive	1	1
+Human	Blood	Normal	Mast cell	CLEC4G	positive	1	1
+Human	Blood	Normal	Mast cell	HLX	positive	1	1
+Human	Blood	Normal	Mast cell	AC010332.1	positive	1	1
+Human	Blood	Normal	Mast cell	ITGA2B	positive	1	1
+Human	Blood	Normal	Mast cell	EEF1DP3	positive	1	1
+Human	Blood	Normal	Mast cell	AL161935.2	positive	1	1
+Human	Blood	Normal	Mast cell	MMP25	positive	1	1
+Human	Blood	Normal	Regulatory T cell	GPR15	positive	1	1
+Human	Blood	Normal	Regulatory T cell	XAB2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	PTGES3P3	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AC119044.1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	LINC02361	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ITGA1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	GCSHP5	positive	1	1
+Human	Blood	Normal	Regulatory T cell	FASTKD3	positive	1	1
+Human	Blood	Normal	Regulatory T cell	IFT80	positive	1	1
+Human	Blood	Normal	Regulatory T cell	S100B	positive	1	1
+Human	Blood	Normal	Regulatory T cell	HCFC2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CCL20	positive	1	1
+Human	Blood	Normal	Regulatory T cell	LIMA1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TUBE1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	LINC01336	positive	1	1
+Human	Blood	Normal	Regulatory T cell	RGL4	positive	1	1
+Human	Blood	Normal	Regulatory T cell	NECTIN4	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ZNF669	positive	1	1
+Human	Blood	Normal	Regulatory T cell	SLFN5	positive	1	1
+Human	Blood	Normal	Regulatory T cell	GALNT12	positive	1	1
+Human	Blood	Normal	Regulatory T cell	INSL3	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ZNF483	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TSPOAP1-AS1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TMEM65	positive	1	1
+Human	Blood	Normal	Regulatory T cell	BTD	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AC022392.1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AC022150.4	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CCDC58	positive	1	1
+Human	Blood	Normal	Regulatory T cell	GREM2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AL450992.2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AL133355.1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ZNF485	positive	1	1
+Human	Blood	Normal	Regulatory T cell	PPAN	positive	1	1
+Human	Blood	Normal	Regulatory T cell	MIR621	positive	1	1
+Human	Blood	Normal	Regulatory T cell	MT1L	positive	1	1
+Human	Blood	Normal	Regulatory T cell	LINC00426	positive	1	1
+Human	Blood	Normal	Regulatory T cell	SPATA13	positive	1	1
+Human	Blood	Normal	Regulatory T cell	FBXO32	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CAPN10	positive	1	1
+Human	Blood	Normal	Regulatory T cell	GALT	positive	1	1
+Human	Blood	Normal	Regulatory T cell	PDE4D	positive	1	1
+Human	Blood	Normal	Regulatory T cell	THEMIS	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ZNF567	positive	1	1
+Human	Blood	Normal	Regulatory T cell	GATA3	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AC136475.1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TSPAN5	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TRMT12	positive	1	1
+Human	Blood	Normal	Regulatory T cell	GRAP2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	RNU6-838P	positive	1	1
+Human	Blood	Normal	Regulatory T cell	SCART1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TCEAL1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	B3GALT2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	PFAS	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AAK1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	MBNL1-AS1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ZNF44	positive	1	1
+Human	Blood	Normal	Regulatory T cell	DNAJB4	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CDC25B	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ISYNA1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	JMY	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TRBV28	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TCF20	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AL161911.1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AC034238.1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	FAM83G	positive	1	1
+Human	Blood	Normal	Regulatory T cell	NBL1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	RARG	positive	1	1
+Human	Blood	Normal	Regulatory T cell	EFHC2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ZFP69B	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CBX5	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CENPK	positive	1	1
+Human	Blood	Normal	Regulatory T cell	GIMAP6	positive	1	1
+Human	Blood	Normal	Regulatory T cell	RBAK-RBAKDN	positive	1	1
+Human	Blood	Normal	Regulatory T cell	PNMA1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	PBX4	positive	1	1
+Human	Blood	Normal	Regulatory T cell	FADD	positive	1	1
+Human	Blood	Normal	Regulatory T cell	RALGAPA1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	PLCD1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ARHGEF19	positive	1	1
+Human	Blood	Normal	Regulatory T cell	MTA3	positive	1	1
+Human	Blood	Normal	Regulatory T cell	POP1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	SPEF2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	RAB15	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AL133243.3	positive	1	1
+Human	Blood	Normal	Regulatory T cell	ZNF829	positive	1	1
+Human	Blood	Normal	Regulatory T cell	IFFO2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CTLA4	positive	1	1
+Human	Blood	Normal	Regulatory T cell	KIF3A	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CCND2	positive	1	1
+Human	Blood	Normal	Regulatory T cell	AC099063.4	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CRTAM	positive	1	1
+Human	Blood	Normal	Regulatory T cell	HACD1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TMOD4	positive	1	1
+Human	Blood	Normal	Regulatory T cell	TNFRSF4	positive	1	1
+Human	Blood	Normal	Regulatory T cell	APTR	positive	1	1
+Human	Blood	Normal	Regulatory T cell	MINPP1	positive	1	1
+Human	Blood	Normal	Regulatory T cell	CTSF	positive	1	1
+Human	Blood	Normal	Regulatory T cell	MYO1D	positive	1	1
+Human	Blood	Normal	Regulatory T cell	LY6G5C	positive	1	1
+Human	Blood	Normal	Regulatory T cell	RASGRP1	positive	1	1
+Human	Blood	Normal	Plasma cell	LINC02362	positive	1	1
+Human	Blood	Normal	Plasma cell	AC244226.1	positive	1	1
+Human	Blood	Normal	Plasma cell	CECR3	positive	1	1
+Human	Blood	Normal	Plasma cell	LINC01288	positive	1	1
+Human	Blood	Normal	Plasma cell	MYEOV	positive	1	1
+Human	Blood	Normal	Plasma cell	TBC1D27	positive	1	1
+Human	Blood	Normal	Plasma cell	IGKV2-30	positive	1	1
+Human	Blood	Normal	Plasma cell	APOBEC3B	positive	1	1
+Human	Blood	Normal	Plasma cell	AC233300.1	positive	1	1
+Human	Blood	Normal	Plasma cell	SPACA3	positive	1	1
+Human	Blood	Normal	Plasma cell	TXNDC5	positive	1	1
+Human	Blood	Normal	Plasma cell	LINC01337	positive	1	1
+Human	Blood	Normal	Plasma cell	BUB1	positive	1	1
+Human	Blood	Normal	Plasma cell	CCR9	positive	1	1
+Human	Blood	Normal	Plasma cell	F2RL3	positive	1	1
+Human	Blood	Normal	Plasma cell	MYRFL	positive	1	1
+Human	Blood	Normal	Plasma cell	PRSS16	positive	1	1
+Human	Blood	Normal	Plasma cell	IGLV6-57	positive	1	1
+Human	Blood	Normal	Plasma cell	AC009119.2	positive	1	1
+Human	Blood	Normal	Plasma cell	AL353151.1	positive	1	1
+Human	Blood	Normal	Plasma cell	MZB1	positive	1	1
+Human	Blood	Normal	Plasma cell	POT1-AS1	positive	1	1
+Human	Blood	Normal	Plasma cell	IGHA2	positive	1	1
+Human	Blood	Normal	Plasma cell	SGO1-AS1	positive	1	1
+Human	Blood	Normal	Plasma cell	PARM1	positive	1	1
+Human	Blood	Normal	Plasma cell	C1orf53	positive	1	1
+Human	Blood	Normal	Plasma cell	CCR10	positive	1	1
+Human	Blood	Normal	Plasma cell	TG	positive	1	1
+Human	Blood	Normal	Plasma cell	ATE1-AS1	positive	1	1
+Human	Blood	Normal	Plasma cell	RNU2-22P	positive	1	1
+Human	Blood	Normal	Plasma cell	AC009220.2	positive	1	1
+Human	Blood	Normal	Plasma cell	BIK	positive	1	1
+Human	Blood	Normal	Plasma cell	HID1	positive	1	1
+Human	Blood	Normal	Plasma cell	IGLV3-1	positive	1	1
+Human	Blood	Normal	Plasma cell	SH3BP4	positive	1	1
+Human	Blood	Normal	Plasma cell	CAV1	positive	1	1
+Human	Blood	Normal	Plasma cell	UNC5CL	positive	1	1
+Human	Blood	Normal	Plasma cell	GPRC5D	positive	1	1
+Human	Blood	Normal	Plasma cell	ZBTB20-AS4	positive	1	1
+Human	Blood	Normal	Plasma cell	RHOQP2	positive	1	1
+Human	Blood	Normal	Plasma cell	TNFRSF17	positive	1	1
+Human	Blood	Normal	Plasma cell	AC016700.1	positive	1	1
+Human	Blood	Normal	Plasma cell	AC118755.2	positive	1	1
+Human	Blood	Normal	Plasma cell	LINC01431	positive	1	1
+Human	Blood	Normal	Plasma cell	PIK3CD-AS2	positive	1	1
+Human	Blood	Normal	Plasma cell	SLC2A5	positive	1	1
+Human	Blood	Normal	Plasma cell	AL031316.1	positive	1	1
+Human	Blood	Normal	Plasma cell	POMT2	positive	1	1
+Human	Blood	Normal	Plasma cell	AC025569.1	positive	1	1
+Human	Blood	Normal	Plasma cell	IGLJ6	positive	1	1
+Human	Blood	Normal	Plasma cell	RNU5D-1	positive	1	1
+Human	Blood	Normal	Plasma cell	BMP8B	positive	1	1
+Human	Blood	Normal	Plasma cell	ARSE	positive	1	1
+Human	Blood	Normal	Plasma cell	PAPPA	positive	1	1
+Human	Blood	Normal	Plasma cell	B3GALNT1	positive	1	1
+Human	Blood	Normal	Plasma cell	APOC1	positive	1	1
+Human	Blood	Normal	Plasma cell	STEAP1	positive	1	1
+Human	Blood	Normal	Plasma cell	AC104699.1	positive	1	1
+Human	Blood	Normal	Plasma cell	STARD5	positive	1	1
+Human	Blood	Normal	Plasma cell	NUDT8	positive	1	1
+Human	Blood	Normal	Plasma cell	AC009054.2	positive	1	1
+Human	Blood	Normal	Plasma cell	ZNF697	positive	1	1
+Human	Blood	Normal	Plasma cell	IGKV4-1	positive	1	1
+Human	Blood	Normal	Plasma cell	ZBTB32	positive	1	1
+Human	Blood	Normal	Plasma cell	LINC02014	positive	1	1
+Human	Blood	Normal	Plasma cell	AC009309.1	positive	1	1
+Human	Blood	Normal	Plasma cell	B4GALT2	positive	1	1
+Human	Blood	Normal	Plasma cell	AC253536.6	positive	1	1
+Human	Blood	Normal	Plasma cell	AF013593.1	positive	1	1
+Human	Blood	Normal	Plasma cell	RBPMS2	positive	1	1
+Human	Blood	Normal	Plasma cell	KPTN	positive	1	1
+Human	Blood	Normal	Plasma cell	MGLL	positive	1	1
+Human	Blood	Normal	Plasma cell	CMTM1	positive	1	1
+Human	Blood	Normal	Plasma cell	EDIL3	positive	1	1
+Human	Blood	Normal	Plasma cell	LCE3D	positive	1	1
+Human	Blood	Normal	Plasma cell	AC069061.4	positive	1	1
+Human	Blood	Normal	Plasma cell	FUT6	positive	1	1
+Human	Blood	Normal	Plasma cell	TRAJ34	positive	1	1
+Human	Blood	Normal	Plasma cell	AL691482.3	positive	1	1
+Human	Blood	Normal	Plasma cell	FUT8-AS1	positive	1	1
+Human	Blood	Normal	Plasma cell	NOMO2	positive	1	1
+Human	Blood	Normal	Plasma cell	AC093155.3	positive	1	1
+Human	Blood	Normal	Plasma cell	DDR2	positive	1	1
+Human	Blood	Normal	Plasma cell	MCF2	positive	1	1
+Human	Blood	Normal	Plasma cell	OR7E38P	positive	1	1
+Human	Blood	Normal	Plasma cell	LMTK3	positive	1	1
+Human	Blood	Normal	Plasma cell	ASAH2	positive	1	1
+Human	Blood	Normal	Plasma cell	CCDC138	positive	1	1
+Human	Blood	Normal	Plasma cell	TMTC2	positive	1	1
+Human	Blood	Normal	Plasma cell	AC139795.3	positive	1	1
+Human	Blood	Normal	Plasma cell	MIOX	positive	1	1
+Human	Blood	Normal	Plasma cell	AL121845.4	positive	1	1
+Human	Blood	Normal	Plasma cell	MIPEPP3	positive	1	1
+Human	Blood	Normal	Plasma cell	LINC00534	positive	1	1
+Human	Blood	Normal	Plasma cell	MESP2	positive	1	1
+Human	Blood	Normal	Plasma cell	WWOX	positive	1	1
+Human	Blood	Normal	Plasma cell	AC026320.1	positive	1	1
+Human	Blood	Normal	Plasma cell	DQX1	positive	1	1
+Human	Blood	Normal	Plasma cell	AURKA	positive	1	1
+Human	Blood	Normal	Plasma cell	JCHAIN	positive	1	1
+Human	Blood	Normal	Dendritic cell	CLIC2	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC015660.5	positive	1	1
+Human	Blood	Normal	Dendritic cell	FPR3	positive	1	1
+Human	Blood	Normal	Dendritic cell	ENHO	positive	1	1
+Human	Blood	Normal	Dendritic cell	PKIB	positive	1	1
+Human	Blood	Normal	Dendritic cell	FCF1P7	positive	1	1
+Human	Blood	Normal	Dendritic cell	HTR7	positive	1	1
+Human	Blood	Normal	Dendritic cell	SPRED2	positive	1	1
+Human	Blood	Normal	Dendritic cell	EPHB3	positive	1	1
+Human	Blood	Normal	Dendritic cell	COL9A2	positive	1	1
+Human	Blood	Normal	Dendritic cell	AL162424.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC099684.2	positive	1	1
+Human	Blood	Normal	Dendritic cell	LINC00968	positive	1	1
+Human	Blood	Normal	Dendritic cell	SLC13A5	positive	1	1
+Human	Blood	Normal	Dendritic cell	HIF3A	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC093278.2	positive	1	1
+Human	Blood	Normal	Dendritic cell	SDS	positive	1	1
+Human	Blood	Normal	Dendritic cell	CD1E	positive	1	1
+Human	Blood	Normal	Dendritic cell	PHBP3	positive	1	1
+Human	Blood	Normal	Dendritic cell	H3F3AP3	positive	1	1
+Human	Blood	Normal	Dendritic cell	MSR1	positive	1	1
+Human	Blood	Normal	Dendritic cell	LILRP2	positive	1	1
+Human	Blood	Normal	Dendritic cell	AP002884.4	positive	1	1
+Human	Blood	Normal	Dendritic cell	LINC02532	positive	1	1
+Human	Blood	Normal	Dendritic cell	B3GNT5	positive	1	1
+Human	Blood	Normal	Dendritic cell	FES	positive	1	1
+Human	Blood	Normal	Dendritic cell	SNCA	positive	1	1
+Human	Blood	Normal	Dendritic cell	CTSZ	positive	1	1
+Human	Blood	Normal	Dendritic cell	ELF3-AS1	positive	1	1
+Human	Blood	Normal	Dendritic cell	ANKRD50	positive	1	1
+Human	Blood	Normal	Dendritic cell	MIR6761	positive	1	1
+Human	Blood	Normal	Dendritic cell	CYFIP1	positive	1	1
+Human	Blood	Normal	Dendritic cell	POTEG	positive	1	1
+Human	Blood	Normal	Dendritic cell	P2RY12	positive	1	1
+Human	Blood	Normal	Dendritic cell	TFEC	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC112719.2	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC051649.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	AL079342.2	positive	1	1
+Human	Blood	Normal	Dendritic cell	CYP2S1	positive	1	1
+Human	Blood	Normal	Dendritic cell	BAHCC1	positive	1	1
+Human	Blood	Normal	Dendritic cell	RTN1	positive	1	1
+Human	Blood	Normal	Dendritic cell	PTTG3P	positive	1	1
+Human	Blood	Normal	Dendritic cell	FZD2	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC091563.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	MPEG1	positive	1	1
+Human	Blood	Normal	Dendritic cell	TP53I3	positive	1	1
+Human	Blood	Normal	Dendritic cell	FAM198A	positive	1	1
+Human	Blood	Normal	Dendritic cell	OR2W3	positive	1	1
+Human	Blood	Normal	Dendritic cell	HLA-DRB6	positive	1	1
+Human	Blood	Normal	Dendritic cell	GFRA2	positive	1	1
+Human	Blood	Normal	Dendritic cell	ELOCP29	positive	1	1
+Human	Blood	Normal	Dendritic cell	CA5A	positive	1	1
+Human	Blood	Normal	Dendritic cell	TMPPE	positive	1	1
+Human	Blood	Normal	Dendritic cell	STEAP3	positive	1	1
+Human	Blood	Normal	Dendritic cell	LINC01140	positive	1	1
+Human	Blood	Normal	Dendritic cell	GNA15	positive	1	1
+Human	Blood	Normal	Dendritic cell	AP005329.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	AL845311.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	DPYSL2	positive	1	1
+Human	Blood	Normal	Dendritic cell	TNS3	positive	1	1
+Human	Blood	Normal	Dendritic cell	DTNA	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC097359.2	positive	1	1
+Human	Blood	Normal	Dendritic cell	CORO1C	positive	1	1
+Human	Blood	Normal	Dendritic cell	NECTIN2	positive	1	1
+Human	Blood	Normal	Dendritic cell	ZNF503	positive	1	1
+Human	Blood	Normal	Dendritic cell	SIGLEC16	positive	1	1
+Human	Blood	Normal	Dendritic cell	MARCO	positive	1	1
+Human	Blood	Normal	Dendritic cell	FBP1	positive	1	1
+Human	Blood	Normal	Dendritic cell	SRC	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC010997.2	positive	1	1
+Human	Blood	Normal	Dendritic cell	PIGHP1	positive	1	1
+Human	Blood	Normal	Dendritic cell	IL13RA1	positive	1	1
+Human	Blood	Normal	Dendritic cell	AL024509.3	positive	1	1
+Human	Blood	Normal	Dendritic cell	KYNU	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC007608.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC019171.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	MIR6715A	positive	1	1
+Human	Blood	Normal	Dendritic cell	AP000777.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	CTF1	positive	1	1
+Human	Blood	Normal	Dendritic cell	SLC15A3	positive	1	1
+Human	Blood	Normal	Dendritic cell	ZEB2-AS1	positive	1	1
+Human	Blood	Normal	Dendritic cell	HLA-DRB5	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC146944.2	positive	1	1
+Human	Blood	Normal	Dendritic cell	GRN	positive	1	1
+Human	Blood	Normal	Dendritic cell	TGFBI	positive	1	1
+Human	Blood	Normal	Dendritic cell	SPINT1	positive	1	1
+Human	Blood	Normal	Dendritic cell	CA14	positive	1	1
+Human	Blood	Normal	Dendritic cell	TNNI2	positive	1	1
+Human	Blood	Normal	Dendritic cell	KIF17	positive	1	1
+Human	Blood	Normal	Dendritic cell	UPK3A	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC124068.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC104837.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC087499.5	positive	1	1
+Human	Blood	Normal	Dendritic cell	MAP3K20	positive	1	1
+Human	Blood	Normal	Dendritic cell	ARHGEF10L	positive	1	1
+Human	Blood	Normal	Dendritic cell	PEA15	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC079228.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	CCDC175	positive	1	1
+Human	Blood	Normal	Dendritic cell	AC009517.1	positive	1	1
+Human	Blood	Normal	Dendritic cell	CRISP3	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	PDZD4	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	ASCL2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC009299.2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	ABCA2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	RNU6-23P	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC090515.2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	IDNK	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC009275.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	DGCR8	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	KLRD1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	PRF1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	CDC27P1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	LPCAT1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	NEIL1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC243756.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	LHFPL1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AL691447.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	LAIR2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	CST7	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AL356966.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	RGS9	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	SLC4A4	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	FEZ1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	NKG7	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	DTHD1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	MTERF2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC018552.3	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	ADGRG1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	CD160	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AKAP5	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	CCL4	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	RAB27B	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	RNU6-489P	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	PTGDR	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	TOGARAM2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AL365475.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AL158168.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	IFNG	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	C1orf61	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	FCRL6	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	C1orf21	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	S1PR5	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	LINC02084	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	LGR6	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	RHOBTB3	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	TRGJ2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	FGFBP2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC008750.5	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	B3GAT1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	SIGLEC17P	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	PPP2R2B	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	FTH1P22	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	SPON2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	NCS1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	CCL3L3	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	KLRF1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC044802.2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	PRSS23	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	CACNG2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	CACNA2D2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC051619.3	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	GZMH	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	TNPO2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC025278.3	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	ERHP1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	TTC38	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	MT1M	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	ADRB2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	FASLG	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	GPR68	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	EOMES	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	ASB6	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	F2R	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	BFSP1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	TRDC	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	TRGC1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	ZNF683	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC244502.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	GSC	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	RN7SKP63	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	IL18RAP	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	GZMA	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	FOXD4	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	SLCO4C1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AL355490.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	CLEC1B	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	HOPX	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	TGFBR3	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	KIR2DS4	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	JAG2	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	LINC02384	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	LINC01505	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	SPANXN4	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	IL2RB	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	GNLY	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	EAF1-AS1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC124798.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	TBX21	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	AC145343.1	positive	1	1
+Human	Blood	Normal	Gamma delta T cell	KIRREL3-AS3	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SLC7A11	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC097637.2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	CUX2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC007381.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SCT	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	CLEC4C	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	NAT8L	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AL355075.5	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC244034.3	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC008696.2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	HNRNPA1P17	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	TNFRSF11B	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC073359.2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	ZNF556	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC027279.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC097375.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	C17orf64	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	NLRP7	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC131011.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AL451065.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	CABP1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SMOC1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	TNFRSF21	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LRRC26	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LILRA4	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	KRT8P5	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC004702.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	FAM196A	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	TMEM210	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	GNAI2P1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC018889.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LGSN	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC069360.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LINC02332	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AJAP1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC004846.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	PROC	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LIF	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SHD	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	KCTD19	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC026471.6	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LILRP1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC093525.4	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	ATP1A2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LINC01634	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC023590.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	FAM160A1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AL353705.4	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	RASA2-IT1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	PACSIN1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AL844908.2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC243960.3	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC011893.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	PTCRA	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	API5P2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	FOXR1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	RNA5SP164	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	VIPR2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	NGFR	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SNORD123	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SYCP2L	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SCN9A	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	TTC39A	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LINC02285	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC006141.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	MMP11	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LINC01724	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LDLRAD2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LAMP5	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	LINC00885	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	PTPRS	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	GUCY2D	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC011005.4	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	MYMX	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	HHIP-AS1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC092422.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	BTBD19	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	PLVAP	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SERPINF2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SMIM5	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	YTHDF3-AS1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	BSPRY	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	C17orf113	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	FP236241.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	GUCA1A	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	PAQR6	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC011444.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	CNIH2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC092384.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	KRT5	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	CYYR1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	KIRREL3	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	SLC9C2	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	COL26A1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	ALOX15	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	NRP1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	DFNB59	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	PHEX	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AL357143.1	positive	1	1
+Human	Blood	Normal	Plasmacytoid dendritic cell	AC005759.1	positive	1	1
+Human	Blood	Normal	Macrophage	AC122718.2	positive	1	1
+Human	Blood	Normal	Macrophage	AC244093.4	positive	1	1
+Human	Blood	Normal	Macrophage	AC114980.1	positive	1	1
+Human	Blood	Normal	Macrophage	Z82243.1	positive	1	1
+Human	Blood	Normal	Macrophage	AC106037.1	positive	1	1
+Human	Blood	Normal	Macrophage	STARD8	positive	1	1
+Human	Blood	Normal	Macrophage	AC083843.2	positive	1	1
+Human	Blood	Normal	Macrophage	PHBP19	positive	1	1
+Human	Blood	Normal	Macrophage	AC009120.1	positive	1	1
+Human	Blood	Normal	Macrophage	HULC	positive	1	1
+Human	Blood	Normal	Macrophage	AGPAT4-IT1	positive	1	1
+Human	Blood	Normal	Macrophage	NPIPB2	positive	1	1
+Human	Blood	Normal	Macrophage	RNU4-51P	positive	1	1
+Human	Blood	Normal	Macrophage	AL133445.2	positive	1	1
+Human	Blood	Normal	Macrophage	PODXL	positive	1	1
+Human	Blood	Normal	Macrophage	AC130324.1	positive	1	1
+Human	Blood	Normal	Macrophage	MATN2	positive	1	1
+Human	Blood	Normal	Macrophage	MIR16-1	positive	1	1
+Human	Blood	Normal	Macrophage	PET117	positive	1	1
+Human	Blood	Normal	Macrophage	SHROOM1	positive	1	1
+Human	Blood	Normal	Macrophage	HNRNPDP1	positive	1	1
+Human	Blood	Normal	Macrophage	HMGN2P7	positive	1	1
+Human	Blood	Normal	Macrophage	AC012676.5	positive	1	1
+Human	Blood	Normal	Macrophage	RALGPS1	positive	1	1
+Human	Blood	Normal	Macrophage	CTRL	positive	1	1
+Human	Blood	Normal	Macrophage	MIR4477B	positive	1	1
+Human	Blood	Normal	Macrophage	LTBP1	positive	1	1
+Human	Blood	Normal	Macrophage	RPL7P48	positive	1	1
+Human	Blood	Normal	Macrophage	MIR6874	positive	1	1
+Human	Blood	Normal	Macrophage	RNA5SP479	positive	1	1
+Human	Blood	Normal	Macrophage	SLC16A13	positive	1	1
+Human	Blood	Normal	Macrophage	AC120057.1	positive	1	1
+Human	Blood	Normal	Macrophage	AL645608.4	positive	1	1
+Human	Blood	Normal	Macrophage	RNU6-94P	positive	1	1
+Human	Blood	Normal	Macrophage	CNGA1	positive	1	1
+Human	Blood	Normal	Macrophage	AC012368.1	positive	1	1
+Human	Blood	Normal	Macrophage	ODF3B	positive	1	1
+Human	Blood	Normal	Macrophage	CD27-AS1	positive	1	1
+Human	Blood	Normal	Macrophage	ERVK13-1	positive	1	1
+Human	Blood	Normal	Macrophage	SFXN5	positive	1	1
+Human	Blood	Normal	Macrophage	AC008569.2	positive	1	1
+Human	Blood	Normal	Macrophage	AL591135.1	positive	1	1
+Human	Blood	Normal	Macrophage	WDFY3	positive	1	1
+Human	Blood	Normal	Macrophage	AC008443.1	positive	1	1
+Human	Blood	Normal	Macrophage	AL645933.2	positive	1	1
+Human	Blood	Normal	Macrophage	AL359752.1	positive	1	1
+Human	Blood	Normal	Macrophage	C8orf44	positive	1	1
+Human	Blood	Normal	Macrophage	AC241952.1	positive	1	1
+Human	Blood	Normal	Macrophage	IQCA1L	positive	1	1
+Human	Blood	Normal	Macrophage	MIR6886	positive	1	1
+Human	Blood	Normal	Macrophage	RNU6-451P	positive	1	1
+Human	Blood	Normal	Macrophage	TONSL	positive	1	1
+Human	Blood	Normal	Macrophage	HES7	positive	1	1
+Human	Blood	Normal	Macrophage	RNA5SP357	positive	1	1
+Human	Blood	Normal	Macrophage	AC090181.1	positive	1	1
+Human	Blood	Normal	Macrophage	VASH1-AS1	positive	1	1
+Human	Blood	Normal	Macrophage	DUTP2	positive	1	1
+Human	Blood	Normal	Macrophage	IGHV1-12	positive	1	1
+Human	Blood	Normal	Macrophage	AL031432.4	positive	1	1
+Human	Blood	Normal	Macrophage	Z98749.2	positive	1	1
+Human	Blood	Normal	Macrophage	NANOGNB	positive	1	1
+Human	Blood	Normal	Macrophage	ZNF782	positive	1	1
+Human	Blood	Normal	Macrophage	WFIKKN1	positive	1	1
+Human	Blood	Normal	Macrophage	EPB41L5	positive	1	1
+Human	Blood	Normal	Macrophage	AC090114.2	positive	1	1
+Human	Blood	Normal	Macrophage	ITSN1	positive	1	1
+Human	Blood	Normal	Macrophage	SCARNA15	positive	1	1
+Human	Blood	Normal	Macrophage	JHDM1D-AS1	positive	1	1
+Human	Blood	Normal	Macrophage	MYO15B	positive	1	1
+Human	Blood	Normal	Macrophage	TIGD2	positive	1	1
+Human	Blood	Normal	Macrophage	AC060780.1	positive	1	1
+Human	Blood	Normal	Macrophage	ZNF738	positive	1	1
+Human	Blood	Normal	Macrophage	AC130469.2	positive	1	1
+Human	Blood	Normal	Macrophage	HNRNPKP2	positive	1	1
+Human	Blood	Normal	Macrophage	MAML3	positive	1	1
+Human	Blood	Normal	Macrophage	FMN1	positive	1	1
+Human	Blood	Normal	Macrophage	AC015795.2	positive	1	1
+Human	Blood	Normal	Macrophage	AC090568.2	positive	1	1
+Human	Blood	Normal	Macrophage	AC098483.2	positive	1	1
+Human	Blood	Normal	Macrophage	AC010385.1	positive	1	1
+Human	Blood	Normal	Macrophage	ZNF606	positive	1	1
+Human	Blood	Normal	Macrophage	HPCAL4	positive	1	1
+Human	Blood	Normal	Macrophage	CES1P2	positive	1	1
+Human	Blood	Normal	Macrophage	CTU1	positive	1	1
+Human	Blood	Normal	Macrophage	TOMM20L	positive	1	1
+Human	Blood	Normal	Macrophage	CLMN	positive	1	1
+Human	Blood	Normal	Macrophage	DHRS7B	positive	1	1
+Human	Blood	Normal	Macrophage	SOGA1	positive	1	1
+Human	Blood	Normal	Macrophage	NRARP	positive	1	1
+Human	Blood	Normal	Macrophage	RNU7-45P	positive	1	1
+Human	Blood	Normal	Macrophage	TEF	positive	1	1
+Human	Blood	Normal	Macrophage	ACY1	positive	1	1
+Human	Blood	Normal	Macrophage	AC022364.1	positive	1	1
+Human	Blood	Normal	Macrophage	NEAT1-2	positive	1	1
+Human	Blood	Normal	Macrophage	AC068790.9	positive	1	1
+Human	Blood	Normal	Macrophage	AC005294.1	positive	1	1
+Human	Blood	Normal	Macrophage	PER1	positive	1	1
+Human	Blood	Normal	Macrophage	DYRK1B	positive	1	1
+Human	Blood	Normal	Macrophage	FHOD1	positive	1	1
+Human	Blood	Normal	Macrophage	AC012184.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNA5SP367	positive	1	1
+Human	Blood	Normal	Langerhans cell	ZNF423	positive	1	1
+Human	Blood	Normal	Langerhans cell	UQCRBP2	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC082651.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL391845.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	DDX3P1	positive	1	1
+Human	Blood	Normal	Langerhans cell	S100A3	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL161785.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	VTCN1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC022400.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	SPRR1A	positive	1	1
+Human	Blood	Normal	Langerhans cell	TAS2R5	positive	1	1
+Human	Blood	Normal	Langerhans cell	GPC5-AS1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC022034.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNY3P4	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC079781.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	LARP6	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL139275.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNU6-1112P	positive	1	1
+Human	Blood	Normal	Langerhans cell	ERVFRD-1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL160274.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AP004289.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	FAM26E	positive	1	1
+Human	Blood	Normal	Langerhans cell	RN7SL248P	positive	1	1
+Human	Blood	Normal	Langerhans cell	HMGB1P19	positive	1	1
+Human	Blood	Normal	Langerhans cell	SCN2B	positive	1	1
+Human	Blood	Normal	Langerhans cell	IQCB2P	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC069240.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	SHISA6	positive	1	1
+Human	Blood	Normal	Langerhans cell	LINC01703	positive	1	1
+Human	Blood	Normal	Langerhans cell	HECW1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC025572.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	LINC01850	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNU6-1106P	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC007684.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	RN7SKP166	positive	1	1
+Human	Blood	Normal	Langerhans cell	LINC01759	positive	1	1
+Human	Blood	Normal	Langerhans cell	CACNA1H	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL445189.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC053481.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNU6-897P	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC110027.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	MYCNOS	positive	1	1
+Human	Blood	Normal	Langerhans cell	MTCYBP32	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC109779.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL445437.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	TMEM161BP1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC024600.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL136038.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL132800.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC087672.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	FTCD	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL591163.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	SNORD116-18	positive	1	1
+Human	Blood	Normal	Langerhans cell	HSPA12A	positive	1	1
+Human	Blood	Normal	Langerhans cell	HTR1F	positive	1	1
+Human	Blood	Normal	Langerhans cell	LINC02099	positive	1	1
+Human	Blood	Normal	Langerhans cell	OR9R1P	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL136418.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC034268.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	LRRC32	positive	1	1
+Human	Blood	Normal	Langerhans cell	PRRX2	positive	1	1
+Human	Blood	Normal	Langerhans cell	SEZ6	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC024267.6	positive	1	1
+Human	Blood	Normal	Langerhans cell	BTNL3	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC009269.4	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNU6-1197P	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC096637.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	SELE	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC104229.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL606490.8	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC026474.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	RPS29P29	positive	1	1
+Human	Blood	Normal	Langerhans cell	GPX2	positive	1	1
+Human	Blood	Normal	Langerhans cell	Z82244.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC021683.3	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC099489.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC105129.3	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL357874.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	NUDT12	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC097347.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL590084.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC078802.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNU6-482P	positive	1	1
+Human	Blood	Normal	Langerhans cell	STXBP5L	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC093520.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNU6-213P	positive	1	1
+Human	Blood	Normal	Langerhans cell	NDUFAB1P1	positive	1	1
+Human	Blood	Normal	Langerhans cell	GPR12	positive	1	1
+Human	Blood	Normal	Langerhans cell	AL078581.2	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC022113.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNU1-148P	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC010325.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	HMCN1	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNU6-487P	positive	1	1
+Human	Blood	Normal	Langerhans cell	RNF5	positive	1	1
+Human	Blood	Normal	Langerhans cell	HMGCLL1	positive	1	1
+Human	Blood	Normal	Langerhans cell	AC073539.1	positive	1	1
+Human	Blood	Normal	Langerhans cell	POU6F2	positive	1	1
+Human	Blood	Normal	Langerhans cell	SLC5A4	positive	1	1
+Human	Blood	Disease	T cell	KCNMB2-AS1	positive	1	1
+Human	Blood	Disease	T cell	AC079809.1	positive	1	1
+Human	Blood	Disease	T cell	AC069222.1	positive	1	1
+Human	Blood	Disease	T cell	TNS4	positive	1	1
+Human	Blood	Disease	T cell	AC004832.6	positive	1	1
+Human	Blood	Disease	T cell	AL158835.1	positive	1	1
+Human	Blood	Disease	T cell	KLB	positive	1	1
+Human	Blood	Disease	T cell	HSPE1P3	positive	1	1
+Human	Blood	Disease	T cell	CYP4A11	positive	1	1
+Human	Blood	Disease	T cell	CASC21	positive	1	1
+Human	Blood	Disease	T cell	AC006237.1	positive	1	1
+Human	Blood	Disease	T cell	RN7SL594P	positive	1	1
+Human	Blood	Disease	T cell	AL356740.1	positive	1	1
+Human	Blood	Disease	T cell	AL365226.1	positive	1	1
+Human	Blood	Disease	T cell	IGHV1OR16-3	positive	1	1
+Human	Blood	Disease	T cell	GYG2P1	positive	1	1
+Human	Blood	Disease	T cell	NMD3P2	positive	1	1
+Human	Blood	Disease	T cell	AL590004.2	positive	1	1
+Human	Blood	Disease	T cell	RPL35AP19	positive	1	1
+Human	Blood	Disease	T cell	STPG4	positive	1	1
+Human	Blood	Disease	T cell	CLEC14A	positive	1	1
+Human	Blood	Disease	T cell	HMGN2P39	positive	1	1
+Human	Blood	Disease	T cell	AC008065.1	positive	1	1
+Human	Blood	Disease	T cell	SCARNA5	positive	1	1
+Human	Blood	Disease	T cell	AL583810.1	positive	1	1
+Human	Blood	Disease	T cell	AC010904.2	positive	1	1
+Human	Blood	Disease	T cell	AC114755.2	positive	1	1
+Human	Blood	Disease	T cell	AC139426.3	positive	1	1
+Human	Blood	Disease	T cell	ELOCP21	positive	1	1
+Human	Blood	Disease	T cell	AC129492.1	positive	1	1
+Human	Blood	Disease	T cell	AC012158.2	positive	1	1
+Human	Blood	Disease	T cell	SCARNA14	positive	1	1
+Human	Blood	Disease	T cell	PPM1AP1	positive	1	1
+Human	Blood	Disease	T cell	OR4D11	positive	1	1
+Human	Blood	Disease	T cell	AC012435.1	positive	1	1
+Human	Blood	Disease	T cell	RPS27	positive	1	1
+Human	Blood	Disease	T cell	RPL21P28	positive	1	1
+Human	Blood	Disease	T cell	AL592114.1	positive	1	1
+Human	Blood	Disease	T cell	AL136968.2	positive	1	1
+Human	Blood	Disease	T cell	BNIP3P1	positive	1	1
+Human	Blood	Disease	T cell	AC026254.2	positive	1	1
+Human	Blood	Disease	T cell	RPL23AP2	positive	1	1
+Human	Blood	Disease	T cell	AC104472.1	positive	1	1
+Human	Blood	Disease	T cell	KCNU1	positive	1	1
+Human	Blood	Disease	T cell	FAM213AP2	positive	1	1
+Human	Blood	Disease	T cell	RPL21P16	positive	1	1
+Human	Blood	Disease	T cell	RPL23AP58	positive	1	1
+Human	Blood	Disease	T cell	PRELID3A	positive	1	1
+Human	Blood	Disease	T cell	AC106785.3	positive	1	1
+Human	Blood	Disease	T cell	ATP2C2-AS1	positive	1	1
+Human	Blood	Disease	T cell	AC016769.2	positive	1	1
+Human	Blood	Disease	T cell	AC005871.2	positive	1	1
+Human	Blood	Disease	T cell	AC004552.1	positive	1	1
+Human	Blood	Disease	T cell	ITGA10	positive	1	1
+Human	Blood	Disease	T cell	AC022336.2	positive	1	1
+Human	Blood	Disease	T cell	AC012414.7	positive	1	1
+Human	Blood	Disease	T cell	RN7SL827P	positive	1	1
+Human	Blood	Disease	T cell	TRAJ23	positive	1	1
+Human	Blood	Disease	T cell	FAM229B	positive	1	1
+Human	Blood	Disease	T cell	AL139811.1	positive	1	1
+Human	Blood	Disease	T cell	GAST	positive	1	1
+Human	Blood	Disease	T cell	RNU6-22P	positive	1	1
+Human	Blood	Disease	T cell	CABP7	positive	1	1
+Human	Blood	Disease	T cell	AL512271.1	positive	1	1
+Human	Blood	Disease	T cell	OR2A9P	positive	1	1
+Human	Blood	Disease	T cell	HNRNPA1P30	positive	1	1
+Human	Blood	Disease	T cell	AC010342.1	positive	1	1
+Human	Blood	Disease	T cell	BX679664.3	positive	1	1
+Human	Blood	Disease	T cell	DCDC1	positive	1	1
+Human	Blood	Disease	T cell	AC084816.1	positive	1	1
+Human	Blood	Disease	T cell	ATP13A4	positive	1	1
+Human	Blood	Disease	T cell	AC008269.1	positive	1	1
+Human	Blood	Disease	T cell	AC093495.1	positive	1	1
+Human	Blood	Disease	T cell	C1orf137	positive	1	1
+Human	Blood	Disease	T cell	SNORA33	positive	1	1
+Human	Blood	Disease	T cell	AC138123.1	positive	1	1
+Human	Blood	Disease	T cell	AC034236.1	positive	1	1
+Human	Blood	Disease	T cell	AC092798.1	positive	1	1
+Human	Blood	Disease	T cell	AC099336.2	positive	1	1
+Human	Blood	Disease	T cell	GUSBP5	positive	1	1
+Human	Blood	Disease	T cell	GRHL3	positive	1	1
+Human	Blood	Disease	T cell	AC005622.1	positive	1	1
+Human	Blood	Disease	T cell	CICP22	positive	1	1
+Human	Blood	Disease	T cell	SNORD49B	positive	1	1
+Human	Blood	Disease	T cell	AF196972.1	positive	1	1
+Human	Blood	Disease	T cell	AC078795.3	positive	1	1
+Human	Blood	Disease	T cell	AC068724.1	positive	1	1
+Human	Blood	Disease	T cell	RPL21P75	positive	1	1
+Human	Blood	Disease	T cell	AC091736.1	positive	1	1
+Human	Blood	Disease	T cell	AC137590.2	positive	1	1
+Human	Blood	Disease	T cell	AC005912.1	positive	1	1
+Human	Blood	Disease	T cell	TRBC2	positive	1	1
+Human	Blood	Disease	T cell	RPS26P15	positive	1	1
+Human	Blood	Disease	T cell	RNU6ATAC36P	positive	1	1
+Human	Blood	Disease	T cell	TJP3	positive	1	1
+Human	Blood	Disease	T cell	TRPC1	positive	1	1
+Human	Blood	Disease	T cell	AP001471.1	positive	1	1
+Human	Blood	Disease	T cell	AL109936.2	positive	1	1
+Human	Blood	Disease	T cell	ST13P13	positive	1	1
+Human	Blood	Disease	T cell	RPS27AP3	positive	1	1
+Human	Blood	Disease	Natural killer cell	KLRF1	positive	1	1
+Human	Blood	Disease	Natural killer cell	AKR1C3	positive	1	1
+Human	Blood	Disease	Natural killer cell	KIR2DL3	positive	1	1
+Human	Blood	Disease	Natural killer cell	SPON2	positive	1	1
+Human	Blood	Disease	Natural killer cell	KIR3DL1	positive	1	1
+Human	Blood	Disease	Natural killer cell	NMUR1	positive	1	1
+Human	Blood	Disease	Natural killer cell	KLRC3	positive	1	1
+Human	Blood	Disease	Natural killer cell	KIR2DL1	positive	1	1
+Human	Blood	Disease	Natural killer cell	KIR3DL2	positive	1	1
+Human	Blood	Disease	Natural killer cell	KLRC2	positive	1	1
+Human	Blood	Disease	Natural killer cell	ADGRG1	positive	1	1
+Human	Blood	Disease	Natural killer cell	GNAL	positive	1	1
+Human	Blood	Disease	Natural killer cell	BOK	positive	1	1
+Human	Blood	Disease	Natural killer cell	SLC1A7	positive	1	1
+Human	Blood	Disease	Natural killer cell	RN7SL431P	positive	1	1
+Human	Blood	Disease	Natural killer cell	DTHD1	positive	1	1
+Human	Blood	Disease	Natural killer cell	FEZ1	positive	1	1
+Human	Blood	Disease	Natural killer cell	B3GAT1	positive	1	1
+Human	Blood	Disease	Natural killer cell	SIGLEC17P	positive	1	1
+Human	Blood	Disease	Natural killer cell	CLIC3	positive	1	1
+Human	Blood	Disease	Natural killer cell	FAM110C	positive	1	1
+Human	Blood	Disease	Natural killer cell	GGT4P	positive	1	1
+Human	Blood	Disease	Natural killer cell	LINC00504	positive	1	1
+Human	Blood	Disease	Natural killer cell	GZMB	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC068112.1	positive	1	1
+Human	Blood	Disease	Natural killer cell	TRDC	positive	1	1
+Human	Blood	Disease	Natural killer cell	TTC38	positive	1	1
+Human	Blood	Disease	Natural killer cell	TRDJ2	positive	1	1
+Human	Blood	Disease	Natural killer cell	S1PR5	positive	1	1
+Human	Blood	Disease	Natural killer cell	TBX21	positive	1	1
+Human	Blood	Disease	Natural killer cell	KIR3DX1	positive	1	1
+Human	Blood	Disease	Natural killer cell	HOXA3	positive	1	1
+Human	Blood	Disease	Natural killer cell	RNU4-15P	positive	1	1
+Human	Blood	Disease	Natural killer cell	FCRL6	positive	1	1
+Human	Blood	Disease	Natural killer cell	FGFBP2	positive	1	1
+Human	Blood	Disease	Natural killer cell	FAR2P3	positive	1	1
+Human	Blood	Disease	Natural killer cell	TRPC3	positive	1	1
+Human	Blood	Disease	Natural killer cell	TSPOAP1	positive	1	1
+Human	Blood	Disease	Natural killer cell	KLRC1	positive	1	1
+Human	Blood	Disease	Natural killer cell	PRSS23	positive	1	1
+Human	Blood	Disease	Natural killer cell	CD160	positive	1	1
+Human	Blood	Disease	Natural killer cell	TRGV9	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC011455.1	positive	1	1
+Human	Blood	Disease	Natural killer cell	KIR2DP1	positive	1	1
+Human	Blood	Disease	Natural killer cell	MYOM2	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC068075.1	positive	1	1
+Human	Blood	Disease	Natural killer cell	MRPS11P1	positive	1	1
+Human	Blood	Disease	Natural killer cell	KLRD1	positive	1	1
+Human	Blood	Disease	Natural killer cell	PRSS57	positive	1	1
+Human	Blood	Disease	Natural killer cell	GOLGA8N	positive	1	1
+Human	Blood	Disease	Natural killer cell	DGKK	positive	1	1
+Human	Blood	Disease	Natural killer cell	AL031676.1	positive	1	1
+Human	Blood	Disease	Natural killer cell	SLC4A4	positive	1	1
+Human	Blood	Disease	Natural killer cell	CCL3	positive	1	1
+Human	Blood	Disease	Natural killer cell	PRF1	positive	1	1
+Human	Blood	Disease	Natural killer cell	GRIK4	positive	1	1
+Human	Blood	Disease	Natural killer cell	PCBP2-OT1	positive	1	1
+Human	Blood	Disease	Natural killer cell	KIR2DL4	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC006033.2	positive	1	1
+Human	Blood	Disease	Natural killer cell	CCL4	positive	1	1
+Human	Blood	Disease	Natural killer cell	KIR2DS4	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC008750.5	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC068775.2	positive	1	1
+Human	Blood	Disease	Natural killer cell	C1orf21	positive	1	1
+Human	Blood	Disease	Natural killer cell	RN7SL167P	positive	1	1
+Human	Blood	Disease	Natural killer cell	TMEM72-AS1	positive	1	1
+Human	Blood	Disease	Natural killer cell	RHOBTB3	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC243829.1	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC243829.4	positive	1	1
+Human	Blood	Disease	Natural killer cell	FAT4	positive	1	1
+Human	Blood	Disease	Natural killer cell	PROX2	positive	1	1
+Human	Blood	Disease	Natural killer cell	VIPR2	positive	1	1
+Human	Blood	Disease	Natural killer cell	PTGDR	positive	1	1
+Human	Blood	Disease	Natural killer cell	AL157912.1	positive	1	1
+Human	Blood	Disease	Natural killer cell	PCDH1	positive	1	1
+Human	Blood	Disease	Natural killer cell	BFSP1	positive	1	1
+Human	Blood	Disease	Natural killer cell	RAMP1	positive	1	1
+Human	Blood	Disease	Natural killer cell	MYOT	positive	1	1
+Human	Blood	Disease	Natural killer cell	CCL4L2	positive	1	1
+Human	Blood	Disease	Natural killer cell	MLC1	positive	1	1
+Human	Blood	Disease	Natural killer cell	IL18RAP	positive	1	1
+Human	Blood	Disease	Natural killer cell	AL031846.1	positive	1	1
+Human	Blood	Disease	Natural killer cell	C15orf56	positive	1	1
+Human	Blood	Disease	Natural killer cell	HBA1	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC116312.1	positive	1	1
+Human	Blood	Disease	Natural killer cell	LINGO2	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC079804.3	positive	1	1
+Human	Blood	Disease	Natural killer cell	C9orf172	positive	1	1
+Human	Blood	Disease	Natural killer cell	LINC01549	positive	1	1
+Human	Blood	Disease	Natural killer cell	IL2RB	positive	1	1
+Human	Blood	Disease	Natural killer cell	TRGVA	positive	1	1
+Human	Blood	Disease	Natural killer cell	SH2D1B	positive	1	1
+Human	Blood	Disease	Natural killer cell	ELOVL6	positive	1	1
+Human	Blood	Disease	Natural killer cell	XCL2	positive	1	1
+Human	Blood	Disease	Natural killer cell	RNF165	positive	1	1
+Human	Blood	Disease	Natural killer cell	RBPMS2	positive	1	1
+Human	Blood	Disease	Natural killer cell	AC010533.1	positive	1	1
+Human	Blood	Disease	Natural killer cell	RGS9	positive	1	1
+Human	Blood	Disease	Natural killer cell	NCAM1	positive	1	1
+Human	Blood	Disease	Natural killer cell	TRGJP	positive	1	1
+Human	Blood	Disease	Monocyte	CD68	positive	1	1
+Human	Blood	Disease	Monocyte	IFI30	positive	1	1
+Human	Blood	Disease	Monocyte	TMEM176B	positive	1	1
+Human	Blood	Disease	Monocyte	CST3	positive	1	1
+Human	Blood	Disease	Monocyte	FCN1	positive	1	1
+Human	Blood	Disease	Monocyte	NCF2	positive	1	1
+Human	Blood	Disease	Monocyte	SERPINA1	positive	1	1
+Human	Blood	Disease	Monocyte	FGL2	positive	1	1
+Human	Blood	Disease	Monocyte	LILRA2	positive	1	1
+Human	Blood	Disease	Monocyte	SLC7A7	positive	1	1
+Human	Blood	Disease	Monocyte	SIRPB1	positive	1	1
+Human	Blood	Disease	Monocyte	FAM72A	positive	1	1
+Human	Blood	Disease	Monocyte	FCGR2A	positive	1	1
+Human	Blood	Disease	Monocyte	GPR35	positive	1	1
+Human	Blood	Disease	Monocyte	SORT1	positive	1	1
+Human	Blood	Disease	Monocyte	CYBB	positive	1	1
+Human	Blood	Disease	Monocyte	IGSF6	positive	1	1
+Human	Blood	Disease	Monocyte	TPRG1-AS1	positive	1	1
+Human	Blood	Disease	Monocyte	P2RY13	positive	1	1
+Human	Blood	Disease	Monocyte	CD300E	positive	1	1
+Human	Blood	Disease	Monocyte	RN7SL138P	positive	1	1
+Human	Blood	Disease	Monocyte	BRI3P1	positive	1	1
+Human	Blood	Disease	Monocyte	HSPA6	positive	1	1
+Human	Blood	Disease	Monocyte	BRI3	positive	1	1
+Human	Blood	Disease	Monocyte	PVR	positive	1	1
+Human	Blood	Disease	Monocyte	FAM212B	positive	1	1
+Human	Blood	Disease	Monocyte	SIGLEC9	positive	1	1
+Human	Blood	Disease	Monocyte	SPI1	positive	1	1
+Human	Blood	Disease	Monocyte	AL591468.1	positive	1	1
+Human	Blood	Disease	Monocyte	GAS2L1	positive	1	1
+Human	Blood	Disease	Monocyte	C19orf38	positive	1	1
+Human	Blood	Disease	Monocyte	TNFSF13	positive	1	1
+Human	Blood	Disease	Monocyte	NFAM1	positive	1	1
+Human	Blood	Disease	Monocyte	KCNE3	positive	1	1
+Human	Blood	Disease	Monocyte	AL049634.2	positive	1	1
+Human	Blood	Disease	Monocyte	CFP	positive	1	1
+Human	Blood	Disease	Monocyte	RNF130	positive	1	1
+Human	Blood	Disease	Monocyte	LINC01506	positive	1	1
+Human	Blood	Disease	Monocyte	CPPED1	positive	1	1
+Human	Blood	Disease	Monocyte	CSTA	positive	1	1
+Human	Blood	Disease	Monocyte	LGALS3	positive	1	1
+Human	Blood	Disease	Monocyte	CNTLN	positive	1	1
+Human	Blood	Disease	Monocyte	AC018755.4	positive	1	1
+Human	Blood	Disease	Monocyte	AP002761.4	positive	1	1
+Human	Blood	Disease	Monocyte	MFSD7	positive	1	1
+Human	Blood	Disease	Monocyte	NPL	positive	1	1
+Human	Blood	Disease	Monocyte	TYMP	positive	1	1
+Human	Blood	Disease	Monocyte	TREML3P	positive	1	1
+Human	Blood	Disease	Monocyte	TLR4	positive	1	1
+Human	Blood	Disease	Monocyte	DRAM1	positive	1	1
+Human	Blood	Disease	Monocyte	MIR601	positive	1	1
+Human	Blood	Disease	Monocyte	LILRB3	positive	1	1
+Human	Blood	Disease	Monocyte	ZNF385A	positive	1	1
+Human	Blood	Disease	Monocyte	AIF1	positive	1	1
+Human	Blood	Disease	Monocyte	DUSP6	positive	1	1
+Human	Blood	Disease	Monocyte	IRAK3	positive	1	1
+Human	Blood	Disease	Monocyte	MPEG1	positive	1	1
+Human	Blood	Disease	Monocyte	FCGRT	positive	1	1
+Human	Blood	Disease	Monocyte	SIGLEC14	positive	1	1
+Human	Blood	Disease	Monocyte	PLB1	positive	1	1
+Human	Blood	Disease	Monocyte	LOXL3	positive	1	1
+Human	Blood	Disease	Monocyte	TRIQK	positive	1	1
+Human	Blood	Disease	Monocyte	TIMP2	positive	1	1
+Human	Blood	Disease	Monocyte	OTUB2	positive	1	1
+Human	Blood	Disease	Monocyte	RGS18	positive	1	1
+Human	Blood	Disease	Monocyte	AC087273.2	positive	1	1
+Human	Blood	Disease	Monocyte	ROGDI	positive	1	1
+Human	Blood	Disease	Monocyte	TSPAN16	positive	1	1
+Human	Blood	Disease	Monocyte	LRRC4	positive	1	1
+Human	Blood	Disease	Monocyte	RAB31	positive	1	1
+Human	Blood	Disease	Monocyte	TNFSF13B	positive	1	1
+Human	Blood	Disease	Monocyte	VNN1	positive	1	1
+Human	Blood	Disease	Monocyte	PILRA	positive	1	1
+Human	Blood	Disease	Monocyte	STX11	positive	1	1
+Human	Blood	Disease	Monocyte	CLEC7A	positive	1	1
+Human	Blood	Disease	Monocyte	CLEC12A	positive	1	1
+Human	Blood	Disease	Monocyte	SNX21	positive	1	1
+Human	Blood	Disease	Monocyte	EMILIN2	positive	1	1
+Human	Blood	Disease	Monocyte	CPVL	positive	1	1
+Human	Blood	Disease	Monocyte	CD86	positive	1	1
+Human	Blood	Disease	Monocyte	VENTX	positive	1	1
+Human	Blood	Disease	Monocyte	PLXNA2	positive	1	1
+Human	Blood	Disease	Monocyte	AC005392.2	positive	1	1
+Human	Blood	Disease	Monocyte	ZNF185	positive	1	1
+Human	Blood	Disease	Monocyte	AC006059.1	positive	1	1
+Human	Blood	Disease	Monocyte	RAB3D	positive	1	1
+Human	Blood	Disease	Monocyte	HNMT	positive	1	1
+Human	Blood	Disease	Monocyte	TMEM176A	positive	1	1
+Human	Blood	Disease	Monocyte	LMO2	positive	1	1
+Human	Blood	Disease	Monocyte	UPK3A	positive	1	1
+Human	Blood	Disease	Monocyte	RPH3A	positive	1	1
+Human	Blood	Disease	Monocyte	TNFAIP2	positive	1	1
+Human	Blood	Disease	Monocyte	PSAP	positive	1	1
+Human	Blood	Disease	Monocyte	CTSS	positive	1	1
+Human	Blood	Disease	Monocyte	KCNJ2	positive	1	1
+Human	Blood	Disease	Monocyte	TGFBI	positive	1	1
+Human	Blood	Disease	Monocyte	CTSZ	positive	1	1
+Human	Blood	Disease	Monocyte	LILRA5	positive	1	1
+Human	Blood	Disease	Monocyte	RNU2-4P	positive	1	1
+Human	Blood	Disease	Monocyte	PAK1	positive	1	1
+Human	Blood	Disease	Naive T cell	AXIN2	positive	1	1
+Human	Blood	Disease	Naive T cell	NELL2	positive	1	1
+Human	Blood	Disease	Naive T cell	AC005842.1	positive	1	1
+Human	Blood	Disease	Naive T cell	FHIT	positive	1	1
+Human	Blood	Disease	Naive T cell	MAL	positive	1	1
+Human	Blood	Disease	Naive T cell	PLEKHB1	positive	1	1
+Human	Blood	Disease	Naive T cell	TRAV19	positive	1	1
+Human	Blood	Disease	Naive T cell	LINC02295	positive	1	1
+Human	Blood	Disease	Naive T cell	TRAV5	positive	1	1
+Human	Blood	Disease	Naive T cell	WNT7A	positive	1	1
+Human	Blood	Disease	Naive T cell	DISC1FP1	positive	1	1
+Human	Blood	Disease	Naive T cell	FAM19A1	positive	1	1
+Human	Blood	Disease	Naive T cell	AC013264.1	positive	1	1
+Human	Blood	Disease	Naive T cell	TCF7	positive	1	1
+Human	Blood	Disease	Naive T cell	KRT1	positive	1	1
+Human	Blood	Disease	Naive T cell	LEF1	positive	1	1
+Human	Blood	Disease	Naive T cell	TCEA3	positive	1	1
+Human	Blood	Disease	Naive T cell	AC092645.1	positive	1	1
+Human	Blood	Disease	Naive T cell	IL7R	positive	1	1
+Human	Blood	Disease	Naive T cell	RGCC	positive	1	1
+Human	Blood	Disease	Naive T cell	VSIG1	positive	1	1
+Human	Blood	Disease	Naive T cell	AC245088.2	positive	1	1
+Human	Blood	Disease	Naive T cell	BEX5	positive	1	1
+Human	Blood	Disease	Naive T cell	EPHA1	positive	1	1
+Human	Blood	Disease	Naive T cell	FBLN5	positive	1	1
+Human	Blood	Disease	Naive T cell	TMEM45B	positive	1	1
+Human	Blood	Disease	Naive T cell	DAB1	positive	1	1
+Human	Blood	Disease	Naive T cell	AK5	positive	1	1
+Human	Blood	Disease	Naive T cell	RCAN3	positive	1	1
+Human	Blood	Disease	Naive T cell	CCDC85C	positive	1	1
+Human	Blood	Disease	Naive T cell	FAAH2	positive	1	1
+Human	Blood	Disease	Naive T cell	RNF157-AS1	positive	1	1
+Human	Blood	Disease	Naive T cell	GPR146	positive	1	1
+Human	Blood	Disease	Naive T cell	PCSK1N	positive	1	1
+Human	Blood	Disease	Naive T cell	DCHS1	positive	1	1
+Human	Blood	Disease	Naive T cell	FBLN7	positive	1	1
+Human	Blood	Disease	Naive T cell	TRAV8-3	positive	1	1
+Human	Blood	Disease	Naive T cell	PDE9A	positive	1	1
+Human	Blood	Disease	Naive T cell	AC139720.1	positive	1	1
+Human	Blood	Disease	Naive T cell	LDLRAP1	positive	1	1
+Human	Blood	Disease	Naive T cell	DPP4	positive	1	1
+Human	Blood	Disease	Naive T cell	AC138393.2	positive	1	1
+Human	Blood	Disease	Naive T cell	TRAV12-3	positive	1	1
+Human	Blood	Disease	Naive T cell	MMP28	positive	1	1
+Human	Blood	Disease	Naive T cell	KRT73-AS1	positive	1	1
+Human	Blood	Disease	Naive T cell	NEFL	positive	1	1
+Human	Blood	Disease	Naive T cell	TRAV41	positive	1	1
+Human	Blood	Disease	Naive T cell	RETREG1	positive	1	1
+Human	Blood	Disease	Naive T cell	ACSL6	positive	1	1
+Human	Blood	Disease	Naive T cell	CD40LG	positive	1	1
+Human	Blood	Disease	Naive T cell	FAM102A	positive	1	1
+Human	Blood	Disease	Naive T cell	TJP3	positive	1	1
+Human	Blood	Disease	Naive T cell	ATG9B	positive	1	1
+Human	Blood	Disease	Naive T cell	C2orf40	positive	1	1
+Human	Blood	Disease	Naive T cell	TEPP	positive	1	1
+Human	Blood	Disease	Naive T cell	SOX8	positive	1	1
+Human	Blood	Disease	Naive T cell	FAM153B	positive	1	1
+Human	Blood	Disease	Naive T cell	EFHD1	positive	1	1
+Human	Blood	Disease	Naive T cell	PASK	positive	1	1
+Human	Blood	Disease	Naive T cell	SLC16A10	positive	1	1
+Human	Blood	Disease	Naive T cell	GRTP1	positive	1	1
+Human	Blood	Disease	Naive T cell	CD28	positive	1	1
+Human	Blood	Disease	Naive T cell	TTC39C-AS1	positive	1	1
+Human	Blood	Disease	Naive T cell	SLC22A17	positive	1	1
+Human	Blood	Disease	Naive T cell	NOG	positive	1	1
+Human	Blood	Disease	Naive T cell	TRAV4	positive	1	1
+Human	Blood	Disease	Naive T cell	SSTR3	positive	1	1
+Human	Blood	Disease	Naive T cell	C10orf35	positive	1	1
+Human	Blood	Disease	Naive T cell	CBR3	positive	1	1
+Human	Blood	Disease	Naive T cell	AC013553.4	positive	1	1
+Human	Blood	Disease	Naive T cell	INPP4B	positive	1	1
+Human	Blood	Disease	Naive T cell	AC012074.1	positive	1	1
+Human	Blood	Disease	Naive T cell	AL662791.4	positive	1	1
+Human	Blood	Disease	Naive T cell	TRAJ30	positive	1	1
+Human	Blood	Disease	Naive T cell	AC124312.3	positive	1	1
+Human	Blood	Disease	Naive T cell	CA6	positive	1	1
+Human	Blood	Disease	Naive T cell	SLC22A23	positive	1	1
+Human	Blood	Disease	Naive T cell	TRABD2A	positive	1	1
+Human	Blood	Disease	Naive T cell	CYP4F30P	positive	1	1
+Human	Blood	Disease	Naive T cell	AL109936.2	positive	1	1
+Human	Blood	Disease	Naive T cell	NR3C2	positive	1	1
+Human	Blood	Disease	Naive T cell	ATP8A2	positive	1	1
+Human	Blood	Disease	Naive T cell	CRIP2	positive	1	1
+Human	Blood	Disease	Naive T cell	C9orf24	positive	1	1
+Human	Blood	Disease	Naive T cell	AQP3	positive	1	1
+Human	Blood	Disease	Naive T cell	AC093300.1	positive	1	1
+Human	Blood	Disease	Naive T cell	SUSD4	positive	1	1
+Human	Blood	Disease	Naive T cell	RPL4P1	positive	1	1
+Human	Blood	Disease	Naive T cell	FLT3LG	positive	1	1
+Human	Blood	Disease	Naive T cell	SIRPG	positive	1	1
+Human	Blood	Disease	Naive T cell	OXNAD1	positive	1	1
+Human	Blood	Disease	Naive T cell	CCR12P	positive	1	1
+Human	Blood	Disease	Naive T cell	AC090948.1	positive	1	1
+Human	Blood	Disease	Naive T cell	KDF1	positive	1	1
+Human	Blood	Disease	Naive T cell	AC084816.1	positive	1	1
+Human	Blood	Disease	Naive T cell	NPAS2	positive	1	1
+Human	Blood	Disease	Naive T cell	CMTM8	positive	1	1
+Human	Blood	Disease	Naive T cell	TRAT1	positive	1	1
+Human	Blood	Disease	Naive T cell	B3GNT3	positive	1	1
+Human	Blood	Disease	Naive T cell	ZFPM2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	HCFC1-AS1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	NPDC1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC245088.3	positive	1	1
+Human	Blood	Disease	Regulatory T cell	TRAJ16	positive	1	1
+Human	Blood	Disease	Regulatory T cell	TRBV9	positive	1	1
+Human	Blood	Disease	Regulatory T cell	LAMP3	positive	1	1
+Human	Blood	Disease	Regulatory T cell	DUSP8P5	positive	1	1
+Human	Blood	Disease	Regulatory T cell	CTLA4	positive	1	1
+Human	Blood	Disease	Regulatory T cell	MAPK11	positive	1	1
+Human	Blood	Disease	Regulatory T cell	LINC00427	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AL359220.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	SNORD116-30	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AGGF1P2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	ZNF658B	positive	1	1
+Human	Blood	Disease	Regulatory T cell	ANO9	positive	1	1
+Human	Blood	Disease	Regulatory T cell	B3GALT2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AL121748.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	LINC00880	positive	1	1
+Human	Blood	Disease	Regulatory T cell	KLHL3	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC013457.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	LINC01891	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC027020.2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC100821.2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	CLIC6	positive	1	1
+Human	Blood	Disease	Regulatory T cell	SUGCT	positive	1	1
+Human	Blood	Disease	Regulatory T cell	ZNF823	positive	1	1
+Human	Blood	Disease	Regulatory T cell	MIR5091	positive	1	1
+Human	Blood	Disease	Regulatory T cell	BICDL1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	CYP4F35P	positive	1	1
+Human	Blood	Disease	Regulatory T cell	GS1-124K5.4	positive	1	1
+Human	Blood	Disease	Regulatory T cell	MAGEE1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	TRMT112P7	positive	1	1
+Human	Blood	Disease	Regulatory T cell	LINC01806	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AF106564.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC073065.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC046136.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	KALRN	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC244472.3	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AL023806.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	GPR55	positive	1	1
+Human	Blood	Disease	Regulatory T cell	ALDH8A1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	FAM172BP	positive	1	1
+Human	Blood	Disease	Regulatory T cell	ZFR2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	APBA2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AL139274.2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	NPTXR	positive	1	1
+Human	Blood	Disease	Regulatory T cell	GPRIN3	positive	1	1
+Human	Blood	Disease	Regulatory T cell	FAHD2CP	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AL109955.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	SCARNA8	positive	1	1
+Human	Blood	Disease	Regulatory T cell	TRBV11-2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	B3GNT9	positive	1	1
+Human	Blood	Disease	Regulatory T cell	PIK3IP1-AS1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	CRYBB3	positive	1	1
+Human	Blood	Disease	Regulatory T cell	ME3	positive	1	1
+Human	Blood	Disease	Regulatory T cell	CD248	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC136475.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	TMIGD2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	FAM239B	positive	1	1
+Human	Blood	Disease	Regulatory T cell	FITM2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	RIMBP3C	positive	1	1
+Human	Blood	Disease	Regulatory T cell	NBL1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC009163.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	TRAV18	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC234775.2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	SAMD12	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC127521.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	SOCS2-AS1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	FOXB1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	PLEK2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	TRAV13-2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	PLCG1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC131235.3	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC006213.2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	VASH1-AS1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	FAM227B	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AL606491.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	C19orf73	positive	1	1
+Human	Blood	Disease	Regulatory T cell	BCL2L14	positive	1	1
+Human	Blood	Disease	Regulatory T cell	SMARCA1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	ADAM22	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AL391095.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC072039.2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC022916.2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	LINC01260	positive	1	1
+Human	Blood	Disease	Regulatory T cell	MIR4724	positive	1	1
+Human	Blood	Disease	Regulatory T cell	GPA33	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AC008083.3	positive	1	1
+Human	Blood	Disease	Regulatory T cell	TRAV13-1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	MKL2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AL390198.1	positive	1	1
+Human	Blood	Disease	Regulatory T cell	NLRP6	positive	1	1
+Human	Blood	Disease	Regulatory T cell	TRIM46	positive	1	1
+Human	Blood	Disease	Regulatory T cell	ANKRD52	positive	1	1
+Human	Blood	Disease	Regulatory T cell	MGAT4A	positive	1	1
+Human	Blood	Disease	Regulatory T cell	SCARF2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	LINC01934	positive	1	1
+Human	Blood	Disease	Regulatory T cell	ZFYVE9	positive	1	1
+Human	Blood	Disease	Regulatory T cell	AL731533.2	positive	1	1
+Human	Blood	Disease	Regulatory T cell	PSAT1	positive	1	1
+Human	Blood	Disease	B cell	VPREB3	positive	1	1
+Human	Blood	Disease	B cell	TCL1A	positive	1	1
+Human	Blood	Disease	B cell	IGHD	positive	1	1
+Human	Blood	Disease	B cell	MS4A1	positive	1	1
+Human	Blood	Disease	B cell	CD79A	positive	1	1
+Human	Blood	Disease	B cell	MIR378I	positive	1	1
+Human	Blood	Disease	B cell	CD24	positive	1	1
+Human	Blood	Disease	B cell	HLA-DOB	positive	1	1
+Human	Blood	Disease	B cell	AL355987.1	positive	1	1
+Human	Blood	Disease	B cell	AL139020.1	positive	1	1
+Human	Blood	Disease	B cell	MIR5196	positive	1	1
+Human	Blood	Disease	B cell	FCER2	positive	1	1
+Human	Blood	Disease	B cell	TNFRSF13C	positive	1	1
+Human	Blood	Disease	B cell	FCRLA	positive	1	1
+Human	Blood	Disease	B cell	SNX22	positive	1	1
+Human	Blood	Disease	B cell	AL161781.2	positive	1	1
+Human	Blood	Disease	B cell	TCL6	positive	1	1
+Human	Blood	Disease	B cell	IGHE	positive	1	1
+Human	Blood	Disease	B cell	SLC38A11	positive	1	1
+Human	Blood	Disease	B cell	KCNG1	positive	1	1
+Human	Blood	Disease	B cell	MIR548O	positive	1	1
+Human	Blood	Disease	B cell	BANK1	positive	1	1
+Human	Blood	Disease	B cell	PLEKHG1	positive	1	1
+Human	Blood	Disease	B cell	MSMP	positive	1	1
+Human	Blood	Disease	B cell	NIPAL4	positive	1	1
+Human	Blood	Disease	B cell	AC025279.1	positive	1	1
+Human	Blood	Disease	B cell	MACROD2	positive	1	1
+Human	Blood	Disease	B cell	MIR5195	positive	1	1
+Human	Blood	Disease	B cell	CD200	positive	1	1
+Human	Blood	Disease	B cell	LIX1-AS1	positive	1	1
+Human	Blood	Disease	B cell	LINC00926	positive	1	1
+Human	Blood	Disease	B cell	LARGE1	positive	1	1
+Human	Blood	Disease	B cell	LINC02397	positive	1	1
+Human	Blood	Disease	B cell	CD72	positive	1	1
+Human	Blood	Disease	B cell	ZNF860	positive	1	1
+Human	Blood	Disease	B cell	COL19A1	positive	1	1
+Human	Blood	Disease	B cell	BLK	positive	1	1
+Human	Blood	Disease	B cell	LINC02413	positive	1	1
+Human	Blood	Disease	B cell	AL671511.2	positive	1	1
+Human	Blood	Disease	B cell	LINC01857	positive	1	1
+Human	Blood	Disease	B cell	FCRL1	positive	1	1
+Human	Blood	Disease	B cell	ZDHHC19	positive	1	1
+Human	Blood	Disease	B cell	LINC00494	positive	1	1
+Human	Blood	Disease	B cell	PAX5	positive	1	1
+Human	Blood	Disease	B cell	FAM30A	positive	1	1
+Human	Blood	Disease	B cell	TUNAR	positive	1	1
+Human	Blood	Disease	B cell	AC091045.1	positive	1	1
+Human	Blood	Disease	B cell	RUBCNL	positive	1	1
+Human	Blood	Disease	B cell	IGHV5-51	positive	1	1
+Human	Blood	Disease	B cell	CD24P4	positive	1	1
+Human	Blood	Disease	B cell	OSBPL10	positive	1	1
+Human	Blood	Disease	B cell	TCL1B	positive	1	1
+Human	Blood	Disease	B cell	TSPAN13	positive	1	1
+Human	Blood	Disease	B cell	IGHEP1	positive	1	1
+Human	Blood	Disease	B cell	AC010504.1	positive	1	1
+Human	Blood	Disease	B cell	LINC01781	positive	1	1
+Human	Blood	Disease	B cell	CD19	positive	1	1
+Human	Blood	Disease	B cell	ASH2LP1	positive	1	1
+Human	Blood	Disease	B cell	C5orf67	positive	1	1
+Human	Blood	Disease	B cell	BLNK	positive	1	1
+Human	Blood	Disease	B cell	PEG10	positive	1	1
+Human	Blood	Disease	B cell	IGHV3-62	positive	1	1
+Human	Blood	Disease	B cell	LINC02550	positive	1	1
+Human	Blood	Disease	B cell	SYNPO	positive	1	1
+Human	Blood	Disease	B cell	RALGPS2	positive	1	1
+Human	Blood	Disease	B cell	TLR10	positive	1	1
+Human	Blood	Disease	B cell	JADE3	positive	1	1
+Human	Blood	Disease	B cell	DSP	positive	1	1
+Human	Blood	Disease	B cell	PHACTR1	positive	1	1
+Human	Blood	Disease	B cell	IGKV2-26	positive	1	1
+Human	Blood	Disease	B cell	PKIG	positive	1	1
+Human	Blood	Disease	B cell	LINC01480	positive	1	1
+Human	Blood	Disease	B cell	AC138089.1	positive	1	1
+Human	Blood	Disease	B cell	EBF1	positive	1	1
+Human	Blood	Disease	B cell	AL021408.1	positive	1	1
+Human	Blood	Disease	B cell	AC009716.2	positive	1	1
+Human	Blood	Disease	B cell	CNTNAP2	positive	1	1
+Human	Blood	Disease	B cell	CLEC17A	positive	1	1
+Human	Blood	Disease	B cell	AL121985.3	positive	1	1
+Human	Blood	Disease	B cell	AC023301.1	positive	1	1
+Human	Blood	Disease	B cell	IGHM	positive	1	1
+Human	Blood	Disease	B cell	PRKD1	positive	1	1
+Human	Blood	Disease	B cell	AL358876.1	positive	1	1
+Human	Blood	Disease	B cell	TEX13C	positive	1	1
+Human	Blood	Disease	B cell	HS3ST1	positive	1	1
+Human	Blood	Disease	B cell	AC002480.1	positive	1	1
+Human	Blood	Disease	B cell	LINC01013	positive	1	1
+Human	Blood	Disease	B cell	FCRL2	positive	1	1
+Human	Blood	Disease	B cell	AC005840.4	positive	1	1
+Human	Blood	Disease	B cell	IL6	positive	1	1
+Human	Blood	Disease	B cell	SHISA8	positive	1	1
+Human	Blood	Disease	B cell	IGHV4-39	positive	1	1
+Human	Blood	Disease	B cell	LINC01800	positive	1	1
+Human	Blood	Disease	B cell	AC025254.1	positive	1	1
+Human	Blood	Disease	B cell	WNT16	positive	1	1
+Human	Blood	Disease	B cell	NETO1	positive	1	1
+Human	Blood	Disease	B cell	AC080129.2	positive	1	1
+Human	Blood	Disease	B cell	FAM129C	positive	1	1
+Human	Blood	Disease	B cell	SPIB	positive	1	1
+Human	Blood	Disease	B cell	IGLJ4	positive	1	1
+Human	Blood	Disease	Effector T cell	ZNF683	positive	1	1
+Human	Blood	Disease	Effector T cell	AC015849.3	positive	1	1
+Human	Blood	Disease	Effector T cell	CCL5	positive	1	1
+Human	Blood	Disease	Effector T cell	AL158071.3	positive	1	1
+Human	Blood	Disease	Effector T cell	TRGC2	positive	1	1
+Human	Blood	Disease	Effector T cell	AL135818.1	positive	1	1
+Human	Blood	Disease	Effector T cell	ZNF365	positive	1	1
+Human	Blood	Disease	Effector T cell	LINC01871	positive	1	1
+Human	Blood	Disease	Effector T cell	FP565324.1	positive	1	1
+Human	Blood	Disease	Effector T cell	AC009541.1	positive	1	1
+Human	Blood	Disease	Effector T cell	AC009299.2	positive	1	1
+Human	Blood	Disease	Effector T cell	KLRB1	positive	1	1
+Human	Blood	Disease	Effector T cell	KLRG1	positive	1	1
+Human	Blood	Disease	Effector T cell	LINC002481	positive	1	1
+Human	Blood	Disease	Effector T cell	GHET1	positive	1	1
+Human	Blood	Disease	Effector T cell	LRRC9	positive	1	1
+Human	Blood	Disease	Effector T cell	SLC16A11	positive	1	1
+Human	Blood	Disease	Effector T cell	LAG3	positive	1	1
+Human	Blood	Disease	Effector T cell	RASGEF1A	positive	1	1
+Human	Blood	Disease	Effector T cell	TTC16	positive	1	1
+Human	Blood	Disease	Effector T cell	GZMAP1	positive	1	1
+Human	Blood	Disease	Effector T cell	SAMD3	positive	1	1
+Human	Blood	Disease	Effector T cell	GRIK2	positive	1	1
+Human	Blood	Disease	Effector T cell	UBXN10	positive	1	1
+Human	Blood	Disease	Effector T cell	WNT1	positive	1	1
+Human	Blood	Disease	Effector T cell	AF038458.3	positive	1	1
+Human	Blood	Disease	Effector T cell	LINC00092	positive	1	1
+Human	Blood	Disease	Effector T cell	AL590762.2	positive	1	1
+Human	Blood	Disease	Effector T cell	AC139769.2	positive	1	1
+Human	Blood	Disease	Effector T cell	LINC02373	positive	1	1
+Human	Blood	Disease	Effector T cell	AL445686.2	positive	1	1
+Human	Blood	Disease	Effector T cell	ACOT4	positive	1	1
+Human	Blood	Disease	Effector T cell	AL512360.1	positive	1	1
+Human	Blood	Disease	Effector T cell	LINC02495	positive	1	1
+Human	Blood	Disease	Effector T cell	AL157871.5	positive	1	1
+Human	Blood	Disease	Effector T cell	IFNL1	positive	1	1
+Human	Blood	Disease	Effector T cell	ITPRIPL1	positive	1	1
+Human	Blood	Disease	Effector T cell	PRC1-AS1	positive	1	1
+Human	Blood	Disease	Effector T cell	IGLV3-12	positive	1	1
+Human	Blood	Disease	Effector T cell	KLRK1	positive	1	1
+Human	Blood	Disease	Effector T cell	LINC02084	positive	1	1
+Human	Blood	Disease	Effector T cell	TRAJ9	positive	1	1
+Human	Blood	Disease	Effector T cell	IGFL2	positive	1	1
+Human	Blood	Disease	Effector T cell	AC239800.1	positive	1	1
+Human	Blood	Disease	Effector T cell	C12orf75	positive	1	1
+Human	Blood	Disease	Effector T cell	LINC00239	positive	1	1
+Human	Blood	Disease	Effector T cell	PTCH1	positive	1	1
+Human	Blood	Disease	Effector T cell	AC011997.1	positive	1	1
+Human	Blood	Disease	Effector T cell	MSC	positive	1	1
+Human	Blood	Disease	Effector T cell	C1orf61	positive	1	1
+Human	Blood	Disease	Effector T cell	TRGV2	positive	1	1
+Human	Blood	Disease	Effector T cell	MYO6	positive	1	1
+Human	Blood	Disease	Effector T cell	AC138761.4	positive	1	1
+Human	Blood	Disease	Effector T cell	WDR88	positive	1	1
+Human	Blood	Disease	Effector T cell	AL590623.1	positive	1	1
+Human	Blood	Disease	Effector T cell	KLRC4	positive	1	1
+Human	Blood	Disease	Effector T cell	CD8A	positive	1	1
+Human	Blood	Disease	Effector T cell	AL035701.1	positive	1	1
+Human	Blood	Disease	Effector T cell	GZMH	positive	1	1
+Human	Blood	Disease	Effector T cell	TPRG1	positive	1	1
+Human	Blood	Disease	Effector T cell	FAM57A	positive	1	1
+Human	Blood	Disease	Effector T cell	AC040977.2	positive	1	1
+Human	Blood	Disease	Effector T cell	STX1A	positive	1	1
+Human	Blood	Disease	Effector T cell	AC011458.2	positive	1	1
+Human	Blood	Disease	Effector T cell	AC105446.1	positive	1	1
+Human	Blood	Disease	Effector T cell	NUDT11	positive	1	1
+Human	Blood	Disease	Effector T cell	AC011504.1	positive	1	1
+Human	Blood	Disease	Effector T cell	CTSW	positive	1	1
+Human	Blood	Disease	Effector T cell	GFI1	positive	1	1
+Human	Blood	Disease	Effector T cell	CD247	positive	1	1
+Human	Blood	Disease	Effector T cell	ABHD17AP6	positive	1	1
+Human	Blood	Disease	Effector T cell	HMGN1P28	positive	1	1
+Human	Blood	Disease	Effector T cell	LINC00944	positive	1	1
+Human	Blood	Disease	Effector T cell	CMC1	positive	1	1
+Human	Blood	Disease	Effector T cell	GNLY	positive	1	1
+Human	Blood	Disease	Effector T cell	TLR3	positive	1	1
+Human	Blood	Disease	Effector T cell	AL356055.1	positive	1	1
+Human	Blood	Disease	Effector T cell	GZMM	positive	1	1
+Human	Blood	Disease	Effector T cell	NPTX1	positive	1	1
+Human	Blood	Disease	Effector T cell	CST7	positive	1	1
+Human	Blood	Disease	Effector T cell	TGFBR3	positive	1	1
+Human	Blood	Disease	Effector T cell	CCDC178	positive	1	1
+Human	Blood	Disease	Effector T cell	FLJ22447	positive	1	1
+Human	Blood	Disease	Effector T cell	AC078814.4	positive	1	1
+Human	Blood	Disease	Effector T cell	AC007570.1	positive	1	1
+Human	Blood	Disease	Effector T cell	GLI3	positive	1	1
+Human	Blood	Disease	Effector T cell	MXRA7	positive	1	1
+Human	Blood	Disease	Effector T cell	TBC1D19	positive	1	1
+Human	Blood	Disease	Effector T cell	TTC22	positive	1	1
+Human	Blood	Disease	Effector T cell	JAKMIP1	positive	1	1
+Human	Blood	Disease	Effector T cell	PTPN4	positive	1	1
+Human	Blood	Disease	Effector T cell	AC023824.4	positive	1	1
+Human	Blood	Disease	Effector T cell	PHLDB2	positive	1	1
+Human	Blood	Disease	Effector T cell	ATP1A3	positive	1	1
+Human	Blood	Disease	Effector T cell	AC020743.1	positive	1	1
+Human	Blood	Disease	Effector T cell	GPR68	positive	1	1
+Human	Blood	Disease	Effector T cell	UCP3	positive	1	1
+Human	Blood	Disease	Effector T cell	RPL21P88	positive	1	1
+Human	Blood	Disease	Effector T cell	TIGIT	positive	1	1
+Human	Blood	Disease	Effector T cell	MRPS18CP4	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	CLEC4C	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	MYBL2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	TMEM210	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	PTPRS	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC097375.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	TNFRSF11B	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	KCNK17	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC011491.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	SCT	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	PROC	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AL357143.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	COL26A1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	SLC12A3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	KCNA5	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	LINC02099	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	EPHB1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	KIRREL3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AL353692.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC091874.3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	LINC01478	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC008740.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	CHCHD2P4	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	C19orf81	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	CUX2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AL355075.5	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	NAT8L	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	UBE2V2P2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	SMIM5	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC011193.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	TRAF4	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC087499.7	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC104819.3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	EPHA2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC010487.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AL357793.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC015720.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC005262.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	HHIP-AS1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	KRT8P45	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC008696.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	LILRA4	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	TSPAN1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	MIR921	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AL355340.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	TTC39A	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	PKD1L1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	GUCY2D	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC105137.3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	KCNG2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	TTC24	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC091013.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	MARK2P16	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	MAP1A	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC097637.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	FAM160A1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	MIR4476	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	OR2B2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	SNORD116-17	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	TNFRSF21	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	FAM196A	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	VANGL2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	LINC01724	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC245369.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC005041.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AP002490.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	LINC02206	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	NLRP7	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC007938.3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	PPM1J	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	ZFAT	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AJAP1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	SNRPGP7	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	MSH4	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AL357153.3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	CABP1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	DERL3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	DNASE1L3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	LINC02387	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	ZBTB45P2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	C1orf186	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	PHEX	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	RNU5F-1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC080112.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC079795.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	SNORA36B	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	ADCY1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AL359715.5	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC026202.3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	SCAMP5	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC006994.2	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AP002358.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	EEF1E1-BLOC1S5	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC013355.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	RSPH1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	GPR39	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AL031584.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AC011726.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	AP003110.1	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	ASXL3	positive	1	1
+Human	Blood	Disease	Plasmacytoid dendritic cell	MIR3648-2	positive	1	1
+Human	Blood	Disease	Dendritic cell	GHRL	positive	1	1
+Human	Blood	Disease	Dendritic cell	ENHO	positive	1	1
+Human	Blood	Disease	Dendritic cell	PKIB	positive	1	1
+Human	Blood	Disease	Dendritic cell	SLC25A5P1	positive	1	1
+Human	Blood	Disease	Dendritic cell	HLA-DRB6	positive	1	1
+Human	Blood	Disease	Dendritic cell	AL691447.2	positive	1	1
+Human	Blood	Disease	Dendritic cell	ANKRD65	positive	1	1
+Human	Blood	Disease	Dendritic cell	ARNTL2	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC243725.1	positive	1	1
+Human	Blood	Disease	Dendritic cell	LGR4	positive	1	1
+Human	Blood	Disease	Dendritic cell	ZNF259P1	positive	1	1
+Human	Blood	Disease	Dendritic cell	CLEC10A	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC019130.1	positive	1	1
+Human	Blood	Disease	Dendritic cell	AP002358.2	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC024587.1	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC092868.1	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC022695.3	positive	1	1
+Human	Blood	Disease	Dendritic cell	RNU5D-1	positive	1	1
+Human	Blood	Disease	Dendritic cell	AP002414.1	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC106730.1	positive	1	1
+Human	Blood	Disease	Dendritic cell	PPP1R42	positive	1	1
+Human	Blood	Disease	Dendritic cell	CXorf21	positive	1	1
+Human	Blood	Disease	Dendritic cell	RNY3P15	positive	1	1
+Human	Blood	Disease	Dendritic cell	ASCL4	positive	1	1
+Human	Blood	Disease	Dendritic cell	SORD2P	positive	1	1
+Human	Blood	Disease	Dendritic cell	MIR6781	positive	1	1
+Human	Blood	Disease	Dendritic cell	PPP1R3G	positive	1	1
+Human	Blood	Disease	Dendritic cell	DTNA	positive	1	1
+Human	Blood	Disease	Dendritic cell	LY86	positive	1	1
+Human	Blood	Disease	Dendritic cell	NAPSB	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC092803.2	positive	1	1
+Human	Blood	Disease	Dendritic cell	TLR7	positive	1	1
+Human	Blood	Disease	Dendritic cell	FABP5P2	positive	1	1
+Human	Blood	Disease	Dendritic cell	CETP	positive	1	1
+Human	Blood	Disease	Dendritic cell	CTAGE16P	positive	1	1
+Human	Blood	Disease	Dendritic cell	RHEBP3	positive	1	1
+Human	Blood	Disease	Dendritic cell	HLA-DMB	positive	1	1
+Human	Blood	Disease	Dendritic cell	RASL10A	positive	1	1
+Human	Blood	Disease	Dendritic cell	AL355987.2	positive	1	1
+Human	Blood	Disease	Dendritic cell	CLIC2	positive	1	1
+Human	Blood	Disease	Dendritic cell	LINC01337	positive	1	1
+Human	Blood	Disease	Dendritic cell	HLA-DMA	positive	1	1
+Human	Blood	Disease	Dendritic cell	CD207	positive	1	1
+Human	Blood	Disease	Dendritic cell	TIFAB	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC009630.1	positive	1	1
+Human	Blood	Disease	Dendritic cell	DLX4	positive	1	1
+Human	Blood	Disease	Dendritic cell	DLGAP3	positive	1	1
+Human	Blood	Disease	Dendritic cell	SYK	positive	1	1
+Human	Blood	Disease	Dendritic cell	SH3BP4	positive	1	1
+Human	Blood	Disease	Dendritic cell	SUMO1P4	positive	1	1
+Human	Blood	Disease	Dendritic cell	TMEM202-AS1	positive	1	1
+Human	Blood	Disease	Dendritic cell	AL365273.2	positive	1	1
+Human	Blood	Disease	Dendritic cell	ADPRH	positive	1	1
+Human	Blood	Disease	Dendritic cell	CCRL2	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC010343.2	positive	1	1
+Human	Blood	Disease	Dendritic cell	FAM96AP2	positive	1	1
+Human	Blood	Disease	Dendritic cell	MYO1E	positive	1	1
+Human	Blood	Disease	Dendritic cell	MRC1	positive	1	1
+Human	Blood	Disease	Dendritic cell	CHIT1	positive	1	1
+Human	Blood	Disease	Dendritic cell	EIF4A1P2	positive	1	1
+Human	Blood	Disease	Dendritic cell	NREP	positive	1	1
+Human	Blood	Disease	Dendritic cell	ALCAM	positive	1	1
+Human	Blood	Disease	Dendritic cell	ZNF768	positive	1	1
+Human	Blood	Disease	Dendritic cell	ZBED1	positive	1	1
+Human	Blood	Disease	Dendritic cell	FAM90A1	positive	1	1
+Human	Blood	Disease	Dendritic cell	RNU6-650P	positive	1	1
+Human	Blood	Disease	Dendritic cell	ST14	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC093627.4	positive	1	1
+Human	Blood	Disease	Dendritic cell	HLA-DRB1	positive	1	1
+Human	Blood	Disease	Dendritic cell	GAS6	positive	1	1
+Human	Blood	Disease	Dendritic cell	BMP2K	positive	1	1
+Human	Blood	Disease	Dendritic cell	DYNLL1P7	positive	1	1
+Human	Blood	Disease	Dendritic cell	IGSF11-AS1	positive	1	1
+Human	Blood	Disease	Dendritic cell	PRR13P1	positive	1	1
+Human	Blood	Disease	Dendritic cell	SOWAHD	positive	1	1
+Human	Blood	Disease	Dendritic cell	OPN3	positive	1	1
+Human	Blood	Disease	Dendritic cell	CD1E	positive	1	1
+Human	Blood	Disease	Dendritic cell	GAPDHP69	positive	1	1
+Human	Blood	Disease	Dendritic cell	PEA15	positive	1	1
+Human	Blood	Disease	Dendritic cell	SORD	positive	1	1
+Human	Blood	Disease	Dendritic cell	LINC02228	positive	1	1
+Human	Blood	Disease	Dendritic cell	CYB5R2	positive	1	1
+Human	Blood	Disease	Dendritic cell	AHCYP2	positive	1	1
+Human	Blood	Disease	Dendritic cell	CTSH	positive	1	1
+Human	Blood	Disease	Dendritic cell	HIST1H3A	positive	1	1
+Human	Blood	Disease	Dendritic cell	ANOS2P	positive	1	1
+Human	Blood	Disease	Dendritic cell	IQCD	positive	1	1
+Human	Blood	Disease	Dendritic cell	ENTPD1	positive	1	1
+Human	Blood	Disease	Dendritic cell	TTC7A	positive	1	1
+Human	Blood	Disease	Dendritic cell	AL160408.2	positive	1	1
+Human	Blood	Disease	Dendritic cell	AP001330.5	positive	1	1
+Human	Blood	Disease	Dendritic cell	C1GALT1P1	positive	1	1
+Human	Blood	Disease	Dendritic cell	SDS	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC091180.4	positive	1	1
+Human	Blood	Disease	Dendritic cell	ITIH1	positive	1	1
+Human	Blood	Disease	Dendritic cell	YBX3	positive	1	1
+Human	Blood	Disease	Dendritic cell	C2orf88	positive	1	1
+Human	Blood	Disease	Dendritic cell	AC008040.1	positive	1	1
+Human	Blood	Disease	Dendritic cell	LINC01907	positive	1	1
+Human	Blood	Disease	Dendritic cell	SLX1B-SULT1A4	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC008750.5	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	GZMA	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	NKG7	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	HOPX	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	PRF1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CST7	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	KLRD1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CCL4	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	GNLY	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	RGS9	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	FGFBP2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	GZMH	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TRDC	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	HBA1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC068775.2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	KLRC2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AL031846.1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	FCRL6	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	LAIR2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	ENPP5	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	MTCO1P31	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CTSW	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CACNA2D2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	C1orf21	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	LINC02084	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	IL2RB	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AL358394.2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	IFNG	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	S1PR5	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	PROX2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TBX21	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	FEZ1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	KIR3DX1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC092535.2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC092718.8	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	GZMB	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TGFBR3	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	SLC4A4	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TRGC1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	LGR6	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	GRIK2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC103702.2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC243829.4	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AL035701.1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	EOMES	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CTD-3080P12.3	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	ADGRG1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TRGVA	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	XCL2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC017104.3	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TRGJ2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	XCL1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TBKBP1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC011997.1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	PHLDB2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC243829.1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	LRFN2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	ITPRIPL1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CLDND2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	MATK	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	B3GAT1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC243829.2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	GLB1L2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	FAR2P2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TRGJP2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TOGARAM2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	BFSP1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	EFNA5	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TRGV10	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC114489.1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	DTHD1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	RPS29P32	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	KIR3DL2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	KLRK1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CCL5	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CMC1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	SIGLEC17P	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TMEM171	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	COLQ	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	KLRC3	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	F2R	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	FTX-2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	KIR2DL4	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	PDZD4	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	DLG5	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	TSPOAP1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CCL4L2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	NCALD	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	RHOBTB3	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	PCDHB13	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	SPON2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	KLRF1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC044802.2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC026150.2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AC006033.2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	MYOM2	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	AL158071.3	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CLIC3	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	KLRC1	positive	1	1
+Human	Blood	Disease	Gamma delta T cell	CCL3L3	positive	1	1
+Human	Blood	Disease	Plasma cell	TNFRSF17	positive	1	1
+Human	Blood	Disease	Plasma cell	AL139094.1	positive	1	1
+Human	Blood	Disease	Plasma cell	GPRC5D	positive	1	1
+Human	Blood	Disease	Plasma cell	GLDCP1	positive	1	1
+Human	Blood	Disease	Plasma cell	TDRD5	positive	1	1
+Human	Blood	Disease	Plasma cell	IL6RP1	positive	1	1
+Human	Blood	Disease	Plasma cell	SLC16A14	positive	1	1
+Human	Blood	Disease	Plasma cell	MZB1	positive	1	1
+Human	Blood	Disease	Plasma cell	NPIPB8	positive	1	1
+Human	Blood	Disease	Plasma cell	IGKV2D-30	positive	1	1
+Human	Blood	Disease	Plasma cell	AC245369.1	positive	1	1
+Human	Blood	Disease	Plasma cell	MYEOV	positive	1	1
+Human	Blood	Disease	Plasma cell	SDR16C5	positive	1	1
+Human	Blood	Disease	Plasma cell	IGHV3-72	positive	1	1
+Human	Blood	Disease	Plasma cell	RN7SL752P	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLV3-7	positive	1	1
+Human	Blood	Disease	Plasma cell	TXNDC5	positive	1	1
+Human	Blood	Disease	Plasma cell	IGHV3-25	positive	1	1
+Human	Blood	Disease	Plasma cell	LINC00582	positive	1	1
+Human	Blood	Disease	Plasma cell	AC134698.2	positive	1	1
+Human	Blood	Disease	Plasma cell	AC104699.1	positive	1	1
+Human	Blood	Disease	Plasma cell	AC104170.1	positive	1	1
+Human	Blood	Disease	Plasma cell	AC012123.1	positive	1	1
+Human	Blood	Disease	Plasma cell	TRIM55	positive	1	1
+Human	Blood	Disease	Plasma cell	AC012236.1	positive	1	1
+Human	Blood	Disease	Plasma cell	AC026333.3	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLV1-36	positive	1	1
+Human	Blood	Disease	Plasma cell	PSMC1P6	positive	1	1
+Human	Blood	Disease	Plasma cell	IGHV1-69	positive	1	1
+Human	Blood	Disease	Plasma cell	AC245028.1	positive	1	1
+Human	Blood	Disease	Plasma cell	AC012447.1	positive	1	1
+Human	Blood	Disease	Plasma cell	AC245369.3	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLV6-57	positive	1	1
+Human	Blood	Disease	Plasma cell	AC040963.1	positive	1	1
+Human	Blood	Disease	Plasma cell	KYNUP1	positive	1	1
+Human	Blood	Disease	Plasma cell	AL138749.1	positive	1	1
+Human	Blood	Disease	Plasma cell	RNU4-26P	positive	1	1
+Human	Blood	Disease	Plasma cell	HOXD9	positive	1	1
+Human	Blood	Disease	Plasma cell	MTCO3P20	positive	1	1
+Human	Blood	Disease	Plasma cell	AL031666.1	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLC4	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLJ7	positive	1	1
+Human	Blood	Disease	Plasma cell	DERL3	positive	1	1
+Human	Blood	Disease	Plasma cell	VPREB1	positive	1	1
+Human	Blood	Disease	Plasma cell	PKHD1L1	positive	1	1
+Human	Blood	Disease	Plasma cell	COL4A4	positive	1	1
+Human	Blood	Disease	Plasma cell	IGHJ2P	positive	1	1
+Human	Blood	Disease	Plasma cell	BHLHA15	positive	1	1
+Human	Blood	Disease	Plasma cell	ARHGAP42	positive	1	1
+Human	Blood	Disease	Plasma cell	BTN1A1	positive	1	1
+Human	Blood	Disease	Plasma cell	RN7SKP106	positive	1	1
+Human	Blood	Disease	Plasma cell	IGKV3OR2-268	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLVI-70	positive	1	1
+Human	Blood	Disease	Plasma cell	IGHV3-53	positive	1	1
+Human	Blood	Disease	Plasma cell	ZBTB32	positive	1	1
+Human	Blood	Disease	Plasma cell	AC245166.3	positive	1	1
+Human	Blood	Disease	Plasma cell	IGKV2D-28	positive	1	1
+Human	Blood	Disease	Plasma cell	IGHA2	positive	1	1
+Human	Blood	Disease	Plasma cell	OR5H1	positive	1	1
+Human	Blood	Disease	Plasma cell	AC011330.1	positive	1	1
+Human	Blood	Disease	Plasma cell	AP000785.2	positive	1	1
+Human	Blood	Disease	Plasma cell	AP002852.2	positive	1	1
+Human	Blood	Disease	Plasma cell	IGKV1-12	positive	1	1
+Human	Blood	Disease	Plasma cell	AC023347.1	positive	1	1
+Human	Blood	Disease	Plasma cell	KCNN3	positive	1	1
+Human	Blood	Disease	Plasma cell	ZC2HC1B	positive	1	1
+Human	Blood	Disease	Plasma cell	IGKV2-30	positive	1	1
+Human	Blood	Disease	Plasma cell	ZYG11A	positive	1	1
+Human	Blood	Disease	Plasma cell	LINC00707	positive	1	1
+Human	Blood	Disease	Plasma cell	MCCD1	positive	1	1
+Human	Blood	Disease	Plasma cell	IGKV3-15	positive	1	1
+Human	Blood	Disease	Plasma cell	E2F7	positive	1	1
+Human	Blood	Disease	Plasma cell	TEX49	positive	1	1
+Human	Blood	Disease	Plasma cell	AC007386.2	positive	1	1
+Human	Blood	Disease	Plasma cell	IGHV3-29	positive	1	1
+Human	Blood	Disease	Plasma cell	NLRP7	positive	1	1
+Human	Blood	Disease	Plasma cell	TBC1D27	positive	1	1
+Human	Blood	Disease	Plasma cell	SNORD16	positive	1	1
+Human	Blood	Disease	Plasma cell	AC104316.2	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLJ1	positive	1	1
+Human	Blood	Disease	Plasma cell	AC026202.2	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLV3-16	positive	1	1
+Human	Blood	Disease	Plasma cell	AL133467.1	positive	1	1
+Human	Blood	Disease	Plasma cell	HHIP-AS1	positive	1	1
+Human	Blood	Disease	Plasma cell	IGHV3-20	positive	1	1
+Human	Blood	Disease	Plasma cell	RGS13	positive	1	1
+Human	Blood	Disease	Plasma cell	IGHV3-21	positive	1	1
+Human	Blood	Disease	Plasma cell	AC003986.3	positive	1	1
+Human	Blood	Disease	Plasma cell	AC026150.3	positive	1	1
+Human	Blood	Disease	Plasma cell	RNU4-61P	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLV1-47	positive	1	1
+Human	Blood	Disease	Plasma cell	IGKV4-1	positive	1	1
+Human	Blood	Disease	Plasma cell	CDC25A	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLV9-49	positive	1	1
+Human	Blood	Disease	Plasma cell	AP002358.1	positive	1	1
+Human	Blood	Disease	Plasma cell	IGLL4P	positive	1	1
+Human	Blood	Disease	Plasma cell	ELFN1-AS1	positive	1	1
+Human	Blood	Disease	Plasma cell	SLC23A1	positive	1	1
+Human	Blood	Disease	Plasma cell	ILDR1	positive	1	1
+Human	Blood	Disease	Plasma cell	BMP8B	positive	1	1
+Human	Blood	Disease	Macrophage	TMEM144	positive	1	1
+Human	Blood	Disease	Macrophage	AK2P2	positive	1	1
+Human	Blood	Disease	Macrophage	AC008878.3	positive	1	1
+Human	Blood	Disease	Macrophage	KIF3C	positive	1	1
+Human	Blood	Disease	Macrophage	TSGA13	positive	1	1
+Human	Blood	Disease	Macrophage	AC124319.4	positive	1	1
+Human	Blood	Disease	Macrophage	SCARB1	positive	1	1
+Human	Blood	Disease	Macrophage	AC068722.2	positive	1	1
+Human	Blood	Disease	Macrophage	AC106037.1	positive	1	1
+Human	Blood	Disease	Macrophage	AKR7A3	positive	1	1
+Human	Blood	Disease	Macrophage	LINC00106	positive	1	1
+Human	Blood	Disease	Macrophage	Z83843.1	positive	1	1
+Human	Blood	Disease	Macrophage	AL356801.1	positive	1	1
+Human	Blood	Disease	Macrophage	MIR24-2	positive	1	1
+Human	Blood	Disease	Macrophage	U6	positive	1	1
+Human	Blood	Disease	Macrophage	NPIPB4	positive	1	1
+Human	Blood	Disease	Macrophage	SEMA6A-AS1	positive	1	1
+Human	Blood	Disease	Macrophage	PPIAP16	positive	1	1
+Human	Blood	Disease	Macrophage	AP002490.2	positive	1	1
+Human	Blood	Disease	Macrophage	RN7SL127P	positive	1	1
+Human	Blood	Disease	Macrophage	CLTCL1	positive	1	1
+Human	Blood	Disease	Macrophage	AL135999.1	positive	1	1
+Human	Blood	Disease	Macrophage	RN7SKP104	positive	1	1
+Human	Blood	Disease	Macrophage	SGK494	positive	1	1
+Human	Blood	Disease	Macrophage	AC090114.3	positive	1	1
+Human	Blood	Disease	Macrophage	RN7SL657P	positive	1	1
+Human	Blood	Disease	Macrophage	NFYC-AS1	positive	1	1
+Human	Blood	Disease	Macrophage	AC026765.1	positive	1	1
+Human	Blood	Disease	Macrophage	GPM6BP3	positive	1	1
+Human	Blood	Disease	Macrophage	LINC00656	positive	1	1
+Human	Blood	Disease	Macrophage	AC096992.2	positive	1	1
+Human	Blood	Disease	Macrophage	PSMD6-AS2	positive	1	1
+Human	Blood	Disease	Macrophage	RNU6-950P	positive	1	1
+Human	Blood	Disease	Macrophage	LRRC27	positive	1	1
+Human	Blood	Disease	Macrophage	AC114490.2	positive	1	1
+Human	Blood	Disease	Macrophage	AC105074.1	positive	1	1
+Human	Blood	Disease	Macrophage	AC097504.1	positive	1	1
+Human	Blood	Disease	Macrophage	TMPRSS9	positive	1	1
+Human	Blood	Disease	Macrophage	SIGLEC15	positive	1	1
+Human	Blood	Disease	Macrophage	AC087501.4	positive	1	1
+Human	Blood	Disease	Macrophage	HSPE1P13	positive	1	1
+Human	Blood	Disease	Macrophage	IQCJ-SCHIP1	positive	1	1
+Human	Blood	Disease	Macrophage	NIFKP3	positive	1	1
+Human	Blood	Disease	Macrophage	FAM157C	positive	1	1
+Human	Blood	Disease	Macrophage	AC008125.1	positive	1	1
+Human	Blood	Disease	Macrophage	RPS3AP43	positive	1	1
+Human	Blood	Disease	Macrophage	AL022328.2	positive	1	1
+Human	Blood	Disease	Macrophage	BPIFB1	positive	1	1
+Human	Blood	Disease	Macrophage	PDGFRB	positive	1	1
+Human	Blood	Disease	Macrophage	CACNB4	positive	1	1
+Human	Blood	Disease	Macrophage	ARHGEF5	positive	1	1
+Human	Blood	Disease	Macrophage	AC068669.1	positive	1	1
+Human	Blood	Disease	Macrophage	AC244131.2	positive	1	1
+Human	Blood	Disease	Macrophage	HIST1H3D	positive	1	1
+Human	Blood	Disease	Macrophage	GTF2IP20	positive	1	1
+Human	Blood	Disease	Macrophage	AC073862.2	positive	1	1
+Human	Blood	Disease	Macrophage	ZBTB45	positive	1	1
+Human	Blood	Disease	Macrophage	SNORA67	positive	1	1
+Human	Blood	Disease	Macrophage	AC002511.2	positive	1	1
+Human	Blood	Disease	Macrophage	HNRNPDP1	positive	1	1
+Human	Blood	Disease	Macrophage	GOLGA5P1	positive	1	1
+Human	Blood	Disease	Macrophage	AC022150.4	positive	1	1
+Human	Blood	Disease	Macrophage	EIF2S2P3	positive	1	1
+Human	Blood	Disease	Macrophage	4-Sep	positive	1	1
+Human	Blood	Disease	Macrophage	ANGPTL4	positive	1	1
+Human	Blood	Disease	Macrophage	AC239799.1	positive	1	1
+Human	Blood	Disease	Macrophage	RN7SL105P	positive	1	1
+Human	Blood	Disease	Macrophage	SULT1A3	positive	1	1
+Human	Blood	Disease	Macrophage	AC027104.1	positive	1	1
+Human	Blood	Disease	Macrophage	AC021087.2	positive	1	1
+Human	Blood	Disease	Macrophage	GAPDHP44	positive	1	1
+Human	Blood	Disease	Macrophage	MIR544B	positive	1	1
+Human	Blood	Disease	Macrophage	AC004987.1	positive	1	1
+Human	Blood	Disease	Macrophage	CC2D2B	positive	1	1
+Human	Blood	Disease	Macrophage	GNA11	positive	1	1
+Human	Blood	Disease	Macrophage	SLC1A3	positive	1	1
+Human	Blood	Disease	Macrophage	AL157392.1	positive	1	1
+Human	Blood	Disease	Macrophage	WBP2NL	positive	1	1
+Human	Blood	Disease	Macrophage	OR52K1	positive	1	1
+Human	Blood	Disease	Macrophage	MIR4727	positive	1	1
+Human	Blood	Disease	Macrophage	MIR4315-1	positive	1	1
+Human	Blood	Disease	Macrophage	AC025166.1	positive	1	1
+Human	Blood	Disease	Macrophage	AC104170.2	positive	1	1
+Human	Blood	Disease	Macrophage	ELOBP2	positive	1	1
+Human	Blood	Disease	Macrophage	HMGB3P9	positive	1	1
+Human	Blood	Disease	Macrophage	AC106791.1	positive	1	1
+Human	Blood	Disease	Macrophage	AL359182.2	positive	1	1
+Human	Blood	Disease	Macrophage	AL035587.1	positive	1	1
+Human	Blood	Disease	Macrophage	ST3GAL5-AS1	positive	1	1
+Human	Blood	Disease	Macrophage	HSPA7	positive	1	1
+Human	Blood	Disease	Macrophage	AC124319.1	positive	1	1
+Human	Blood	Disease	Macrophage	OMD	positive	1	1
+Human	Blood	Disease	Macrophage	AC106788.2	positive	1	1
+Human	Blood	Disease	Macrophage	AL022163.1	positive	1	1
+Human	Blood	Disease	Macrophage	PIF1	positive	1	1
+Human	Blood	Disease	Macrophage	AL353622.1	positive	1	1
+Human	Blood	Disease	Macrophage	AC130469.2	positive	1	1
+Human	Blood	Disease	Macrophage	AC015688.5	positive	1	1
+Human	Blood	Disease	Macrophage	AC132938.2	positive	1	1
+Human	Blood	Disease	Macrophage	AGAP4	positive	1	1
+Human	Blood	Disease	Mast cell	MS4A3	positive	1	1
+Human	Blood	Disease	Mast cell	GATA2	positive	1	1
+Human	Blood	Disease	Mast cell	IL1RL1	positive	1	1
+Human	Blood	Disease	Mast cell	LINC02458	positive	1	1
+Human	Blood	Disease	Mast cell	CD200R1L	positive	1	1
+Human	Blood	Disease	Mast cell	TCN1	positive	1	1
+Human	Blood	Disease	Mast cell	AC068189.2	positive	1	1
+Human	Blood	Disease	Mast cell	CPA3	positive	1	1
+Human	Blood	Disease	Mast cell	OR6N1	positive	1	1
+Human	Blood	Disease	Mast cell	MRPS17P9	positive	1	1
+Human	Blood	Disease	Mast cell	ITGB8	positive	1	1
+Human	Blood	Disease	Mast cell	SLC45A3	positive	1	1
+Human	Blood	Disease	Mast cell	MS4A2	positive	1	1
+Human	Blood	Disease	Mast cell	RPL26P34	positive	1	1
+Human	Blood	Disease	Mast cell	AC100801.1	positive	1	1
+Human	Blood	Disease	Mast cell	PRSS3	positive	1	1
+Human	Blood	Disease	Mast cell	HDC	positive	1	1
+Human	Blood	Disease	Mast cell	CCR3	positive	1	1
+Human	Blood	Disease	Mast cell	RNU1-3	positive	1	1
+Human	Blood	Disease	Mast cell	NDUFB1P2	positive	1	1
+Human	Blood	Disease	Mast cell	CCNA1	positive	1	1
+Human	Blood	Disease	Mast cell	IL4	positive	1	1
+Human	Blood	Disease	Mast cell	CLC	positive	1	1
+Human	Blood	Disease	Mast cell	AL162497.1	positive	1	1
+Human	Blood	Disease	Mast cell	PCAT18	positive	1	1
+Human	Blood	Disease	Mast cell	CACNG8	positive	1	1
+Human	Blood	Disease	Mast cell	RN7SL494P	positive	1	1
+Human	Blood	Disease	Mast cell	AC107081.2	positive	1	1
+Human	Blood	Disease	Mast cell	MTND6P5	positive	1	1
+Human	Blood	Disease	Mast cell	ITIH2	positive	1	1
+Human	Blood	Disease	Mast cell	AL031733.1	positive	1	1
+Human	Blood	Disease	Mast cell	CNOT10-AS1	positive	1	1
+Human	Blood	Disease	Mast cell	AC008609.1	positive	1	1
+Human	Blood	Disease	Mast cell	AL050404.1	positive	1	1
+Human	Blood	Disease	Mast cell	TRPM6	positive	1	1
+Human	Blood	Disease	Mast cell	RNY1P16	positive	1	1
+Human	Blood	Disease	Mast cell	AP001178.2	positive	1	1
+Human	Blood	Disease	Mast cell	LINC00635	positive	1	1
+Human	Blood	Disease	Mast cell	AC087071.2	positive	1	1
+Human	Blood	Disease	Mast cell	AL031429.1	positive	1	1
+Human	Blood	Disease	Mast cell	TAL1	positive	1	1
+Human	Blood	Disease	Mast cell	SNORA28	positive	1	1
+Human	Blood	Disease	Mast cell	RPL36AP33	positive	1	1
+Human	Blood	Disease	Mast cell	AC112178.1	positive	1	1
+Human	Blood	Disease	Mast cell	AC055874.1	positive	1	1
+Human	Blood	Disease	Mast cell	GCSAML	positive	1	1
+Human	Blood	Disease	Mast cell	KY	positive	1	1
+Human	Blood	Disease	Mast cell	CDH2	positive	1	1
+Human	Blood	Disease	Mast cell	DNAJC19P5	positive	1	1
+Human	Blood	Disease	Mast cell	RP1L1	positive	1	1
+Human	Blood	Disease	Mast cell	LINC01513	positive	1	1
+Human	Blood	Disease	Mast cell	AP003071.4	positive	1	1
+Human	Blood	Disease	Mast cell	OR2I1P	positive	1	1
+Human	Blood	Disease	Mast cell	LRGUK	positive	1	1
+Human	Blood	Disease	Mast cell	C10orf82	positive	1	1
+Human	Blood	Disease	Mast cell	AC018462.1	positive	1	1
+Human	Blood	Disease	Mast cell	NRADDP	positive	1	1
+Human	Blood	Disease	Mast cell	AC097493.4	positive	1	1
+Human	Blood	Disease	Mast cell	AKAP12	positive	1	1
+Human	Blood	Disease	Mast cell	AC051619.3	positive	1	1
+Human	Blood	Disease	Mast cell	AC010201.2	positive	1	1
+Human	Blood	Disease	Mast cell	RHOXF1P2	positive	1	1
+Human	Blood	Disease	Mast cell	AC116407.1	positive	1	1
+Human	Blood	Disease	Mast cell	AP003086.1	positive	1	1
+Human	Blood	Disease	Mast cell	FCF1P1	positive	1	1
+Human	Blood	Disease	Mast cell	IGLV3-17	positive	1	1
+Human	Blood	Disease	Mast cell	CA8	positive	1	1
+Human	Blood	Disease	Mast cell	FAM86B1	positive	1	1
+Human	Blood	Disease	Mast cell	RNU1-78P	positive	1	1
+Human	Blood	Disease	Mast cell	GATA1	positive	1	1
+Human	Blood	Disease	Mast cell	AC009159.1	positive	1	1
+Human	Blood	Disease	Mast cell	OR6K5P	positive	1	1
+Human	Blood	Disease	Mast cell	RNU6-767P	positive	1	1
+Human	Blood	Disease	Mast cell	AC119800.1	positive	1	1
+Human	Blood	Disease	Mast cell	AMZ2P2	positive	1	1
+Human	Blood	Disease	Mast cell	AL132657.2	positive	1	1
+Human	Blood	Disease	Mast cell	AC133473.1	positive	1	1
+Human	Blood	Disease	Mast cell	PTENP1-AS	positive	1	1
+Human	Blood	Disease	Mast cell	AC004839.1	positive	1	1
+Human	Blood	Disease	Mast cell	HRH4	positive	1	1
+Human	Blood	Disease	Mast cell	AC108463.3	positive	1	1
+Human	Blood	Disease	Mast cell	AC243919.1	positive	1	1
+Human	Blood	Disease	Mast cell	NUCB1-AS1	positive	1	1
+Human	Blood	Disease	Mast cell	AC090772.3	positive	1	1
+Human	Blood	Disease	Mast cell	LINC01835	positive	1	1
+Human	Blood	Disease	Mast cell	LINC01341	positive	1	1
+Human	Blood	Disease	Mast cell	MIR3197	positive	1	1
+Human	Blood	Disease	Mast cell	ADRA1B	positive	1	1
+Human	Blood	Disease	Mast cell	AL137856.1	positive	1	1
+Human	Blood	Disease	Mast cell	AC110921.1	positive	1	1
+Human	Blood	Disease	Mast cell	AL606760.3	positive	1	1
+Human	Blood	Disease	Mast cell	AC079316.2	positive	1	1
+Human	Blood	Disease	Mast cell	AC114786.1	positive	1	1
+Human	Blood	Disease	Mast cell	GABBR2	positive	1	1
+Human	Blood	Disease	Mast cell	AC103993.1	positive	1	1
+Human	Blood	Disease	Mast cell	AC103987.1	positive	1	1
+Human	Blood	Disease	Mast cell	MIR4435-2	positive	1	1
+Human	Blood	Disease	Mast cell	RNU6-1228P	positive	1	1
+Human	Blood	Disease	Mast cell	AC090888.2	positive	1	1
+Human	Blood	Disease	Mast cell	SCARNA18B	positive	1	1
+Human	Blood	Disease	Keratinocyte	LY6D	positive	1	1
+Human	Blood	Disease	Keratinocyte	S100A14	positive	1	1
+Human	Blood	Disease	Keratinocyte	CLDN1	positive	1	1
+Human	Blood	Disease	Keratinocyte	TNNI3	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC005725.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	AL021368.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	LYPD4	positive	1	1
+Human	Blood	Disease	Keratinocyte	SLC25A21-AS1	positive	1	1
+Human	Blood	Disease	Keratinocyte	LSAMP	positive	1	1
+Human	Blood	Disease	Keratinocyte	HRASLS	positive	1	1
+Human	Blood	Disease	Keratinocyte	AP001453.2	positive	1	1
+Human	Blood	Disease	Keratinocyte	LINC01281	positive	1	1
+Human	Blood	Disease	Keratinocyte	FUT7	positive	1	1
+Human	Blood	Disease	Keratinocyte	POM121L8P	positive	1	1
+Human	Blood	Disease	Keratinocyte	CCDC120	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC100812.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	AL096865.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	PLEKHA5	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC063923.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	CYLC1	positive	1	1
+Human	Blood	Disease	Keratinocyte	MAGEA10	positive	1	1
+Human	Blood	Disease	Keratinocyte	AL132639.3	positive	1	1
+Human	Blood	Disease	Keratinocyte	AP003499.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	RASSF8-AS1	positive	1	1
+Human	Blood	Disease	Keratinocyte	COL17A1	positive	1	1
+Human	Blood	Disease	Keratinocyte	PTK7	positive	1	1
+Human	Blood	Disease	Keratinocyte	SHD	positive	1	1
+Human	Blood	Disease	Keratinocyte	PLIN4	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC073657.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC099568.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	RN7SL654P	positive	1	1
+Human	Blood	Disease	Keratinocyte	MKS1	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC004596.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	KCNAB1	positive	1	1
+Human	Blood	Disease	Keratinocyte	RAB11FIP3	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC016590.3	positive	1	1
+Human	Blood	Disease	Keratinocyte	DPP3P1	positive	1	1
+Human	Blood	Disease	Keratinocyte	OR7E111P	positive	1	1
+Human	Blood	Disease	Keratinocyte	KLHL13	positive	1	1
+Human	Blood	Disease	Keratinocyte	GSTM1	positive	1	1
+Human	Blood	Disease	Keratinocyte	ADGRL1	positive	1	1
+Human	Blood	Disease	Keratinocyte	STAB2	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC097103.2	positive	1	1
+Human	Blood	Disease	Keratinocyte	AL008582.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC009948.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	LINC01547	positive	1	1
+Human	Blood	Disease	Keratinocyte	TLK2P2	positive	1	1
+Human	Blood	Disease	Keratinocyte	RSPH10B	positive	1	1
+Human	Blood	Disease	Keratinocyte	HOXB-AS3	positive	1	1
+Human	Blood	Disease	Keratinocyte	RNA5SP450	positive	1	1
+Human	Blood	Disease	Keratinocyte	EIF4BP2	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC007598.3	positive	1	1
+Human	Blood	Disease	Keratinocyte	CRTC1	positive	1	1
+Human	Blood	Disease	Keratinocyte	SALL1P1	positive	1	1
+Human	Blood	Disease	Keratinocyte	PLXNA4	positive	1	1
+Human	Blood	Disease	Keratinocyte	ALMS1	positive	1	1
+Human	Blood	Disease	Keratinocyte	ZFAT	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC089987.2	positive	1	1
+Human	Blood	Disease	Keratinocyte	EEF1E1-BLOC1S5	positive	1	1
+Human	Blood	Disease	Keratinocyte	L3HYPDH	positive	1	1
+Human	Blood	Disease	Keratinocyte	DYNC1I1	positive	1	1
+Human	Blood	Disease	Keratinocyte	TMEM158	positive	1	1
+Human	Blood	Disease	Keratinocyte	TCAF2	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC109486.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	SNHG28	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC087498.2	positive	1	1
+Human	Blood	Disease	Keratinocyte	CDH1	positive	1	1
+Human	Blood	Disease	Keratinocyte	SDHAP3	positive	1	1
+Human	Blood	Disease	Keratinocyte	TUBG2	positive	1	1
+Human	Blood	Disease	Keratinocyte	FIGN	positive	1	1
+Human	Blood	Disease	Keratinocyte	DCBLD2	positive	1	1
+Human	Blood	Disease	Keratinocyte	MIR1278	positive	1	1
+Human	Blood	Disease	Keratinocyte	PDE3A	positive	1	1
+Human	Blood	Disease	Keratinocyte	CARF	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC243830.2	positive	1	1
+Human	Blood	Disease	Keratinocyte	GAPDHP20	positive	1	1
+Human	Blood	Disease	Keratinocyte	MCC	positive	1	1
+Human	Blood	Disease	Keratinocyte	FOXRED2	positive	1	1
+Human	Blood	Disease	Keratinocyte	GPR1	positive	1	1
+Human	Blood	Disease	Keratinocyte	PTPN14	positive	1	1
+Human	Blood	Disease	Keratinocyte	SVEP1	positive	1	1
+Human	Blood	Disease	Keratinocyte	KRT18P37	positive	1	1
+Human	Blood	Disease	Keratinocyte	PIM3	positive	1	1
+Human	Blood	Disease	Keratinocyte	RPP40	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC073651.2	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC104332.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	FGF14-AS2	positive	1	1
+Human	Blood	Disease	Keratinocyte	AL662800.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	PDCD2L	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC234582.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	NRP1	positive	1	1
+Human	Blood	Disease	Keratinocyte	DNM3	positive	1	1
+Human	Blood	Disease	Keratinocyte	RHOXF1-AS1	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC022387.2	positive	1	1
+Human	Blood	Disease	Keratinocyte	AL161722.2	positive	1	1
+Human	Blood	Disease	Keratinocyte	CCDC183	positive	1	1
+Human	Blood	Disease	Keratinocyte	STK35	positive	1	1
+Human	Blood	Disease	Keratinocyte	AC126120.1	positive	1	1
+Human	Blood	Disease	Keratinocyte	TMEM256P1	positive	1	1
+Human	Blood	Disease	Keratinocyte	CD109	positive	1	1

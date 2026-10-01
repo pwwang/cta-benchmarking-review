@@ -1,0 +1,41 @@
+# --------------------------------------------------------------------------
+# WHAT   Evaluation settings: which columns carry truth (`seurat_annotations`) and the
+#        partition (`RNA_snn_res.0.5`), the label mapping file, the R-baseline RSS to
+#        subtract, and the DECLARED Section 6 settings block.
+# REVIEW Section 6 metrics. `cluster = "RNA_snn_res.0.5"` here is the column a
+#        cluster-level arm must key on; keying on anything else is the aliasing defect.
+# RUN    make eval DS=pbmc3k
+# SOURCE harness/benchmark/pbmc3k/eval.toml
+# --------------------------------------------------------------------------
+# Evaluation settings for the pbmc3k dataset: `make eval DS=pbmc3k`
+name = "CellTypeAnnotationEval"
+
+[Collect.envs]
+ds = "pbmc3k"
+splits = ["train", "test"]
+# Read from benchmark/<ds>/data/<ds>_<split>.qs (truth + cluster columns).
+truth = "seurat_annotations"
+cluster = "RNA_snn_res.0.5"
+mapping = "benchmark/pbmc3k/mapping.tsv"
+# Peak RSS of a bare `Rscript -e 'library(Seurat)'`, subtracted from every arm's
+# peak RSS to give `peak_mb_delta`. Measured 2026-09-10, mean of 3 runs:
+# 419988 / 420356 / 420376 kB (R 4.4.3, Seurat 5.4.0).
+baseline_mb = 410.4
+
+# Section 6 settings header. These are DECLARED here, not measured from the
+# annotation artifacts -- keep them in sync with run-test.toml / data-prep.R.
+[Collect.envs.settings]
+split_seed = 8525
+rank_prob_ratio = 1.01
+num_unknown = 500
+lambdas = "NULL"
+norm = "weight"
+use_sensitivity = false
+# hitype's own weight-learning settings. `cv_folds = 1` means no internal cross-validation
+# (hitype's default) whereas garnett runs three-fold CV -- disclose it next to every table
+# instead of silently comparing against a cross-validated comparator. Measured effect of
+# cv_folds = 3 on the CellMarker table: 652 vs 493 markers kept, 443 shared, weight
+# correlation 0.975, mean |delta| 0.024.
+hitype_cv_folds = 1
+# The weight-learning method used by arms whose name does not carry one.
+hitype_method = "glmnet"

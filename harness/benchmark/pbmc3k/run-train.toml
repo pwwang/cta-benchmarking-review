@@ -1,0 +1,34 @@
+# --------------------------------------------------------------------------
+# WHAT   Train-split arm roster (pipeline CellTypeAnnotation_pbmc3k_train): binds each arm
+#        to its trained Garnett classifier or hitype weight table.
+# SOURCE harness/benchmark/pbmc3k/run-train.toml
+# --------------------------------------------------------------------------
+
+# simpleconf-loader: liq
+name = "CellTypeAnnotation_pbmc3k_train"
+
+[InputData.in]
+infile = "benchmark/pbmc3k/data/pbmc3k_train.qs"
+
+{% for m in [
+    "ScTypeDBShort", "ScTypeDBFull", "scCATCH", "CellMarker",
+    "AutoPos8525", "AutoPos8526", "AutoPos8527", "AutoBoth",
+    "ScTypeDBShortPos", "ScTypeDBFullPos", "scCATCHPos", "CellMarkerPos",
+    "PanglaoDB"
+] %}
+[CellTypeAnnotation_Garnett_{{m}}.envs.garnett]
+rank_prob_ratio = 1.01
+classifier = "MarkerTraining_pbmc3k-output/GarnettClassifierTrainer_{{m}}/pbmc3k_train.classifier.RDS"
+{% endfor %}
+
+{% for m in [
+    "ScTypeDBShort", "ScTypeDBFull", "scCATCH", "CellMarker",
+    "AutoPos8525", "AutoPos8526", "AutoPos8527", "AutoBoth",
+    "ScTypeDBShortPos", "ScTypeDBFullPos", "scCATCHPos", "CellMarkerPos",
+    "PanglaoDB"
+] %}
+[CellTypeAnnotation_Hitype_{{m}}.envs.hitype]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+norm = "weight"
+use_sensitivity = false
+{% endfor %}

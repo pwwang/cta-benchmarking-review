@@ -1,0 +1,12 @@
+# --------------------------------------------------------------------------
+# WHAT   Marker-training config for gse96583 (pipeline MarkerTraining_gse96583); the
+#        identity column here is `type`.
+# SOURCE harness/benchmark/gse96583/train.toml
+# --------------------------------------------------------------------------
+name = "MarkerTraining_gse96583"
+
+[InputData.in]
+infile = "benchmark/gse96583/data/gse96583_train.qs"
+
+[HitypeWeightTrainer_ScTypeDBfull.envs]
+ident = "type"

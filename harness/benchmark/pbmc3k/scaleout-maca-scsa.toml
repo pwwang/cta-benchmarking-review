@@ -1,0 +1,55 @@
+# --------------------------------------------------------------------------
+# WHAT   Config for scaleout-maca-scsa.py -- the 26 MACA/SCSA arms on pbmc3k.
+#        Pipeline name: CellTypeAnnotation_pbmc3k_maca_scsa_scaleout
+# REVIEW Section 6: adds the MACA/SCSA arms to the pbmc3k roster.
+# SOURCE harness/benchmark/pbmc3k/scaleout-maca-scsa.toml
+# --------------------------------------------------------------------------
+# simpleconf-loader: liq
+# Scoped-run config for the MACA/SCSA scale-out on pbmc3k: exactly the 26 arms
+# declared in src/cell_type_annotation/run-test.py, driven by
+#   uv run src/cell_type_annotation/scaleout-maca-scsa.py @benchmark/pbmc3k/scaleout-maca-scsa.toml
+# (a plain run-test.py run would schedule the whole roster and stop at the first
+# unconfigured arm). `name` is distinct from the benchmark pipelines so nothing
+# collides with CellTypeAnnotation_pbmc3k_test-output.
+#
+# `python` is the interpreter the wrapper scripts run with: the harness's own uv
+# venv python has no scanpy/anndata/maca, so point it at an interpreter that
+# carries the modernized MACA fork + scanpy 1.12.2 + igraph/leidenalg.
+#
+# SCSA is cluster-level, so it needs `ident` at the arm level (`envs.ident`, the
+# level the other cluster-level arms -- sctype/sccatch/scsorter -- use). With
+# `ident` unset biopipen resolves the identity column from the object, and
+# data-prep.R sets Idents() to seurat_annotations, i.e. the ground truth.
+name = "CellTypeAnnotation_pbmc3k_maca_scsa_scaleout"
+error_strategy = "ignore"
+
+[InputData.in]
+infile = "benchmark/pbmc3k/data/pbmc3k_test.qs"
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_MACA_{{m}}.envs.maca]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+python = "python3"   # CONFIGURE: an interpreter with scanpy/anndata + MACA/SCSA (README, "Configuration")
+
+[CellTypeAnnotation_SCSA_{{m}}.envs]
+ident = "seurat_clusters"
+
+[CellTypeAnnotation_SCSA_{{m}}.envs.scsa]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+python = "python3"   # CONFIGURE: an interpreter with scanpy/anndata + MACA/SCSA (README, "Configuration")
+
+{% endfor %}

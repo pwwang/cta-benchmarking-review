@@ -1,0 +1,67 @@
+# --------------------------------------------------------------------------
+# WHAT   Repair config #2: the 26 arms the first repair run never reached (scCATCH x13,
+#        scSorter x13). Pipeline name CellTypeAnnotation_gse96583_clusterfix2.
+# REVIEW Section 6 keying repair / Figure 3. Pairs with clusterfix2-gse96583.py.
+# SOURCE harness/benchmark/gse96583/clusterfix2.toml
+# --------------------------------------------------------------------------
+# simpleconf-loader: liq
+# Scoped-run config #2 for the cluster-mapping fix on gse96583: the 26 cluster-level arms
+# that the first clusterfix run never reached -- scCATCH x13 and scSorter x13, driven by
+#   uv run src/cell_type_annotation/clusterfix2-gse96583.py @benchmark/gse96583/clusterfix2.toml
+#
+# The defect (workspace-docs/CLUSTER-MAPPING-DEFECT.md): data-prep.R loops FindClusters over
+# 7 resolutions, so `seurat_clusters` is an alias for the LAST one (1.5 -> 32 clusters),
+# while benchmark/gse96583/eval.toml expands the labels over `RNA_snn_res.0.5` (24 clusters).
+# eval.py matches cluster ids as strings, so a label written for the res-1.5 partition lands
+# on a different cell group. Every cluster-level arm below therefore declares `ident` at ARM
+# level (envs.ident -- the level the tool templates read for the identity column; putting it
+# under envs.<tool>.ident would be silently ignored) and points it at the column the
+# evaluation actually uses.
+#
+# Why a second run: the first one declared all 54 cluster-level arms, but ScType has only 4
+# arms in the gse96583 roster and `CellTypeAnnotation_ScType_CellMarker` fails there. With
+# `error_strategy = "ignore"` pipen breaks out of the proc loop at the first failure while
+# still exiting 0, and it does NOT resume (`Cached jobs: 0`), so that run stopped after the
+# 19 good arms (13 SCSA + ScType_AutoBoth/AutoPos8525-27 + 2 ScInfeR) and never started any
+# scCATCH/scSorter arm. Scoping this run to scCATCH+scSorter keeps the schedule at
+# InputData + 26 arms and off the failing ScType arm entirely.
+#
+# `name` is distinct from every existing pipeline, so nothing on disk is overwritten:
+#   CellTypeAnnotation_gse96583_test-output            <- pre-fix run (32-cluster tables), kept
+#   CellTypeAnnotation_gse96583_maca_scsa_scaleout     <- MACA/SCSA scale-out, kept
+#   CellTypeAnnotation_gse96583_clusterfix-output      <- first fix run (19 arms), kept
+name = "CellTypeAnnotation_gse96583_clusterfix2"
+error_strategy = "ignore"
+
+[InputData.in]
+infile = "benchmark/gse96583/data/gse96583_test.qs"
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_scCATCH_{{m}}.envs]
+ident = "RNA_snn_res.0.5"
+
+[CellTypeAnnotation_scCATCH_{{m}}.envs.sccatch]
+tissue = "Blood"
+marker = "MarkerTraining_gse96583-output/HitypeWeightTrainer_{{m}}/gse96583_train.hitype.tissue.tsv"
+
+[CellTypeAnnotation_scSorter_{{m}}.envs]
+ident = "RNA_snn_res.0.5"
+
+[CellTypeAnnotation_scSorter_{{m}}.envs.scsorter]
+db = "MarkerTraining_gse96583-output/HitypeWeightTrainer_{{m}}/gse96583_train.hitype.pos.tsv#cell_type,gene"
+
+{% endfor %}

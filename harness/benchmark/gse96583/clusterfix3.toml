@@ -1,0 +1,60 @@
+# --------------------------------------------------------------------------
+# WHAT   Repair config #3: the 13 ScType cluster-level arms, recomputed against the
+#        guarded sctype_score(). Pipeline name CellTypeAnnotation_gse96583_clusterfix3.
+# REVIEW Section 6 keying repair / Figure 3. Pairs with clusterfix3-gse96583.py and with
+#        the patch in ../patches/.
+# SOURCE harness/benchmark/gse96583/clusterfix3.toml
+# --------------------------------------------------------------------------
+# simpleconf-loader: liq
+# clusterfix3 -- the 13 ScType cluster-level arms, recomputed against the GUARDED
+# sctype_score (biopipen.utils 0.4.9, locally patched; see ../patches/README.md).
+#
+# Why a third scoped run:
+#   CellTypeAnnotation_gse96583_clusterfix   (20 of 54 arms) -- died at
+#       CellTypeAnnotation_ScType_CellMarker with
+#       "Error in data.frame(cluster = cl, type = names(es.max.cl), scores = es.max.cl) :
+#        arguments imply differing number of rows: 1, 0"
+#       root cause: scale() in sctype_score() yields NaN for zero-variance genes, one such
+#       gene in a cell type's marker set makes that cell type's score vector all-NA, all cell
+#       types get dropped, es.max ends up 0 x ncells -> rowSums() is numeric(0) -> data.frame()
+#       fails.  ScType is the only tool that calls sctype_score(), so only ScType arms are
+#       affected.
+#   CellTypeAnnotation_gse96583_clusterfix2  (26 of 54 arms: scCATCH x13 + scSorter x13)
+#       completed cleanly at 22:12-23:00, before the patch was installed; those two tool
+#       families never call sctype_score(), so they are unaffected and are reused as-is.
+#
+# This run recomputes ALL 13 ScType arms (not just the 8 that never produced a table) so the
+# whole ScType family is one consistently-guarded set.  New pipeline name -> nothing existing
+# is written to.
+#
+# `ident` is declared at ARM level (envs.ident) -- the level the tool templates read for the
+# identity column -- and points at the column benchmark/gse96583/eval.toml expands over.
+name = "CellTypeAnnotation_gse96583_clusterfix3"
+error_strategy = "ignore"
+forks = 1
+
+[InputData.in]
+infile = "benchmark/gse96583/data/gse96583_test.qs"
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_ScType_{{m}}.envs]
+ident = "RNA_snn_res.0.5"
+
+[CellTypeAnnotation_ScType_{{m}}.envs.sctype]
+db = "MarkerTraining_gse96583-output/HitypeWeightTrainer_{{m}}/gse96583_train.hitype.tsv"
+
+{% endfor %}

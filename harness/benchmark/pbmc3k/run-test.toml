@@ -1,0 +1,274 @@
+# --------------------------------------------------------------------------
+# WHAT   Test-split arm roster (pipeline CellTypeAnnotation_pbmc3k_test), the config that
+#        run-test.py consumes. error_strategy = "ignore" is what lets a failing arm end the
+#        remaining schedule with exit code 0 (see check_arms.py).
+# REVIEW Section 6 / Supplementary Table S3: the pbmc3k demonstration roster.
+# RUN    uv run src/cell_type_annotation/run-test.py @benchmark/pbmc3k/run-test.toml
+# SOURCE harness/benchmark/pbmc3k/run-test.toml
+# --------------------------------------------------------------------------
+# simpleconf-loader: liq
+name = "CellTypeAnnotation_pbmc3k_test"
+error_strategy = "ignore"
+
+[InputData.in]
+infile = "benchmark/pbmc3k/data/pbmc3k_test.qs"
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_Garnett_{{m}}.envs.garnett]
+rank_prob_ratio = 1.01
+classifier = "MarkerTraining_pbmc3k-output/GarnettClassifierTrainer_{{m}}/pbmc3k_train.classifier.RDS"
+
+{% endfor %}
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_Hitype_{{m}}.envs.hitype]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+norm = "weight"
+use_sensitivity = false
+
+{% endfor %}
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_SCINA_{{m}}.envs.scina]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+
+{% endfor %}
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_CelliD_{{m}}.envs.cellid]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+
+{% endfor %}
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_ScType_{{m}}.envs]
+ident = "RNA_snn_res.0.5"
+
+[CellTypeAnnotation_ScType_{{m}}.envs.sctype]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+
+{% endfor %}
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_scCATCH_{{m}}.envs]
+ident = "RNA_snn_res.0.5"
+
+[CellTypeAnnotation_scCATCH_{{m}}.envs.sccatch]
+tissue = "Blood"
+marker = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tissue.tsv"
+
+{% endfor %}
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_scSorter_{{m}}.envs]
+ident = "RNA_snn_res.0.5"
+
+[CellTypeAnnotation_scSorter_{{m}}.envs.scsorter]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.pos.tsv#cell_type,gene"
+
+{% endfor %}
+
+{% for m in ["ScTypeDBFull", "CellMarker", "AutoPos8525"] %}
+[CellTypeAnnotation_UCell_{{m}}.envs.ucell]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+
+{% endfor %}
+
+{% for m in ["ScTypeDBFull", "CellMarker", "AutoPos8525"] %}
+[CellTypeAnnotation_AUCell_{{m}}.envs.aucell]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+
+{% endfor %}
+
+{% for m in ["ScTypeDBFull", "CellMarker", "AutoPos8525"] %}
+[CellTypeAnnotation_GSVA_{{m}}.envs.gsva]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+
+{% endfor %}
+
+{% for m in ["ScTypeDBFull", "CellMarker", "AutoPos8525"] %}
+[CellTypeAnnotation_singscore_{{m}}.envs.singscore]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+
+{% endfor %}
+
+{% for m in ["ScTypeDBFull", "CellMarker"] %}
+[CellTypeAnnotation_ScInfeR_{{m}}.envs]
+ident = "RNA_snn_res.0.5"
+
+[CellTypeAnnotation_ScInfeR_{{m}}.envs.scinfer]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+reduction = "umap"
+
+{% endfor %}
+
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+{% for M in ["UNIFORM", "CORRELATION", "LR", "RF", "XGB"] %}
+[CellTypeAnnotation_Hitype_{{m}}_{{M}}.envs.hitype]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}_{{M}}/pbmc3k_train.hitype.tsv"
+norm = "weight"
+use_sensitivity = false
+
+{% endfor %}
+{% endfor %}
+
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "PanglaoDB",
+    "AutoBoth",
+] %}
+[CellTypeAnnotation_Garnett_{{m}}_Documented.envs.garnett]
+rank_prob_ratio = 1.01
+classifier = "MarkerTraining_pbmc3k-output/GarnettClassifierTrainer_{{m}}_Documented/pbmc3k_train.classifier.RDS"
+
+{% endfor %}
+
+
+# MACA (cell-level) and SCSA (cluster-level) across the full 13-resource roster.
+# `python` is required: point it at an interpreter that has scanpy/anndata/maca.
+# SCSA is cluster-level, so it carries the same
+# `ident = "RNA_snn_res.0.5"` the cluster-level arms above use -- with `ident`
+# unset biopipen falls back to Idents(), which data-prep.R sets to
+# seurat_annotations, i.e. the ground truth.
+{% for m in [
+    "ScTypeDBShort",
+    "ScTypeDBFull",
+    "scCATCH",
+    "CellMarker",
+    "AutoPos8525",
+    "AutoPos8526",
+    "AutoPos8527",
+    "AutoBoth",
+    "ScTypeDBShortPos",
+    "ScTypeDBFullPos",
+    "scCATCHPos",
+    "CellMarkerPos",
+    "PanglaoDB",
+] %}
+[CellTypeAnnotation_MACA_{{m}}.envs.maca]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+python = "python3"   # CONFIGURE: an interpreter with scanpy/anndata + MACA/SCSA (README, "Configuration")
+
+[CellTypeAnnotation_SCSA_{{m}}.envs]
+ident = "RNA_snn_res.0.5"
+
+[CellTypeAnnotation_SCSA_{{m}}.envs.scsa]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_{{m}}/pbmc3k_train.hitype.tsv"
+python = "python3"   # CONFIGURE: an interpreter with scanpy/anndata + MACA/SCSA (README, "Configuration")
+
+{% endfor %}

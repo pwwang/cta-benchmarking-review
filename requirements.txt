@@ -1,0 +1,49 @@
+# Python dependencies for the replication package.
+# Derived by reading the imports of every script shipped here; no version pins
+# are given because none were verified against a frozen environment.
+
+# ---------------------------------------------------------------------------
+# THE AUDIT (audit/, paths.py)
+# ---------------------------------------------------------------------------
+# Nothing extra: the search, retrieval, screening and coding steps use only the
+# Python standard library:
+#   urllib.request, urllib.error, urllib.parse, json, ssl, os, sys, re, csv,
+#   glob, subprocess, time, unicodedata, html, xml.etree.ElementTree
+# No polars, no requests, no pandas -- deliberately: the retrieval and coding
+# steps use only the stdlib so the package runs on a bare Python install.
+# ---------------------------------------------------------------------------
+
+# Non-Python requirement: `curl` must be on PATH for the retrieval scripts.
+
+# ---------------------------------------------------------------------------
+# DEMONSTRATION SIDE (harness/, analysis/, figures/)
+# ---------------------------------------------------------------------------
+# The audit scripts above deliberately need next to nothing. The demonstration
+# side is a different story: it runs a pipeline that executes many R and Python
+# annotation tools. Read this as a guide, not as an installable lock-file.
+
+# Python
+matplotlib          # figures/make_figures.py, figures/fig3_aliasing_cost.py
+polars              # analysis/*.py
+numpy               # analysis/*.py, reconcile_core.py
+
+# The pipeline harness itself is built on pipen; the annotation steps live in
+# biopipen, which the authors' harness imports. Pin these to the versions in the
+# environment the results were produced with before depositing.
+pipen
+biopipen
+
+# biopipen.utils is PATCHED: see patches/. The ScType arms crash without it.
+# Install into the R library your harness Rscript searches -- generic form:
+#   R CMD INSTALL --library="$(Rscript -e 'cat(.libPaths()[1])')" <biopipen.utils checkout>
+biopipen.utils      # >= 0.4.9, carrying the patch in patches/
+
+# R side: Seurat + SeuratData are required by benchmark/*/data-prep.R and by the
+# R-backed arms (SCSA, scCATCH, ScType, scSorter, Garnett, ...).
+# R 4.4.x was used, with biopipen installed into its library tree.
+
+# NOTE ON reconcile_core.py
+# reconcile_core.py is the aggregator core the analysis scripts import (Vocabulary, fit,
+# membership_matrix), extracted from the authors' aggregation implementation and limited to
+# what analysis/*.py actually calls. It needs numpy only -- polars is used by the scripts
+# themselves, and by the frame they pass to membership_matrix.

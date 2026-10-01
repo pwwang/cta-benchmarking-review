@@ -1,0 +1,90 @@
+# ---------------------------------------------------------------------------
+# Caches and downloaded third-party material. NEVER commit these.
+# ---------------------------------------------------------------------------
+# Cached API responses (_raw/) and raw page/PDF copies (raw/). The cached
+# responses can contain publisher-author contact addresses, and the PDFs/HTML
+# belong to their publishers, so neither can be redistributed.
+_raw/
+raw/
+fulltext/
+_ft/
+
+# Downloaded paper PDFs (copyrighted; re-fetch with audit/fetch_oa_pdfs.py etc.)
+*.pdf
+# Downloaded XML/HTML full texts, saved next to whatever they came from
+*.xml
+
+
+# ---------------------------------------------------------------------------
+# Generated data outputs. Regenerable by re-running the scripts in this
+# package (see README, "How to reproduce"); not redistributed here.
+# ---------------------------------------------------------------------------
+# `data/` is the default root every generated output resolves to (see paths.py)
+data/
+*.qs
+*.tsv
+*_resolved.json
+*_ordered.json
+*_cite_order.json
+*.docx
+*.doc
+output/
+outputs/
+out/
+build-artifacts/
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# ---------------------------------------------------------------------------
+# Transient session scratch and one-off probes. The curation rule behind this
+# package (README, "Curation rule") keeps these OUT of the published tree; they
+# are listed here so a stray probe cannot be committed by accident.
+# ---------------------------------------------------------------------------
+.probe-*
+.*probe*
+zz-*
+cf-probe*
+cf-diag*
+check-*.sh
+wait-*.sh
+watch-*.sh
+*probe*.sh
+why-died.sh
+kill-*
+stop-*
+_inspect/
+_stage/
+scratch/
+# sandbox used while verifying a patch: cloned upstream repo + before/after files.
+# Never publish it (it carries third-party sources and author metadata).
+.verify/
+
+# ---------------------------------------------------------------------------
+# OS / editor
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+~$*
+
+# ---------------------------------------------------------------------------
+# NEGATIONS -- load-bearing, and deliberately LAST: in .gitignore the last
+# matching rule wins, and the broad `*.tsv` / `*.pdf` rules above would
+# otherwise silently drop these. Without them a plain `git add .` leaves out
+# the per-dataset mappings and the harness cannot run.
+# ---------------------------------------------------------------------------
+!harness/benchmark/*/mapping.tsv
+!figures/*.pdf
+figures/
+supplementary/

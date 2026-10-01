@@ -1,0 +1,109 @@
+# --------------------------------------------------------------------------
+# WHAT   Unified diff (additive, two guards) fixing the ScType crash in
+#        biopipen.utils::sctype_score() / .run_celltypeannotation_sctype().
+#        Apply with:  git apply <this file>   (or: patch -p1 < <this file>)
+# WHY    The review's corrected ScType numbers (Section 6, Figure 3,
+#        Supplementary Table S3) require these 13 arms to complete.
+# REVIEW Section 6 keying repair / Figure 3. REQUIRES: nothing else.
+# SEE    README.md in this directory for the crash, the root cause, the exact
+#        R CMD INSTALL command and the round-trip verification.
+# SOURCE biopipen.utils R/scrna-celltype-annotation.R, commit 5c4507d,
+#        extracted with: git show --format= 5c4507d -- R/scrna-celltype-annotation.R
+# --------------------------------------------------------------------------
+diff --git a/R/scrna-celltype-annotation.R b/R/scrna-celltype-annotation.R
+index d223ba0..1be0cb1 100644
+--- a/R/scrna-celltype-annotation.R
++++ b/R/scrna-celltype-annotation.R
+@@ -359,6 +359,15 @@ sctype_score <- function(scRNAseqData, scaled = !0, gs, gs2 = NULL, gene_names_t
+   # z-scale if not
+   print("  sctype_score: Z-scaling ...")
+   if(!scaled) Z <- t(scale(t(scRNAseqData))) else Z <- scRNAseqData
++  # GUARD (local patch for the gse96583 cluster-mapping fix): scale() returns NaN
++  # for genes with zero variance in the given cells (all-zero genes are plentiful
++  # here -- the marker table comes from the train split, the scoring matrix from the
++  # test split). A single such gene in a cell type's marker set turns that cell
++  # type's whole score vector into NaN, .run_celltypeannotation_sctype() then drops
++  # the row as all-NA, and es.max can end up with 0 rows -> "arguments imply
++  # differing number of rows: 1, 0". A zero-variance gene cannot discriminate
++  # anything, so its z-score contribution is taken to be 0.
++  Z[!is.finite(Z)] <- 0
+ 
+   # multiple by marker sensitivity
+   print("  sctype_score: Multiplying by marker sensitivity ...")
+@@ -571,28 +580,57 @@ sctype_score <- function(scRNAseqData, scaled = !0, gs, gs2 = NULL, gene_names_t
+         log$info("  Merging cell-type scores by cluster ...")
+         cl_resutls <- do_call(
+             "rbind",
+-            lapply(
+-                idents,
+-                function(cl) {
+-                    es.max.cl <- sort(
+-                        rowSums(es.max[
+-                            ,
+-                            rownames(object@meta.data[
+-                                object@meta.data[[ident]] == cl,
+-                            ])
+-                        ]),
+-                        decreasing = !0
+-                    )
+-                    head(data.frame(
+-                        cluster = cl,
+-                        type = names(es.max.cl),
+-                        scores = es.max.cl,
+-                        ncells = sum(object@meta.data[[ident]] == cl)
+-                    ), 10)
+-                }
++            Filter(
++                Negate(is.null),
++                lapply(
++                    idents,
++                    function(cl) {
++                        es.max.cl <- sort(
++                            rowSums(es.max[
++                                ,
++                                rownames(object@meta.data[
++                                    object@meta.data[[ident]] == cl,
++                                ]),
++                                drop = FALSE
++                            ]),
++                            decreasing = !0
++                        )
++                        # GUARD (local patch for the gse96583 cluster-mapping fix):
++                        # when sctype_score() returns a 0-row score matrix (every cell
++                        # type dropped as all-NA -- see the z-scaling guard above),
++                        # rowSums() is numeric(0) and
++                        #     data.frame(cluster = cl, type = names(es.max.cl), ...)
++                        # fails with "arguments imply differing number of rows: 1, 0".
++                        # Skip this cluster; it is labelled "Unknown" below.
++                        if (length(es.max.cl) == 0) {
++                            log$info(
++                                "  [guard] no scores for cluster {cl}; 'Unknown'."
++                            )
++                            return(NULL)
++                        }
++                        head(data.frame(
++                            cluster = cl,
++                            type = names(es.max.cl),
++                            scores = es.max.cl,
++                            ncells = sum(object@meta.data[[ident]] == cl)
++                        ), 10)
++                    }
++                )
+             )
+         )
+ 
++        if (is.null(cl_resutls) || nrow(cl_resutls) == 0) {
++            # GUARD (same patch): nothing scored at this level. Degrade to "Unknown"
++            # for every cluster instead of letting data.frame()/dplyr crash the job.
++            log$info(
++                "  [guard] no cell type scored; labelling all clusters 'Unknown'."
++            )
++            unknown <- rep("Unknown", length(idents))
++            names(unknown) <- idents
++            cell_types_list[[i]] <- unknown
++            next
++        }
++
+         sctype_scores <- cl_resutls %>%
+             group_by(cluster) %>%
+             slice_max(scores, n = 1, with_ties = TRUE)

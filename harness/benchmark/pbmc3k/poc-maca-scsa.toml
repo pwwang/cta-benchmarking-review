@@ -1,0 +1,24 @@
+# --------------------------------------------------------------------------
+# WHAT   Config for poc-maca-scsa.py -- the two-arm MACA/SCSA proof of concept.
+#        Pipeline name: CellTypeAnnotation_pbmc3k_maca_scsa_poc
+# REVIEW Background only; superseded by scaleout-maca-scsa.toml.
+# SOURCE harness/benchmark/pbmc3k/poc-maca-scsa.toml
+# --------------------------------------------------------------------------
+# simpleconf-loader: liq
+name = "CellTypeAnnotation_pbmc3k_maca_scsa_poc"
+error_strategy = "ignore"
+
+[InputData.in]
+infile = "benchmark/pbmc3k/data/pbmc3k_test.qs"
+
+# `python` (set below) is the interpreter the wrapper scripts run with. The harness's
+# own uv venv python has neither scanpy/anndata nor the tools, so point it at a python
+# that carries the modernized MACA fork + scanpy/igraph/leidenalg.
+[CellTypeAnnotation_MACA_AutoPos8525.envs.maca]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_AutoPos8525/pbmc3k_train.hitype.tsv"
+python = "python3"   # CONFIGURE: an interpreter with scanpy/anndata + MACA/SCSA (README, "Configuration")
+
+[CellTypeAnnotation_SCSA_AutoPos8525.envs.scsa]
+db = "MarkerTraining_pbmc3k-output/HitypeWeightTrainer_AutoPos8525/pbmc3k_train.hitype.tsv"
+python = "python3"   # CONFIGURE: an interpreter with scanpy/anndata + MACA/SCSA (README, "Configuration")
+
